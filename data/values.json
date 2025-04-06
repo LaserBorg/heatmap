@@ -1,0 +1,3004 @@
+{
+  "sensors": {
+    "0": {
+      "temperature": -12.0
+    },
+    "1": {
+      "temperature": -12.0
+    },
+    "2": {
+      "temperature": -10.8235
+    },
+    "3": {
+      "temperature": -11.2941
+    },
+    "4": {
+      "temperature": -10.5882
+    },
+    "5": {
+      "temperature": 15.0588
+    },
+    "6": {
+      "temperature": 3.2941
+    },
+    "7": {
+      "temperature": 0.7059
+    },
+    "8": {
+      "temperature": 8.4706
+    },
+    "9": {
+      "temperature": 2.1176
+    },
+    "10": {
+      "temperature": 9.1765
+    },
+    "11": {
+      "temperature": 18.5882
+    },
+    "12": {
+      "temperature": 4.7059
+    },
+    "13": {
+      "temperature": 18.1176
+    },
+    "14": {
+      "temperature": 5.1765
+    },
+    "15": {
+      "temperature": 18.1176
+    },
+    "16": {
+      "temperature": 23.7647
+    },
+    "17": {
+      "temperature": -8.0
+    },
+    "18": {
+      "temperature": 10.3529
+    },
+    "19": {
+      "temperature": 18.8235
+    },
+    "20": {
+      "temperature": 31.7647
+    },
+    "21": {
+      "temperature": -2.5882
+    },
+    "22": {
+      "temperature": 1.1765
+    },
+    "23": {
+      "temperature": 18.1176
+    },
+    "24": {
+      "temperature": -3.2941
+    },
+    "25": {
+      "temperature": 25.1765
+    },
+    "26": {
+      "temperature": 12.9412
+    },
+    "27": {
+      "temperature": 4.2353
+    },
+    "28": {
+      "temperature": 25.1765
+    },
+    "29": {
+      "temperature": 16.2353
+    },
+    "30": {
+      "temperature": 4.7059
+    },
+    "31": {
+      "temperature": -4.7059
+    },
+    "32": {
+      "temperature": 23.5294
+    },
+    "33": {
+      "temperature": -10.8235
+    },
+    "34": {
+      "temperature": -5.4118
+    },
+    "35": {
+      "temperature": 16.9412
+    },
+    "36": {
+      "temperature": 17.1765
+    },
+    "37": {
+      "temperature": 15.2941
+    },
+    "38": {
+      "temperature": 4.9412
+    },
+    "39": {
+      "temperature": 14.3529
+    },
+    "40": {
+      "temperature": 6.8235
+    },
+    "41": {
+      "temperature": 29.6471
+    },
+    "42": {
+      "temperature": 18.1176
+    },
+    "43": {
+      "temperature": 23.0588
+    },
+    "44": {
+      "temperature": 17.6471
+    },
+    "45": {
+      "temperature": 14.5882
+    },
+    "46": {
+      "temperature": -16.7059
+    },
+    "47": {
+      "temperature": 13.6471
+    },
+    "48": {
+      "temperature": 10.5882
+    },
+    "49": {
+      "temperature": 14.8235
+    },
+    "50": {
+      "temperature": -10.8235
+    },
+    "51": {
+      "temperature": 1.6471
+    },
+    "52": {
+      "temperature": 29.4118
+    },
+    "53": {
+      "temperature": 14.1176
+    },
+    "54": {
+      "temperature": -10.5882
+    },
+    "55": {
+      "temperature": 15.7647
+    },
+    "56": {
+      "temperature": 33.8824
+    },
+    "57": {
+      "temperature": 31.5294
+    },
+    "58": {
+      "temperature": 29.6471
+    },
+    "59": {
+      "temperature": 12.0
+    },
+    "60": {
+      "temperature": 13.4118
+    },
+    "61": {
+      "temperature": 16.4706
+    },
+    "62": {
+      "temperature": 16.7059
+    },
+    "63": {
+      "temperature": 25.4118
+    },
+    "64": {
+      "temperature": -10.8235
+    },
+    "65": {
+      "temperature": 38.5882
+    },
+    "66": {
+      "temperature": -1.4118
+    },
+    "67": {
+      "temperature": 25.4118
+    },
+    "68": {
+      "temperature": 38.5882
+    },
+    "69": {
+      "temperature": 38.5882
+    },
+    "70": {
+      "temperature": 1.6471
+    },
+    "71": {
+      "temperature": 34.5882
+    },
+    "72": {
+      "temperature": 16.7059
+    },
+    "73": {
+      "temperature": -1.4118
+    },
+    "74": {
+      "temperature": 8.4706
+    },
+    "75": {
+      "temperature": -10.8235
+    },
+    "76": {
+      "temperature": 22.3529
+    },
+    "77": {
+      "temperature": 10.8235
+    },
+    "78": {
+      "temperature": 1.4118
+    },
+    "79": {
+      "temperature": -4.0
+    },
+    "80": {
+      "temperature": 0.2353
+    },
+    "81": {
+      "temperature": -7.2941
+    },
+    "82": {
+      "temperature": 27.5294
+    },
+    "83": {
+      "temperature": 23.5294
+    },
+    "84": {
+      "temperature": 14.5882
+    },
+    "85": {
+      "temperature": 38.5882
+    },
+    "86": {
+      "temperature": 34.8235
+    },
+    "87": {
+      "temperature": 38.5882
+    },
+    "88": {
+      "temperature": 27.0588
+    },
+    "89": {
+      "temperature": 27.2941
+    },
+    "90": {
+      "temperature": 38.5882
+    },
+    "91": {
+      "temperature": 18.3529
+    },
+    "92": {
+      "temperature": -10.8235
+    },
+    "93": {
+      "temperature": -6.5882
+    },
+    "94": {
+      "temperature": 14.5882
+    },
+    "95": {
+      "temperature": 2.1176
+    },
+    "96": {
+      "temperature": -10.8235
+    },
+    "97": {
+      "temperature": 18.3529
+    },
+    "98": {
+      "temperature": -5.4118
+    },
+    "99": {
+      "temperature": 14.8235
+    },
+    "100": {
+      "temperature": 31.7647
+    },
+    "101": {
+      "temperature": -11.5294
+    },
+    "102": {
+      "temperature": -10.8235
+    },
+    "103": {
+      "temperature": 13.1765
+    },
+    "104": {
+      "temperature": 25.4118
+    },
+    "105": {
+      "temperature": -0.4706
+    },
+    "106": {
+      "temperature": 28.4706
+    },
+    "107": {
+      "temperature": -1.1765
+    },
+    "108": {
+      "temperature": 25.1765
+    },
+    "109": {
+      "temperature": 25.8824
+    },
+    "110": {
+      "temperature": 4.0
+    },
+    "111": {
+      "temperature": 19.5294
+    },
+    "112": {
+      "temperature": -5.1765
+    },
+    "113": {
+      "temperature": 28.7059
+    },
+    "114": {
+      "temperature": 26.5882
+    },
+    "115": {
+      "temperature": 27.0588
+    },
+    "116": {
+      "temperature": 9.1765
+    },
+    "117": {
+      "temperature": 18.1176
+    },
+    "118": {
+      "temperature": -10.8235
+    },
+    "119": {
+      "temperature": 3.5294
+    },
+    "120": {
+      "temperature": 38.5882
+    },
+    "121": {
+      "temperature": 28.9412
+    },
+    "122": {
+      "temperature": 25.4118
+    },
+    "123": {
+      "temperature": 24.4706
+    },
+    "124": {
+      "temperature": 5.1765
+    },
+    "125": {
+      "temperature": -0.4706
+    },
+    "126": {
+      "temperature": 27.5294
+    },
+    "127": {
+      "temperature": 8.2353
+    },
+    "128": {
+      "temperature": 18.1176
+    },
+    "129": {
+      "temperature": 30.1176
+    },
+    "130": {
+      "temperature": 30.1176
+    },
+    "131": {
+      "temperature": -7.0588
+    },
+    "132": {
+      "temperature": 27.2941
+    },
+    "133": {
+      "temperature": 17.4118
+    },
+    "134": {
+      "temperature": -8.9412
+    },
+    "135": {
+      "temperature": -11.2941
+    },
+    "136": {
+      "temperature": 10.8235
+    },
+    "137": {
+      "temperature": 4.4706
+    },
+    "138": {
+      "temperature": 23.5294
+    },
+    "139": {
+      "temperature": 13.6471
+    },
+    "140": {
+      "temperature": -10.8235
+    },
+    "141": {
+      "temperature": 19.2941
+    },
+    "142": {
+      "temperature": 16.7059
+    },
+    "143": {
+      "temperature": 30.3529
+    },
+    "144": {
+      "temperature": 34.3529
+    },
+    "145": {
+      "temperature": 18.1176
+    },
+    "146": {
+      "temperature": -4.9412
+    },
+    "147": {
+      "temperature": 34.3529
+    },
+    "148": {
+      "temperature": -11.2941
+    },
+    "149": {
+      "temperature": 1.8824
+    },
+    "150": {
+      "temperature": 3.5294
+    },
+    "151": {
+      "temperature": 18.1176
+    },
+    "152": {
+      "temperature": 0.2353
+    },
+    "153": {
+      "temperature": 19.0588
+    },
+    "154": {
+      "temperature": 24.2353
+    },
+    "155": {
+      "temperature": 31.0588
+    },
+    "156": {
+      "temperature": 2.5882
+    },
+    "157": {
+      "temperature": 14.5882
+    },
+    "158": {
+      "temperature": 14.3529
+    },
+    "159": {
+      "temperature": 23.2941
+    },
+    "160": {
+      "temperature": 19.2941
+    },
+    "161": {
+      "temperature": 13.4118
+    },
+    "162": {
+      "temperature": 18.1176
+    },
+    "163": {
+      "temperature": 19.0588
+    },
+    "164": {
+      "temperature": 17.8824
+    },
+    "165": {
+      "temperature": 27.5294
+    },
+    "166": {
+      "temperature": -8.9412
+    },
+    "167": {
+      "temperature": 19.2941
+    },
+    "168": {
+      "temperature": 1.6471
+    },
+    "169": {
+      "temperature": 1.4118
+    },
+    "170": {
+      "temperature": 6.8235
+    },
+    "171": {
+      "temperature": 16.9412
+    },
+    "172": {
+      "temperature": -2.5882
+    },
+    "173": {
+      "temperature": 16.2353
+    },
+    "174": {
+      "temperature": 19.0588
+    },
+    "175": {
+      "temperature": -0.4706
+    },
+    "176": {
+      "temperature": 22.1176
+    },
+    "177": {
+      "temperature": 21.8824
+    },
+    "178": {
+      "temperature": 3.0588
+    },
+    "179": {
+      "temperature": -11.2941
+    },
+    "180": {
+      "temperature": 12.0
+    },
+    "181": {
+      "temperature": -10.8235
+    },
+    "182": {
+      "temperature": 14.5882
+    },
+    "183": {
+      "temperature": -10.8235
+    },
+    "184": {
+      "temperature": -0.9412
+    },
+    "185": {
+      "temperature": 17.1765
+    },
+    "186": {
+      "temperature": -9.1765
+    },
+    "187": {
+      "temperature": -10.8235
+    },
+    "188": {
+      "temperature": 22.8235
+    },
+    "189": {
+      "temperature": -5.6471
+    },
+    "190": {
+      "temperature": -8.0
+    },
+    "191": {
+      "temperature": 6.1176
+    },
+    "192": {
+      "temperature": 3.7647
+    },
+    "193": {
+      "temperature": 5.4118
+    },
+    "194": {
+      "temperature": 17.6471
+    },
+    "195": {
+      "temperature": 0.7059
+    },
+    "196": {
+      "temperature": -5.6471
+    },
+    "197": {
+      "temperature": 22.3529
+    },
+    "198": {
+      "temperature": -10.8235
+    },
+    "199": {
+      "temperature": 14.1176
+    },
+    "200": {
+      "temperature": 2.5882
+    },
+    "201": {
+      "temperature": 38.5882
+    },
+    "202": {
+      "temperature": -10.8235
+    },
+    "203": {
+      "temperature": -10.8235
+    },
+    "204": {
+      "temperature": -5.6471
+    },
+    "205": {
+      "temperature": 13.1765
+    },
+    "206": {
+      "temperature": 18.1176
+    },
+    "207": {
+      "temperature": 20.2353
+    },
+    "208": {
+      "temperature": 16.4706
+    },
+    "209": {
+      "temperature": 12.9412
+    },
+    "210": {
+      "temperature": 27.0588
+    },
+    "211": {
+      "temperature": 6.5882
+    },
+    "212": {
+      "temperature": 1.4118
+    },
+    "213": {
+      "temperature": 15.2941
+    },
+    "214": {
+      "temperature": -9.6471
+    },
+    "215": {
+      "temperature": -4.0
+    },
+    "216": {
+      "temperature": 8.2353
+    },
+    "217": {
+      "temperature": 7.7647
+    },
+    "218": {
+      "temperature": 32.2353
+    },
+    "219": {
+      "temperature": 8.7059
+    },
+    "220": {
+      "temperature": 24.0
+    },
+    "221": {
+      "temperature": -10.8235
+    },
+    "222": {
+      "temperature": 17.6471
+    },
+    "223": {
+      "temperature": 12.2353
+    },
+    "224": {
+      "temperature": -0.7059
+    },
+    "225": {
+      "temperature": 0.7059
+    },
+    "226": {
+      "temperature": 15.2941
+    },
+    "227": {
+      "temperature": -10.8235
+    },
+    "228": {
+      "temperature": -1.6471
+    },
+    "229": {
+      "temperature": -4.2353
+    },
+    "230": {
+      "temperature": -7.2941
+    },
+    "231": {
+      "temperature": -8.0
+    },
+    "232": {
+      "temperature": 3.7647
+    },
+    "233": {
+      "temperature": 35.0588
+    },
+    "234": {
+      "temperature": -1.4118
+    },
+    "235": {
+      "temperature": -10.5882
+    },
+    "236": {
+      "temperature": -1.8824
+    },
+    "237": {
+      "temperature": 22.1176
+    },
+    "238": {
+      "temperature": 31.7647
+    },
+    "239": {
+      "temperature": 5.4118
+    },
+    "240": {
+      "temperature": 19.5294
+    },
+    "241": {
+      "temperature": -12.4706
+    },
+    "242": {
+      "temperature": 2.5882
+    },
+    "243": {
+      "temperature": 18.5882
+    },
+    "244": {
+      "temperature": 16.0
+    },
+    "245": {
+      "temperature": -0.7059
+    },
+    "246": {
+      "temperature": 37.1765
+    },
+    "247": {
+      "temperature": 30.5882
+    },
+    "248": {
+      "temperature": 21.8824
+    },
+    "249": {
+      "temperature": -2.5882
+    },
+    "250": {
+      "temperature": 17.6471
+    },
+    "251": {
+      "temperature": 31.0588
+    },
+    "252": {
+      "temperature": 5.4118
+    },
+    "253": {
+      "temperature": 14.5882
+    },
+    "254": {
+      "temperature": 2.3529
+    },
+    "255": {
+      "temperature": 33.8824
+    },
+    "256": {
+      "temperature": 29.6471
+    },
+    "257": {
+      "temperature": 27.2941
+    },
+    "258": {
+      "temperature": -3.2941
+    },
+    "259": {
+      "temperature": -8.9412
+    },
+    "260": {
+      "temperature": 2.1176
+    },
+    "261": {
+      "temperature": 36.2353
+    },
+    "262": {
+      "temperature": -5.1765
+    },
+    "263": {
+      "temperature": 17.4118
+    },
+    "264": {
+      "temperature": -8.7059
+    },
+    "265": {
+      "temperature": 10.1176
+    },
+    "266": {
+      "temperature": 9.4118
+    },
+    "267": {
+      "temperature": -10.8235
+    },
+    "268": {
+      "temperature": 0.7059
+    },
+    "269": {
+      "temperature": 23.0588
+    },
+    "270": {
+      "temperature": 4.0
+    },
+    "271": {
+      "temperature": 11.7647
+    },
+    "272": {
+      "temperature": 28.9412
+    },
+    "273": {
+      "temperature": -2.8235
+    },
+    "274": {
+      "temperature": 30.8235
+    },
+    "275": {
+      "temperature": 15.7647
+    },
+    "276": {
+      "temperature": 24.0
+    },
+    "277": {
+      "temperature": 31.5294
+    },
+    "278": {
+      "temperature": -4.4706
+    },
+    "279": {
+      "temperature": 25.6471
+    },
+    "280": {
+      "temperature": 25.8824
+    },
+    "281": {
+      "temperature": 38.5882
+    },
+    "282": {
+      "temperature": 1.6471
+    },
+    "283": {
+      "temperature": 14.5882
+    },
+    "284": {
+      "temperature": 33.8824
+    },
+    "285": {
+      "temperature": -10.8235
+    },
+    "286": {
+      "temperature": -6.5882
+    },
+    "287": {
+      "temperature": -11.2941
+    },
+    "288": {
+      "temperature": 33.8824
+    },
+    "289": {
+      "temperature": 22.1176
+    },
+    "290": {
+      "temperature": 1.4118
+    },
+    "291": {
+      "temperature": 24.7059
+    },
+    "292": {
+      "temperature": -10.8235
+    },
+    "293": {
+      "temperature": -10.8235
+    },
+    "294": {
+      "temperature": 8.9412
+    },
+    "295": {
+      "temperature": 12.9412
+    },
+    "296": {
+      "temperature": 11.0588
+    },
+    "297": {
+      "temperature": 11.7647
+    },
+    "298": {
+      "temperature": 12.4706
+    },
+    "299": {
+      "temperature": -0.4706
+    },
+    "300": {
+      "temperature": 13.1765
+    },
+    "301": {
+      "temperature": -2.5882
+    },
+    "302": {
+      "temperature": 16.2353
+    },
+    "303": {
+      "temperature": -6.1176
+    },
+    "304": {
+      "temperature": -0.9412
+    },
+    "305": {
+      "temperature": 3.7647
+    },
+    "306": {
+      "temperature": 35.7647
+    },
+    "307": {
+      "temperature": -10.3529
+    },
+    "308": {
+      "temperature": 13.1765
+    },
+    "309": {
+      "temperature": 4.4706
+    },
+    "310": {
+      "temperature": 32.2353
+    },
+    "311": {
+      "temperature": 22.1176
+    },
+    "312": {
+      "temperature": -3.7647
+    },
+    "313": {
+      "temperature": 15.0588
+    },
+    "314": {
+      "temperature": 21.1765
+    },
+    "315": {
+      "temperature": 22.8235
+    },
+    "316": {
+      "temperature": -10.8235
+    },
+    "317": {
+      "temperature": 35.0588
+    },
+    "318": {
+      "temperature": 18.1176
+    },
+    "319": {
+      "temperature": 2.8235
+    },
+    "320": {
+      "temperature": 30.1176
+    },
+    "321": {
+      "temperature": -2.3529
+    },
+    "322": {
+      "temperature": 22.8235
+    },
+    "323": {
+      "temperature": -7.5294
+    },
+    "324": {
+      "temperature": -2.8235
+    },
+    "325": {
+      "temperature": 2.8235
+    },
+    "326": {
+      "temperature": -10.8235
+    },
+    "327": {
+      "temperature": -9.8824
+    },
+    "328": {
+      "temperature": 15.7647
+    },
+    "329": {
+      "temperature": 20.4706
+    },
+    "330": {
+      "temperature": 28.4706
+    },
+    "331": {
+      "temperature": 12.9412
+    },
+    "332": {
+      "temperature": 19.7647
+    },
+    "333": {
+      "temperature": 17.8824
+    },
+    "334": {
+      "temperature": 4.2353
+    },
+    "335": {
+      "temperature": 13.6471
+    },
+    "336": {
+      "temperature": 21.6471
+    },
+    "337": {
+      "temperature": -0.4706
+    },
+    "338": {
+      "temperature": 19.0588
+    },
+    "339": {
+      "temperature": -10.8235
+    },
+    "340": {
+      "temperature": 28.4706
+    },
+    "341": {
+      "temperature": 1.8824
+    },
+    "342": {
+      "temperature": 27.7647
+    },
+    "343": {
+      "temperature": -10.8235
+    },
+    "344": {
+      "temperature": 23.2941
+    },
+    "345": {
+      "temperature": 27.0588
+    },
+    "346": {
+      "temperature": 22.5882
+    },
+    "347": {
+      "temperature": 2.1176
+    },
+    "348": {
+      "temperature": 12.0
+    },
+    "349": {
+      "temperature": 22.1176
+    },
+    "350": {
+      "temperature": -10.8235
+    },
+    "351": {
+      "temperature": -3.7647
+    },
+    "352": {
+      "temperature": 2.1176
+    },
+    "353": {
+      "temperature": 6.8235
+    },
+    "354": {
+      "temperature": -10.8235
+    },
+    "355": {
+      "temperature": 27.5294
+    },
+    "356": {
+      "temperature": 11.0588
+    },
+    "357": {
+      "temperature": 1.6471
+    },
+    "358": {
+      "temperature": -5.8824
+    },
+    "359": {
+      "temperature": -10.5882
+    },
+    "360": {
+      "temperature": 7.0588
+    },
+    "361": {
+      "temperature": 28.4706
+    },
+    "362": {
+      "temperature": 2.3529
+    },
+    "363": {
+      "temperature": -4.7059
+    },
+    "364": {
+      "temperature": 35.5294
+    },
+    "365": {
+      "temperature": -2.8235
+    },
+    "366": {
+      "temperature": 17.4118
+    },
+    "367": {
+      "temperature": -10.8235
+    },
+    "368": {
+      "temperature": 6.3529
+    },
+    "369": {
+      "temperature": -10.3529
+    },
+    "370": {
+      "temperature": 11.7647
+    },
+    "371": {
+      "temperature": 26.3529
+    },
+    "372": {
+      "temperature": 15.0588
+    },
+    "373": {
+      "temperature": -1.4118
+    },
+    "374": {
+      "temperature": 31.7647
+    },
+    "375": {
+      "temperature": -1.8824
+    },
+    "376": {
+      "temperature": 19.2941
+    },
+    "377": {
+      "temperature": 11.7647
+    },
+    "378": {
+      "temperature": 23.5294
+    },
+    "379": {
+      "temperature": -2.1176
+    },
+    "380": {
+      "temperature": 20.2353
+    },
+    "381": {
+      "temperature": 4.9412
+    },
+    "382": {
+      "temperature": 9.8824
+    },
+    "383": {
+      "temperature": -10.8235
+    },
+    "384": {
+      "temperature": 12.7059
+    },
+    "385": {
+      "temperature": -10.8235
+    },
+    "386": {
+      "temperature": 3.2941
+    },
+    "387": {
+      "temperature": -10.8235
+    },
+    "388": {
+      "temperature": 15.2941
+    },
+    "389": {
+      "temperature": -10.8235
+    },
+    "390": {
+      "temperature": 1.6471
+    },
+    "391": {
+      "temperature": 1.6471
+    },
+    "392": {
+      "temperature": 22.5882
+    },
+    "393": {
+      "temperature": 31.5294
+    },
+    "394": {
+      "temperature": 34.8235
+    },
+    "395": {
+      "temperature": 17.8824
+    },
+    "396": {
+      "temperature": -11.2941
+    },
+    "397": {
+      "temperature": 23.7647
+    },
+    "398": {
+      "temperature": 20.7059
+    },
+    "399": {
+      "temperature": 22.8235
+    },
+    "400": {
+      "temperature": 16.7059
+    },
+    "401": {
+      "temperature": 21.6471
+    },
+    "402": {
+      "temperature": 28.4706
+    },
+    "403": {
+      "temperature": -7.7647
+    },
+    "404": {
+      "temperature": 14.1176
+    },
+    "405": {
+      "temperature": 16.7059
+    },
+    "406": {
+      "temperature": 32.0
+    },
+    "407": {
+      "temperature": -9.1765
+    },
+    "408": {
+      "temperature": 11.7647
+    },
+    "409": {
+      "temperature": 1.4118
+    },
+    "410": {
+      "temperature": 10.3529
+    },
+    "411": {
+      "temperature": 14.5882
+    },
+    "412": {
+      "temperature": 33.8824
+    },
+    "413": {
+      "temperature": 23.7647
+    },
+    "414": {
+      "temperature": 23.7647
+    },
+    "415": {
+      "temperature": 31.0588
+    },
+    "416": {
+      "temperature": 13.8824
+    },
+    "417": {
+      "temperature": 4.2353
+    },
+    "418": {
+      "temperature": 20.9412
+    },
+    "419": {
+      "temperature": 31.0588
+    },
+    "420": {
+      "temperature": -0.2353
+    },
+    "421": {
+      "temperature": 13.8824
+    },
+    "422": {
+      "temperature": 23.2941
+    },
+    "423": {
+      "temperature": 2.1176
+    },
+    "424": {
+      "temperature": -10.8235
+    },
+    "425": {
+      "temperature": -10.8235
+    },
+    "426": {
+      "temperature": 14.3529
+    },
+    "427": {
+      "temperature": 13.6471
+    },
+    "428": {
+      "temperature": 30.3529
+    },
+    "429": {
+      "temperature": 13.6471
+    },
+    "430": {
+      "temperature": -2.8235
+    },
+    "431": {
+      "temperature": 33.8824
+    },
+    "432": {
+      "temperature": 0.9412
+    },
+    "433": {
+      "temperature": -3.7647
+    },
+    "434": {
+      "temperature": -10.8235
+    },
+    "435": {
+      "temperature": -4.0
+    },
+    "436": {
+      "temperature": 27.5294
+    },
+    "437": {
+      "temperature": -8.7059
+    },
+    "438": {
+      "temperature": 16.7059
+    },
+    "439": {
+      "temperature": 19.2941
+    },
+    "440": {
+      "temperature": 32.9412
+    },
+    "441": {
+      "temperature": 3.5294
+    },
+    "442": {
+      "temperature": -8.7059
+    },
+    "443": {
+      "temperature": 12.0
+    },
+    "444": {
+      "temperature": 24.0
+    },
+    "445": {
+      "temperature": 28.0
+    },
+    "446": {
+      "temperature": 19.0588
+    },
+    "447": {
+      "temperature": 16.4706
+    },
+    "448": {
+      "temperature": 18.3529
+    },
+    "449": {
+      "temperature": -5.6471
+    },
+    "450": {
+      "temperature": 5.6471
+    },
+    "451": {
+      "temperature": -7.2941
+    },
+    "452": {
+      "temperature": 13.1765
+    },
+    "453": {
+      "temperature": 33.8824
+    },
+    "454": {
+      "temperature": -10.8235
+    },
+    "455": {
+      "temperature": 11.0588
+    },
+    "456": {
+      "temperature": 0.7059
+    },
+    "457": {
+      "temperature": -10.8235
+    },
+    "458": {
+      "temperature": 9.8824
+    },
+    "459": {
+      "temperature": 24.4706
+    },
+    "460": {
+      "temperature": 27.7647
+    },
+    "461": {
+      "temperature": 37.4118
+    },
+    "462": {
+      "temperature": 28.9412
+    },
+    "463": {
+      "temperature": 17.8824
+    },
+    "464": {
+      "temperature": 18.1176
+    },
+    "465": {
+      "temperature": 0.7059
+    },
+    "466": {
+      "temperature": -1.8824
+    },
+    "467": {
+      "temperature": -1.8824
+    },
+    "468": {
+      "temperature": 34.3529
+    },
+    "469": {
+      "temperature": 1.4118
+    },
+    "470": {
+      "temperature": 15.0588
+    },
+    "471": {
+      "temperature": 33.8824
+    },
+    "472": {
+      "temperature": -10.8235
+    },
+    "473": {
+      "temperature": 25.1765
+    },
+    "474": {
+      "temperature": 18.1176
+    },
+    "475": {
+      "temperature": 4.7059
+    },
+    "476": {
+      "temperature": 32.9412
+    },
+    "477": {
+      "temperature": 22.8235
+    },
+    "478": {
+      "temperature": 29.8824
+    },
+    "479": {
+      "temperature": -3.5294
+    },
+    "480": {
+      "temperature": 32.2353
+    },
+    "481": {
+      "temperature": 31.5294
+    },
+    "482": {
+      "temperature": 13.4118
+    },
+    "483": {
+      "temperature": 18.1176
+    },
+    "484": {
+      "temperature": 38.1176
+    },
+    "485": {
+      "temperature": 5.6471
+    },
+    "486": {
+      "temperature": -10.8235
+    },
+    "487": {
+      "temperature": 14.1176
+    },
+    "488": {
+      "temperature": 20.4706
+    },
+    "489": {
+      "temperature": 12.9412
+    },
+    "490": {
+      "temperature": 11.0588
+    },
+    "491": {
+      "temperature": 1.6471
+    },
+    "492": {
+      "temperature": 30.8235
+    },
+    "493": {
+      "temperature": 18.5882
+    },
+    "494": {
+      "temperature": -1.8824
+    },
+    "495": {
+      "temperature": 21.6471
+    },
+    "496": {
+      "temperature": 22.3529
+    },
+    "497": {
+      "temperature": 17.4118
+    },
+    "498": {
+      "temperature": -10.8235
+    },
+    "499": {
+      "temperature": 22.8235
+    },
+    "500": {
+      "temperature": 38.1176
+    },
+    "501": {
+      "temperature": 17.1765
+    },
+    "502": {
+      "temperature": 26.8235
+    },
+    "503": {
+      "temperature": -10.8235
+    },
+    "504": {
+      "temperature": 19.7647
+    },
+    "505": {
+      "temperature": -4.7059
+    },
+    "506": {
+      "temperature": 28.4706
+    },
+    "507": {
+      "temperature": 18.3529
+    },
+    "508": {
+      "temperature": -10.8235
+    },
+    "509": {
+      "temperature": -10.8235
+    },
+    "510": {
+      "temperature": 37.1765
+    },
+    "511": {
+      "temperature": 12.7059
+    },
+    "512": {
+      "temperature": 8.7059
+    },
+    "513": {
+      "temperature": 1.8824
+    },
+    "514": {
+      "temperature": 16.2353
+    },
+    "515": {
+      "temperature": 10.3529
+    },
+    "516": {
+      "temperature": 8.0
+    },
+    "517": {
+      "temperature": -4.0
+    },
+    "518": {
+      "temperature": -5.8824
+    },
+    "519": {
+      "temperature": -10.8235
+    },
+    "520": {
+      "temperature": 13.4118
+    },
+    "521": {
+      "temperature": -10.8235
+    },
+    "522": {
+      "temperature": -4.7059
+    },
+    "523": {
+      "temperature": -5.8824
+    },
+    "524": {
+      "temperature": -11.2941
+    },
+    "525": {
+      "temperature": 18.8235
+    },
+    "526": {
+      "temperature": 23.0588
+    },
+    "527": {
+      "temperature": 19.2941
+    },
+    "528": {
+      "temperature": 18.1176
+    },
+    "529": {
+      "temperature": -4.0
+    },
+    "530": {
+      "temperature": 22.3529
+    },
+    "531": {
+      "temperature": 17.6471
+    },
+    "532": {
+      "temperature": 2.1176
+    },
+    "533": {
+      "temperature": 18.1176
+    },
+    "534": {
+      "temperature": 19.0588
+    },
+    "535": {
+      "temperature": 3.5294
+    },
+    "536": {
+      "temperature": 35.5294
+    },
+    "537": {
+      "temperature": -10.8235
+    },
+    "538": {
+      "temperature": 1.4118
+    },
+    "539": {
+      "temperature": -0.2353
+    },
+    "540": {
+      "temperature": 17.6471
+    },
+    "541": {
+      "temperature": -10.8235
+    },
+    "542": {
+      "temperature": 1.6471
+    },
+    "543": {
+      "temperature": 16.9412
+    },
+    "544": {
+      "temperature": 19.2941
+    },
+    "545": {
+      "temperature": 17.1765
+    },
+    "546": {
+      "temperature": 15.0588
+    },
+    "547": {
+      "temperature": 29.8824
+    },
+    "548": {
+      "temperature": 34.8235
+    },
+    "549": {
+      "temperature": 30.1176
+    },
+    "550": {
+      "temperature": 26.1176
+    },
+    "551": {
+      "temperature": -10.8235
+    },
+    "552": {
+      "temperature": 16.2353
+    },
+    "553": {
+      "temperature": 1.8824
+    },
+    "554": {
+      "temperature": 15.2941
+    },
+    "555": {
+      "temperature": -11.2941
+    },
+    "556": {
+      "temperature": 31.0588
+    },
+    "557": {
+      "temperature": 24.0
+    },
+    "558": {
+      "temperature": 8.2353
+    },
+    "559": {
+      "temperature": 8.2353
+    },
+    "560": {
+      "temperature": 20.9412
+    },
+    "561": {
+      "temperature": 24.0
+    },
+    "562": {
+      "temperature": 33.8824
+    },
+    "563": {
+      "temperature": 3.2941
+    },
+    "564": {
+      "temperature": 32.7059
+    },
+    "565": {
+      "temperature": 10.3529
+    },
+    "566": {
+      "temperature": -5.6471
+    },
+    "567": {
+      "temperature": -10.8235
+    },
+    "568": {
+      "temperature": 34.3529
+    },
+    "569": {
+      "temperature": 19.0588
+    },
+    "570": {
+      "temperature": -10.8235
+    },
+    "571": {
+      "temperature": 2.1176
+    },
+    "572": {
+      "temperature": -0.7059
+    },
+    "573": {
+      "temperature": 1.6471
+    },
+    "574": {
+      "temperature": 10.5882
+    },
+    "575": {
+      "temperature": 3.5294
+    },
+    "576": {
+      "temperature": 9.1765
+    },
+    "577": {
+      "temperature": 24.4706
+    },
+    "578": {
+      "temperature": -10.8235
+    },
+    "579": {
+      "temperature": -2.8235
+    },
+    "580": {
+      "temperature": -2.8235
+    },
+    "581": {
+      "temperature": 12.4706
+    },
+    "582": {
+      "temperature": 0.4706
+    },
+    "583": {
+      "temperature": 2.1176
+    },
+    "584": {
+      "temperature": 11.7647
+    },
+    "585": {
+      "temperature": 9.8824
+    },
+    "586": {
+      "temperature": 37.6471
+    },
+    "587": {
+      "temperature": 16.9412
+    },
+    "588": {
+      "temperature": 17.4118
+    },
+    "589": {
+      "temperature": 5.6471
+    },
+    "590": {
+      "temperature": 2.8235
+    },
+    "591": {
+      "temperature": 11.0588
+    },
+    "592": {
+      "temperature": 23.7647
+    },
+    "593": {
+      "temperature": 4.4706
+    },
+    "594": {
+      "temperature": 17.8824
+    },
+    "595": {
+      "temperature": -10.8235
+    },
+    "596": {
+      "temperature": 22.8235
+    },
+    "597": {
+      "temperature": -2.3529
+    },
+    "598": {
+      "temperature": 14.8235
+    },
+    "599": {
+      "temperature": -3.2941
+    },
+    "600": {
+      "temperature": 23.5294
+    },
+    "601": {
+      "temperature": 28.9412
+    },
+    "602": {
+      "temperature": 7.2941
+    },
+    "603": {
+      "temperature": 21.1765
+    },
+    "604": {
+      "temperature": -9.1765
+    },
+    "605": {
+      "temperature": 8.4706
+    },
+    "606": {
+      "temperature": 30.1176
+    },
+    "607": {
+      "temperature": -4.4706
+    },
+    "608": {
+      "temperature": 17.6471
+    },
+    "609": {
+      "temperature": 28.9412
+    },
+    "610": {
+      "temperature": -9.6471
+    },
+    "611": {
+      "temperature": -10.8235
+    },
+    "612": {
+      "temperature": 15.5294
+    },
+    "613": {
+      "temperature": 13.6471
+    },
+    "614": {
+      "temperature": 27.7647
+    },
+    "615": {
+      "temperature": 17.4118
+    },
+    "616": {
+      "temperature": 34.8235
+    },
+    "617": {
+      "temperature": 17.1765
+    },
+    "618": {
+      "temperature": 2.3529
+    },
+    "619": {
+      "temperature": 18.3529
+    },
+    "620": {
+      "temperature": 20.4706
+    },
+    "621": {
+      "temperature": -11.5294
+    },
+    "622": {
+      "temperature": 16.7059
+    },
+    "623": {
+      "temperature": 12.2353
+    },
+    "624": {
+      "temperature": -2.8235
+    },
+    "625": {
+      "temperature": -10.8235
+    },
+    "626": {
+      "temperature": 19.2941
+    },
+    "627": {
+      "temperature": 12.4706
+    },
+    "628": {
+      "temperature": 18.5882
+    },
+    "629": {
+      "temperature": 29.4118
+    },
+    "630": {
+      "temperature": 28.7059
+    },
+    "631": {
+      "temperature": 30.8235
+    },
+    "632": {
+      "temperature": -10.8235
+    },
+    "633": {
+      "temperature": -2.5882
+    },
+    "634": {
+      "temperature": 23.0588
+    },
+    "635": {
+      "temperature": 4.9412
+    },
+    "636": {
+      "temperature": -10.8235
+    },
+    "637": {
+      "temperature": 26.3529
+    },
+    "638": {
+      "temperature": 13.4118
+    },
+    "639": {
+      "temperature": 15.7647
+    },
+    "640": {
+      "temperature": 16.4706
+    },
+    "641": {
+      "temperature": -10.8235
+    },
+    "642": {
+      "temperature": 1.6471
+    },
+    "643": {
+      "temperature": 15.7647
+    },
+    "644": {
+      "temperature": 19.7647
+    },
+    "645": {
+      "temperature": 13.4118
+    },
+    "646": {
+      "temperature": 15.5294
+    },
+    "647": {
+      "temperature": 18.8235
+    },
+    "648": {
+      "temperature": -10.3529
+    },
+    "649": {
+      "temperature": 37.6471
+    },
+    "650": {
+      "temperature": 13.1765
+    },
+    "651": {
+      "temperature": 25.1765
+    },
+    "652": {
+      "temperature": 35.7647
+    },
+    "653": {
+      "temperature": 12.0
+    },
+    "654": {
+      "temperature": 20.2353
+    },
+    "655": {
+      "temperature": 4.2353
+    },
+    "656": {
+      "temperature": 2.1176
+    },
+    "657": {
+      "temperature": 18.3529
+    },
+    "658": {
+      "temperature": 3.5294
+    },
+    "659": {
+      "temperature": 1.1765
+    },
+    "660": {
+      "temperature": -11.2941
+    },
+    "661": {
+      "temperature": 34.8235
+    },
+    "662": {
+      "temperature": 13.6471
+    },
+    "663": {
+      "temperature": 4.2353
+    },
+    "664": {
+      "temperature": 18.1176
+    },
+    "665": {
+      "temperature": 13.4118
+    },
+    "666": {
+      "temperature": 16.2353
+    },
+    "667": {
+      "temperature": 13.6471
+    },
+    "668": {
+      "temperature": 33.8824
+    },
+    "669": {
+      "temperature": 31.0588
+    },
+    "670": {
+      "temperature": -0.4706
+    },
+    "671": {
+      "temperature": -9.1765
+    },
+    "672": {
+      "temperature": 16.9412
+    },
+    "673": {
+      "temperature": 3.7647
+    },
+    "674": {
+      "temperature": 27.0588
+    },
+    "675": {
+      "temperature": 8.0
+    },
+    "676": {
+      "temperature": 18.1176
+    },
+    "677": {
+      "temperature": 33.8824
+    },
+    "678": {
+      "temperature": 6.8235
+    },
+    "679": {
+      "temperature": -8.0
+    },
+    "680": {
+      "temperature": 18.1176
+    },
+    "681": {
+      "temperature": -2.3529
+    },
+    "682": {
+      "temperature": 11.7647
+    },
+    "683": {
+      "temperature": 16.9412
+    },
+    "684": {
+      "temperature": -6.1176
+    },
+    "685": {
+      "temperature": 3.7647
+    },
+    "686": {
+      "temperature": 6.1176
+    },
+    "687": {
+      "temperature": -5.6471
+    },
+    "688": {
+      "temperature": -4.4706
+    },
+    "689": {
+      "temperature": 37.4118
+    },
+    "690": {
+      "temperature": 11.5294
+    },
+    "691": {
+      "temperature": 18.5882
+    },
+    "692": {
+      "temperature": 30.5882
+    },
+    "693": {
+      "temperature": 17.1765
+    },
+    "694": {
+      "temperature": 26.8235
+    },
+    "695": {
+      "temperature": 4.7059
+    },
+    "696": {
+      "temperature": -10.8235
+    },
+    "697": {
+      "temperature": 30.1176
+    },
+    "698": {
+      "temperature": 20.7059
+    },
+    "699": {
+      "temperature": 18.3529
+    },
+    "700": {
+      "temperature": 18.1176
+    },
+    "701": {
+      "temperature": 10.3529
+    },
+    "702": {
+      "temperature": 18.3529
+    },
+    "703": {
+      "temperature": 7.5294
+    },
+    "704": {
+      "temperature": -10.8235
+    },
+    "705": {
+      "temperature": 38.5882
+    },
+    "706": {
+      "temperature": 17.6471
+    },
+    "707": {
+      "temperature": 1.8824
+    },
+    "708": {
+      "temperature": 12.0
+    },
+    "709": {
+      "temperature": 16.2353
+    },
+    "710": {
+      "temperature": -7.7647
+    },
+    "711": {
+      "temperature": 16.7059
+    },
+    "712": {
+      "temperature": 16.4706
+    },
+    "713": {
+      "temperature": 22.1176
+    },
+    "714": {
+      "temperature": 20.0
+    },
+    "715": {
+      "temperature": 29.1765
+    },
+    "716": {
+      "temperature": 32.0
+    },
+    "717": {
+      "temperature": 12.7059
+    },
+    "718": {
+      "temperature": 23.0588
+    },
+    "719": {
+      "temperature": -11.2941
+    },
+    "720": {
+      "temperature": 18.1176
+    },
+    "721": {
+      "temperature": 0.7059
+    },
+    "722": {
+      "temperature": -1.8824
+    },
+    "723": {
+      "temperature": 32.4706
+    },
+    "724": {
+      "temperature": 17.8824
+    },
+    "725": {
+      "temperature": -0.4706
+    },
+    "726": {
+      "temperature": 17.6471
+    },
+    "727": {
+      "temperature": -10.8235
+    },
+    "728": {
+      "temperature": -3.5294
+    },
+    "729": {
+      "temperature": 20.4706
+    },
+    "730": {
+      "temperature": 8.4706
+    },
+    "731": {
+      "temperature": 2.3529
+    },
+    "732": {
+      "temperature": 30.1176
+    },
+    "733": {
+      "temperature": 18.1176
+    },
+    "734": {
+      "temperature": 3.2941
+    },
+    "735": {
+      "temperature": -1.4118
+    },
+    "736": {
+      "temperature": -8.7059
+    },
+    "737": {
+      "temperature": 6.3529
+    },
+    "738": {
+      "temperature": 34.3529
+    },
+    "739": {
+      "temperature": -10.8235
+    },
+    "740": {
+      "temperature": 2.1176
+    },
+    "741": {
+      "temperature": 20.7059
+    },
+    "742": {
+      "temperature": 32.4706
+    },
+    "743": {
+      "temperature": 14.3529
+    },
+    "744": {
+      "temperature": -9.8824
+    },
+    "745": {
+      "temperature": -10.8235
+    },
+    "746": {
+      "temperature": 1.4118
+    },
+    "747": {
+      "temperature": 26.3529
+    },
+    "748": {
+      "temperature": 5.8824
+    },
+    "749": {
+      "temperature": 1.4118
+    },
+    "750": {
+      "temperature": 15.2941
+    },
+    "751": {
+      "temperature": 4.2353
+    },
+    "752": {
+      "temperature": 4.9412
+    },
+    "753": {
+      "temperature": 31.7647
+    },
+    "754": {
+      "temperature": 19.2941
+    },
+    "755": {
+      "temperature": 12.4706
+    },
+    "756": {
+      "temperature": 2.5882
+    },
+    "757": {
+      "temperature": -10.8235
+    },
+    "758": {
+      "temperature": 21.6471
+    },
+    "759": {
+      "temperature": 6.5882
+    },
+    "760": {
+      "temperature": 1.4118
+    },
+    "761": {
+      "temperature": -11.5294
+    },
+    "762": {
+      "temperature": -6.3529
+    },
+    "763": {
+      "temperature": 35.0588
+    },
+    "764": {
+      "temperature": 2.1176
+    },
+    "765": {
+      "temperature": 2.8235
+    },
+    "766": {
+      "temperature": 11.0588
+    },
+    "767": {
+      "temperature": 22.1176
+    },
+    "768": {
+      "temperature": -10.8235
+    },
+    "769": {
+      "temperature": 13.1765
+    },
+    "770": {
+      "temperature": 17.6471
+    },
+    "771": {
+      "temperature": 20.4706
+    },
+    "772": {
+      "temperature": -9.6471
+    },
+    "773": {
+      "temperature": 18.1176
+    },
+    "774": {
+      "temperature": 31.0588
+    },
+    "775": {
+      "temperature": 10.3529
+    },
+    "776": {
+      "temperature": -0.4706
+    },
+    "777": {
+      "temperature": 18.8235
+    },
+    "778": {
+      "temperature": -4.0
+    },
+    "779": {
+      "temperature": 1.8824
+    },
+    "780": {
+      "temperature": 18.3529
+    },
+    "781": {
+      "temperature": -3.0588
+    },
+    "782": {
+      "temperature": 23.7647
+    },
+    "783": {
+      "temperature": 14.5882
+    },
+    "784": {
+      "temperature": -10.8235
+    },
+    "785": {
+      "temperature": 11.5294
+    },
+    "786": {
+      "temperature": 17.6471
+    },
+    "787": {
+      "temperature": 17.8824
+    },
+    "788": {
+      "temperature": 23.0588
+    },
+    "789": {
+      "temperature": 27.0588
+    },
+    "790": {
+      "temperature": 31.0588
+    },
+    "791": {
+      "temperature": 1.8824
+    },
+    "792": {
+      "temperature": 15.7647
+    },
+    "793": {
+      "temperature": 6.5882
+    },
+    "794": {
+      "temperature": 33.8824
+    },
+    "795": {
+      "temperature": 8.0
+    },
+    "796": {
+      "temperature": 27.5294
+    },
+    "797": {
+      "temperature": 6.3529
+    },
+    "798": {
+      "temperature": 21.4118
+    },
+    "799": {
+      "temperature": 31.0588
+    },
+    "800": {
+      "temperature": 28.2353
+    },
+    "801": {
+      "temperature": -6.3529
+    },
+    "802": {
+      "temperature": 28.4706
+    },
+    "803": {
+      "temperature": 34.3529
+    },
+    "804": {
+      "temperature": 19.2941
+    },
+    "805": {
+      "temperature": 30.1176
+    },
+    "806": {
+      "temperature": -10.8235
+    },
+    "807": {
+      "temperature": 9.8824
+    },
+    "808": {
+      "temperature": 6.5882
+    },
+    "809": {
+      "temperature": 6.5882
+    },
+    "810": {
+      "temperature": 4.9412
+    },
+    "811": {
+      "temperature": 10.1176
+    },
+    "812": {
+      "temperature": -10.8235
+    },
+    "813": {
+      "temperature": 38.5882
+    },
+    "814": {
+      "temperature": 18.1176
+    },
+    "815": {
+      "temperature": -7.2941
+    },
+    "816": {
+      "temperature": -10.8235
+    },
+    "817": {
+      "temperature": -5.6471
+    },
+    "818": {
+      "temperature": -14.1176
+    },
+    "819": {
+      "temperature": 8.2353
+    },
+    "820": {
+      "temperature": 13.6471
+    },
+    "821": {
+      "temperature": 19.0588
+    },
+    "822": {
+      "temperature": -10.8235
+    },
+    "823": {
+      "temperature": -3.0588
+    },
+    "824": {
+      "temperature": 11.2941
+    },
+    "825": {
+      "temperature": 31.0588
+    },
+    "826": {
+      "temperature": -10.8235
+    },
+    "827": {
+      "temperature": 24.4706
+    },
+    "828": {
+      "temperature": -2.1176
+    },
+    "829": {
+      "temperature": 14.8235
+    },
+    "830": {
+      "temperature": 18.1176
+    },
+    "831": {
+      "temperature": 20.9412
+    },
+    "832": {
+      "temperature": 4.0
+    },
+    "833": {
+      "temperature": 17.6471
+    },
+    "834": {
+      "temperature": 31.0588
+    },
+    "835": {
+      "temperature": 16.0
+    },
+    "836": {
+      "temperature": 18.3529
+    },
+    "837": {
+      "temperature": -8.7059
+    },
+    "838": {
+      "temperature": -2.8235
+    },
+    "839": {
+      "temperature": -10.5882
+    },
+    "840": {
+      "temperature": 24.0
+    },
+    "841": {
+      "temperature": 6.5882
+    },
+    "842": {
+      "temperature": 38.5882
+    },
+    "843": {
+      "temperature": 26.8235
+    },
+    "844": {
+      "temperature": 1.6471
+    },
+    "845": {
+      "temperature": 3.5294
+    },
+    "846": {
+      "temperature": -2.8235
+    },
+    "847": {
+      "temperature": 17.8824
+    },
+    "848": {
+      "temperature": 17.1765
+    },
+    "849": {
+      "temperature": 14.1176
+    },
+    "850": {
+      "temperature": 18.5882
+    },
+    "851": {
+      "temperature": 22.8235
+    },
+    "852": {
+      "temperature": -3.7647
+    },
+    "853": {
+      "temperature": -7.5294
+    },
+    "854": {
+      "temperature": 17.8824
+    },
+    "855": {
+      "temperature": 11.5294
+    },
+    "856": {
+      "temperature": -2.8235
+    },
+    "857": {
+      "temperature": 5.1765
+    },
+    "858": {
+      "temperature": -1.8824
+    },
+    "859": {
+      "temperature": 11.7647
+    },
+    "860": {
+      "temperature": 19.2941
+    },
+    "861": {
+      "temperature": 13.8824
+    },
+    "862": {
+      "temperature": 22.5882
+    },
+    "863": {
+      "temperature": 1.8824
+    },
+    "864": {
+      "temperature": 34.3529
+    },
+    "865": {
+      "temperature": -9.6471
+    },
+    "866": {
+      "temperature": 16.4706
+    },
+    "867": {
+      "temperature": -7.5294
+    },
+    "868": {
+      "temperature": 29.1765
+    },
+    "869": {
+      "temperature": 17.8824
+    },
+    "870": {
+      "temperature": 19.5294
+    },
+    "871": {
+      "temperature": 12.7059
+    },
+    "872": {
+      "temperature": 16.9412
+    },
+    "873": {
+      "temperature": 8.0
+    },
+    "874": {
+      "temperature": 15.2941
+    },
+    "875": {
+      "temperature": 31.0588
+    },
+    "876": {
+      "temperature": 12.2353
+    },
+    "877": {
+      "temperature": 24.4706
+    },
+    "878": {
+      "temperature": 25.8824
+    },
+    "879": {
+      "temperature": -10.8235
+    },
+    "880": {
+      "temperature": 5.1765
+    },
+    "881": {
+      "temperature": 1.8824
+    },
+    "882": {
+      "temperature": 12.9412
+    },
+    "883": {
+      "temperature": -0.7059
+    },
+    "884": {
+      "temperature": 38.5882
+    },
+    "885": {
+      "temperature": 36.7059
+    },
+    "886": {
+      "temperature": -6.8235
+    },
+    "887": {
+      "temperature": 17.4118
+    },
+    "888": {
+      "temperature": 24.2353
+    },
+    "889": {
+      "temperature": -10.8235
+    },
+    "890": {
+      "temperature": 20.4706
+    },
+    "891": {
+      "temperature": 25.6471
+    },
+    "892": {
+      "temperature": 3.5294
+    },
+    "893": {
+      "temperature": 21.1765
+    },
+    "894": {
+      "temperature": 29.4118
+    },
+    "895": {
+      "temperature": 0.9412
+    },
+    "896": {
+      "temperature": 35.0588
+    },
+    "897": {
+      "temperature": 29.1765
+    },
+    "898": {
+      "temperature": 6.5882
+    },
+    "899": {
+      "temperature": 8.0
+    },
+    "900": {
+      "temperature": 1.8824
+    },
+    "901": {
+      "temperature": 18.1176
+    },
+    "902": {
+      "temperature": 15.2941
+    },
+    "903": {
+      "temperature": -6.3529
+    },
+    "904": {
+      "temperature": 31.0588
+    },
+    "905": {
+      "temperature": 18.5882
+    },
+    "906": {
+      "temperature": 8.0
+    },
+    "907": {
+      "temperature": -2.5882
+    },
+    "908": {
+      "temperature": 18.1176
+    },
+    "909": {
+      "temperature": 1.4118
+    },
+    "910": {
+      "temperature": 38.5882
+    },
+    "911": {
+      "temperature": -0.7059
+    },
+    "912": {
+      "temperature": 17.6471
+    },
+    "913": {
+      "temperature": 2.1176
+    },
+    "914": {
+      "temperature": 14.3529
+    },
+    "915": {
+      "temperature": 30.1176
+    },
+    "916": {
+      "temperature": 2.1176
+    },
+    "917": {
+      "temperature": -6.1176
+    },
+    "918": {
+      "temperature": 16.2353
+    },
+    "919": {
+      "temperature": 18.1176
+    },
+    "920": {
+      "temperature": 22.5882
+    },
+    "921": {
+      "temperature": 24.0
+    },
+    "922": {
+      "temperature": 27.5294
+    },
+    "923": {
+      "temperature": 23.2941
+    },
+    "924": {
+      "temperature": 2.1176
+    },
+    "925": {
+      "temperature": 5.8824
+    },
+    "926": {
+      "temperature": 17.8824
+    },
+    "927": {
+      "temperature": 5.6471
+    },
+    "928": {
+      "temperature": -10.8235
+    },
+    "929": {
+      "temperature": 26.1176
+    },
+    "930": {
+      "temperature": -10.8235
+    },
+    "931": {
+      "temperature": -0.4706
+    },
+    "932": {
+      "temperature": -10.8235
+    },
+    "933": {
+      "temperature": 24.9412
+    },
+    "934": {
+      "temperature": 14.8235
+    },
+    "935": {
+      "temperature": 18.1176
+    },
+    "936": {
+      "temperature": 9.1765
+    },
+    "937": {
+      "temperature": 17.6471
+    },
+    "938": {
+      "temperature": 31.0588
+    },
+    "939": {
+      "temperature": 17.8824
+    },
+    "940": {
+      "temperature": 2.1176
+    },
+    "941": {
+      "temperature": 15.5294
+    },
+    "942": {
+      "temperature": 27.0588
+    },
+    "943": {
+      "temperature": 20.9412
+    },
+    "944": {
+      "temperature": -6.5882
+    },
+    "945": {
+      "temperature": 22.5882
+    },
+    "946": {
+      "temperature": 22.3529
+    },
+    "947": {
+      "temperature": 12.2353
+    },
+    "948": {
+      "temperature": -9.6471
+    },
+    "949": {
+      "temperature": 22.1176
+    },
+    "950": {
+      "temperature": 13.4118
+    },
+    "951": {
+      "temperature": 3.7647
+    },
+    "952": {
+      "temperature": 8.0
+    },
+    "953": {
+      "temperature": 8.9412
+    },
+    "954": {
+      "temperature": 18.8235
+    },
+    "955": {
+      "temperature": 29.4118
+    },
+    "956": {
+      "temperature": -10.8235
+    },
+    "957": {
+      "temperature": 19.5294
+    },
+    "958": {
+      "temperature": 24.2353
+    },
+    "959": {
+      "temperature": -10.8235
+    },
+    "960": {
+      "temperature": -12.4706
+    },
+    "961": {
+      "temperature": 8.2353
+    },
+    "962": {
+      "temperature": -9.8824
+    },
+    "963": {
+      "temperature": 34.5882
+    },
+    "964": {
+      "temperature": 37.8824
+    },
+    "965": {
+      "temperature": -5.4118
+    },
+    "966": {
+      "temperature": 22.5882
+    },
+    "967": {
+      "temperature": 26.8235
+    },
+    "968": {
+      "temperature": 5.6471
+    },
+    "969": {
+      "temperature": 34.8235
+    },
+    "970": {
+      "temperature": 18.1176
+    },
+    "971": {
+      "temperature": 26.5882
+    },
+    "972": {
+      "temperature": -6.3529
+    },
+    "973": {
+      "temperature": 7.0588
+    },
+    "974": {
+      "temperature": 30.5882
+    },
+    "975": {
+      "temperature": 16.7059
+    },
+    "976": {
+      "temperature": -10.8235
+    },
+    "977": {
+      "temperature": -8.9412
+    },
+    "978": {
+      "temperature": 36.2353
+    },
+    "979": {
+      "temperature": -10.3529
+    },
+    "980": {
+      "temperature": 5.6471
+    },
+    "981": {
+      "temperature": 24.7059
+    },
+    "982": {
+      "temperature": 18.1176
+    },
+    "983": {
+      "temperature": 12.4706
+    },
+    "984": {
+      "temperature": -1.4118
+    },
+    "985": {
+      "temperature": -10.8235
+    },
+    "986": {
+      "temperature": 1.1765
+    },
+    "987": {
+      "temperature": 2.1176
+    },
+    "988": {
+      "temperature": 34.8235
+    },
+    "989": {
+      "temperature": 16.4706
+    },
+    "990": {
+      "temperature": 17.8824
+    },
+    "991": {
+      "temperature": -7.5294
+    },
+    "992": {
+      "temperature": -11.2941
+    },
+    "993": {
+      "temperature": 32.4706
+    },
+    "994": {
+      "temperature": 37.6471
+    },
+    "995": {
+      "temperature": 17.4118
+    },
+    "996": {
+      "temperature": -1.4118
+    },
+    "997": {
+      "temperature": 37.4118
+    },
+    "998": {
+      "temperature": 17.6471
+    },
+    "999": {
+      "temperature": 24.9412
+    }
+  }
+}

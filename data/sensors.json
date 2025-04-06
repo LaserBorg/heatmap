@@ -1,0 +1,8010 @@
+{
+  "bounding_box": [
+    0,
+    0,
+    1024,
+    530
+  ],
+  "sensors": {
+    "0": {
+      "position": [
+        0,
+        0
+      ],
+      "installation_date": "2024-03-19",
+      "serial_number": "SN-167373"
+    },
+    "1": {
+      "position": [
+        1023,
+        0
+      ],
+      "installation_date": "2023-12-11",
+      "serial_number": "SN-545586"
+    },
+    "2": {
+      "position": [
+        0,
+        529
+      ],
+      "installation_date": "2021-10-02",
+      "serial_number": "SN-190317"
+    },
+    "3": {
+      "position": [
+        1023,
+        529
+      ],
+      "installation_date": "2021-10-30",
+      "serial_number": "SN-280259"
+    },
+    "4": {
+      "position": [
+        333,
+        509
+      ],
+      "installation_date": "2021-10-19",
+      "serial_number": "SN-803028"
+    },
+    "5": {
+      "position": [
+        71,
+        352
+      ],
+      "installation_date": "2022-10-07",
+      "serial_number": "SN-840043"
+    },
+    "6": {
+      "position": [
+        383,
+        437
+      ],
+      "installation_date": "2024-08-30",
+      "serial_number": "SN-598945"
+    },
+    "7": {
+      "position": [
+        205,
+        106
+      ],
+      "installation_date": "2020-03-25",
+      "serial_number": "SN-525594"
+    },
+    "8": {
+      "position": [
+        221,
+        86
+      ],
+      "installation_date": "2023-12-07",
+      "serial_number": "SN-996020"
+    },
+    "9": {
+      "position": [
+        960,
+        443
+      ],
+      "installation_date": "2020-06-12",
+      "serial_number": "SN-328803"
+    },
+    "10": {
+      "position": [
+        140,
+        378
+      ],
+      "installation_date": "2022-12-24",
+      "serial_number": "SN-258079"
+    },
+    "11": {
+      "position": [
+        819,
+        65
+      ],
+      "installation_date": "2020-01-19",
+      "serial_number": "SN-620221"
+    },
+    "12": {
+      "position": [
+        604,
+        446
+      ],
+      "installation_date": "2023-02-17",
+      "serial_number": "SN-549668"
+    },
+    "13": {
+      "position": [
+        985,
+        254
+      ],
+      "installation_date": "2021-03-26",
+      "serial_number": "SN-698319"
+    },
+    "14": {
+      "position": [
+        20,
+        168
+      ],
+      "installation_date": "2022-07-22",
+      "serial_number": "SN-948393"
+    },
+    "15": {
+      "position": [
+        1021,
+        428
+      ],
+      "installation_date": "2023-09-16",
+      "serial_number": "SN-820357"
+    },
+    "16": {
+      "position": [
+        551,
+        398
+      ],
+      "installation_date": "2020-03-07",
+      "serial_number": "SN-725459"
+    },
+    "17": {
+      "position": [
+        582,
+        493
+      ],
+      "installation_date": "2023-06-29",
+      "serial_number": "SN-390469"
+    },
+    "18": {
+      "position": [
+        567,
+        442
+      ],
+      "installation_date": "2021-01-21",
+      "serial_number": "SN-909173"
+    },
+    "19": {
+      "position": [
+        300,
+        423
+      ],
+      "installation_date": "2020-08-17",
+      "serial_number": "SN-587261"
+    },
+    "20": {
+      "position": [
+        656,
+        147
+      ],
+      "installation_date": "2022-01-01",
+      "serial_number": "SN-137386"
+    },
+    "21": {
+      "position": [
+        873,
+        470
+      ],
+      "installation_date": "2023-12-09",
+      "serial_number": "SN-566757"
+    },
+    "22": {
+      "position": [
+        180,
+        35
+      ],
+      "installation_date": "2022-09-25",
+      "serial_number": "SN-687865"
+    },
+    "23": {
+      "position": [
+        15,
+        107
+      ],
+      "installation_date": "2024-02-03",
+      "serial_number": "SN-131332"
+    },
+    "24": {
+      "position": [
+        269,
+        491
+      ],
+      "installation_date": "2022-12-07",
+      "serial_number": "SN-241372"
+    },
+    "25": {
+      "position": [
+        283,
+        400
+      ],
+      "installation_date": "2022-06-23",
+      "serial_number": "SN-167743"
+    },
+    "26": {
+      "position": [
+        798,
+        60
+      ],
+      "installation_date": "2021-11-05",
+      "serial_number": "SN-398168"
+    },
+    "27": {
+      "position": [
+        600,
+        447
+      ],
+      "installation_date": "2024-11-20",
+      "serial_number": "SN-705623"
+    },
+    "28": {
+      "position": [
+        906,
+        332
+      ],
+      "installation_date": "2023-12-26",
+      "serial_number": "SN-250180"
+    },
+    "29": {
+      "position": [
+        398,
+        321
+      ],
+      "installation_date": "2023-05-31",
+      "serial_number": "SN-904389"
+    },
+    "30": {
+      "position": [
+        726,
+        51
+      ],
+      "installation_date": "2024-04-18",
+      "serial_number": "SN-885930"
+    },
+    "31": {
+      "position": [
+        70,
+        485
+      ],
+      "installation_date": "2022-02-23",
+      "serial_number": "SN-204329"
+    },
+    "32": {
+      "position": [
+        826,
+        259
+      ],
+      "installation_date": "2023-02-15",
+      "serial_number": "SN-527842"
+    },
+    "33": {
+      "position": [
+        355,
+        14
+      ],
+      "installation_date": "2022-02-08",
+      "serial_number": "SN-917575"
+    },
+    "34": {
+      "position": [
+        194,
+        494
+      ],
+      "installation_date": "2020-01-03",
+      "serial_number": "SN-864532"
+    },
+    "35": {
+      "position": [
+        370,
+        325
+      ],
+      "installation_date": "2020-08-28",
+      "serial_number": "SN-738941"
+    },
+    "36": {
+      "position": [
+        768,
+        166
+      ],
+      "installation_date": "2023-07-13",
+      "serial_number": "SN-361813"
+    },
+    "37": {
+      "position": [
+        774,
+        362
+      ],
+      "installation_date": "2024-02-29",
+      "serial_number": "SN-942945"
+    },
+    "38": {
+      "position": [
+        1007,
+        141
+      ],
+      "installation_date": "2024-10-27",
+      "serial_number": "SN-780392"
+    },
+    "39": {
+      "position": [
+        18,
+        372
+      ],
+      "installation_date": "2024-11-12",
+      "serial_number": "SN-629643"
+    },
+    "40": {
+      "position": [
+        485,
+        392
+      ],
+      "installation_date": "2023-04-18",
+      "serial_number": "SN-605122"
+    },
+    "41": {
+      "position": [
+        917,
+        330
+      ],
+      "installation_date": "2020-02-13",
+      "serial_number": "SN-250096"
+    },
+    "42": {
+      "position": [
+        233,
+        266
+      ],
+      "installation_date": "2023-09-02",
+      "serial_number": "SN-362418"
+    },
+    "43": {
+      "position": [
+        222,
+        138
+      ],
+      "installation_date": "2021-12-07",
+      "serial_number": "SN-531488"
+    },
+    "44": {
+      "position": [
+        364,
+        307
+      ],
+      "installation_date": "2023-08-09",
+      "serial_number": "SN-868494"
+    },
+    "45": {
+      "position": [
+        747,
+        365
+      ],
+      "installation_date": "2024-11-16",
+      "serial_number": "SN-599085"
+    },
+    "46": {
+      "position": [
+        493,
+        525
+      ],
+      "installation_date": "2024-03-10",
+      "serial_number": "SN-487233"
+    },
+    "47": {
+      "position": [
+        6,
+        76
+      ],
+      "installation_date": "2023-03-11",
+      "serial_number": "SN-583148"
+    },
+    "48": {
+      "position": [
+        525,
+        355
+      ],
+      "installation_date": "2023-11-13",
+      "serial_number": "SN-421476"
+    },
+    "49": {
+      "position": [
+        88,
+        247
+      ],
+      "installation_date": "2024-07-04",
+      "serial_number": "SN-376797"
+    },
+    "50": {
+      "position": [
+        602,
+        10
+      ],
+      "installation_date": "2021-05-11",
+      "serial_number": "SN-560734"
+    },
+    "51": {
+      "position": [
+        916,
+        451
+      ],
+      "installation_date": "2024-10-19",
+      "serial_number": "SN-465829"
+    },
+    "52": {
+      "position": [
+        74,
+        159
+      ],
+      "installation_date": "2021-01-02",
+      "serial_number": "SN-506050"
+    },
+    "53": {
+      "position": [
+        678,
+        63
+      ],
+      "installation_date": "2023-07-11",
+      "serial_number": "SN-752004"
+    },
+    "54": {
+      "position": [
+        852,
+        506
+      ],
+      "installation_date": "2022-05-09",
+      "serial_number": "SN-669533"
+    },
+    "55": {
+      "position": [
+        50,
+        332
+      ],
+      "installation_date": "2022-03-31",
+      "serial_number": "SN-416005"
+    },
+    "56": {
+      "position": [
+        246,
+        345
+      ],
+      "installation_date": "2024-07-06",
+      "serial_number": "SN-986024"
+    },
+    "57": {
+      "position": [
+        884,
+        184
+      ],
+      "installation_date": "2020-03-30",
+      "serial_number": "SN-507652"
+    },
+    "58": {
+      "position": [
+        647,
+        309
+      ],
+      "installation_date": "2021-12-31",
+      "serial_number": "SN-122102"
+    },
+    "59": {
+      "position": [
+        724,
+        386
+      ],
+      "installation_date": "2022-10-18",
+      "serial_number": "SN-201647"
+    },
+    "60": {
+      "position": [
+        887,
+        50
+      ],
+      "installation_date": "2020-02-07",
+      "serial_number": "SN-526172"
+    },
+    "61": {
+      "position": [
+        396,
+        330
+      ],
+      "installation_date": "2024-11-19",
+      "serial_number": "SN-991689"
+    },
+    "62": {
+      "position": [
+        285,
+        151
+      ],
+      "installation_date": "2021-02-10",
+      "serial_number": "SN-172111"
+    },
+    "63": {
+      "position": [
+        627,
+        355
+      ],
+      "installation_date": "2021-09-12",
+      "serial_number": "SN-181473"
+    },
+    "64": {
+      "position": [
+        993,
+        525
+      ],
+      "installation_date": "2021-02-26",
+      "serial_number": "SN-618609"
+    },
+    "65": {
+      "position": [
+        502,
+        202
+      ],
+      "installation_date": "2023-07-03",
+      "serial_number": "SN-302794"
+    },
+    "66": {
+      "position": [
+        844,
+        461
+      ],
+      "installation_date": "2020-10-17",
+      "serial_number": "SN-716553"
+    },
+    "67": {
+      "position": [
+        529,
+        316
+      ],
+      "installation_date": "2024-04-07",
+      "serial_number": "SN-280796"
+    },
+    "68": {
+      "position": [
+        581,
+        232
+      ],
+      "installation_date": "2022-07-28",
+      "serial_number": "SN-363323"
+    },
+    "69": {
+      "position": [
+        636,
+        210
+      ],
+      "installation_date": "2020-06-10",
+      "serial_number": "SN-398383"
+    },
+    "70": {
+      "position": [
+        410,
+        47
+      ],
+      "installation_date": "2023-09-24",
+      "serial_number": "SN-810299"
+    },
+    "71": {
+      "position": [
+        329,
+        345
+      ],
+      "installation_date": "2020-10-11",
+      "serial_number": "SN-263561"
+    },
+    "72": {
+      "position": [
+        262,
+        199
+      ],
+      "installation_date": "2024-12-24",
+      "serial_number": "SN-435386"
+    },
+    "73": {
+      "position": [
+        229,
+        500
+      ],
+      "installation_date": "2022-06-16",
+      "serial_number": "SN-712781"
+    },
+    "74": {
+      "position": [
+        354,
+        413
+      ],
+      "installation_date": "2022-04-13",
+      "serial_number": "SN-375032"
+    },
+    "75": {
+      "position": [
+        890,
+        15
+      ],
+      "installation_date": "2023-08-27",
+      "serial_number": "SN-993876"
+    },
+    "76": {
+      "position": [
+        1004,
+        259
+      ],
+      "installation_date": "2020-10-10",
+      "serial_number": "SN-886335"
+    },
+    "77": {
+      "position": [
+        215,
+        75
+      ],
+      "installation_date": "2024-06-11",
+      "serial_number": "SN-629332"
+    },
+    "78": {
+      "position": [
+        166,
+        49
+      ],
+      "installation_date": "2024-08-07",
+      "serial_number": "SN-564601"
+    },
+    "79": {
+      "position": [
+        309,
+        61
+      ],
+      "installation_date": "2023-12-23",
+      "serial_number": "SN-945095"
+    },
+    "80": {
+      "position": [
+        778,
+        460
+      ],
+      "installation_date": "2020-01-17",
+      "serial_number": "SN-501709"
+    },
+    "81": {
+      "position": [
+        585,
+        28
+      ],
+      "installation_date": "2023-03-26",
+      "serial_number": "SN-947284"
+    },
+    "82": {
+      "position": [
+        605,
+        326
+      ],
+      "installation_date": "2023-10-30",
+      "serial_number": "SN-305804"
+    },
+    "83": {
+      "position": [
+        232,
+        234
+      ],
+      "installation_date": "2020-04-07",
+      "serial_number": "SN-873291"
+    },
+    "84": {
+      "position": [
+        61,
+        362
+      ],
+      "installation_date": "2022-03-05",
+      "serial_number": "SN-313983"
+    },
+    "85": {
+      "position": [
+        508,
+        249
+      ],
+      "installation_date": "2024-12-11",
+      "serial_number": "SN-853242"
+    },
+    "86": {
+      "position": [
+        700,
+        159
+      ],
+      "installation_date": "2022-05-01",
+      "serial_number": "SN-436982"
+    },
+    "87": {
+      "position": [
+        672,
+        243
+      ],
+      "installation_date": "2023-12-26",
+      "serial_number": "SN-845910"
+    },
+    "88": {
+      "position": [
+        967,
+        191
+      ],
+      "installation_date": "2022-02-02",
+      "serial_number": "SN-937611"
+    },
+    "89": {
+      "position": [
+        235,
+        275
+      ],
+      "installation_date": "2021-04-07",
+      "serial_number": "SN-598142"
+    },
+    "90": {
+      "position": [
+        491,
+        260
+      ],
+      "installation_date": "2020-05-23",
+      "serial_number": "SN-994961"
+    },
+    "91": {
+      "position": [
+        908,
+        272
+      ],
+      "installation_date": "2024-10-31",
+      "serial_number": "SN-833727"
+    },
+    "92": {
+      "position": [
+        437,
+        2
+      ],
+      "installation_date": "2023-05-12",
+      "serial_number": "SN-689734"
+    },
+    "93": {
+      "position": [
+        457,
+        483
+      ],
+      "installation_date": "2020-05-16",
+      "serial_number": "SN-459416"
+    },
+    "94": {
+      "position": [
+        104,
+        325
+      ],
+      "installation_date": "2024-05-17",
+      "serial_number": "SN-205288"
+    },
+    "95": {
+      "position": [
+        534,
+        448
+      ],
+      "installation_date": "2022-10-04",
+      "serial_number": "SN-336048"
+    },
+    "96": {
+      "position": [
+        412,
+        11
+      ],
+      "installation_date": "2023-02-19",
+      "serial_number": "SN-576491"
+    },
+    "97": {
+      "position": [
+        256,
+        117
+      ],
+      "installation_date": "2023-06-09",
+      "serial_number": "SN-748511"
+    },
+    "98": {
+      "position": [
+        322,
+        29
+      ],
+      "installation_date": "2022-08-15",
+      "serial_number": "SN-117603"
+    },
+    "99": {
+      "position": [
+        421,
+        319
+      ],
+      "installation_date": "2021-09-20",
+      "serial_number": "SN-758809"
+    },
+    "100": {
+      "position": [
+        246,
+        330
+      ],
+      "installation_date": "2024-01-08",
+      "serial_number": "SN-152759"
+    },
+    "101": {
+      "position": [
+        845,
+        524
+      ],
+      "installation_date": "2020-08-17",
+      "serial_number": "SN-192058"
+    },
+    "102": {
+      "position": [
+        972,
+        33
+      ],
+      "installation_date": "2022-10-28",
+      "serial_number": "SN-157655"
+    },
+    "103": {
+      "position": [
+        763,
+        376
+      ],
+      "installation_date": "2020-03-13",
+      "serial_number": "SN-559010"
+    },
+    "104": {
+      "position": [
+        863,
+        230
+      ],
+      "installation_date": "2020-10-04",
+      "serial_number": "SN-854931"
+    },
+    "105": {
+      "position": [
+        355,
+        466
+      ],
+      "installation_date": "2021-04-27",
+      "serial_number": "SN-604256"
+    },
+    "106": {
+      "position": [
+        921,
+        166
+      ],
+      "installation_date": "2023-05-05",
+      "serial_number": "SN-752150"
+    },
+    "107": {
+      "position": [
+        354,
+        124
+      ],
+      "installation_date": "2022-12-07",
+      "serial_number": "SN-555953"
+    },
+    "108": {
+      "position": [
+        354,
+        381
+      ],
+      "installation_date": "2022-09-13",
+      "serial_number": "SN-889242"
+    },
+    "109": {
+      "position": [
+        920,
+        339
+      ],
+      "installation_date": "2024-07-12",
+      "serial_number": "SN-444926"
+    },
+    "110": {
+      "position": [
+        200,
+        412
+      ],
+      "installation_date": "2023-09-11",
+      "serial_number": "SN-869449"
+    },
+    "111": {
+      "position": [
+        748,
+        258
+      ],
+      "installation_date": "2022-06-28",
+      "serial_number": "SN-879694"
+    },
+    "112": {
+      "position": [
+        365,
+        26
+      ],
+      "installation_date": "2024-12-07",
+      "serial_number": "SN-536541"
+    },
+    "113": {
+      "position": [
+        219,
+        292
+      ],
+      "installation_date": "2024-06-06",
+      "serial_number": "SN-815837"
+    },
+    "114": {
+      "position": [
+        453,
+        286
+      ],
+      "installation_date": "2021-09-02",
+      "serial_number": "SN-411598"
+    },
+    "115": {
+      "position": [
+        586,
+        385
+      ],
+      "installation_date": "2024-03-30",
+      "serial_number": "SN-765467"
+    },
+    "116": {
+      "position": [
+        758,
+        397
+      ],
+      "installation_date": "2022-01-18",
+      "serial_number": "SN-564840"
+    },
+    "117": {
+      "position": [
+        170,
+        281
+      ],
+      "installation_date": "2023-07-15",
+      "serial_number": "SN-908102"
+    },
+    "118": {
+      "position": [
+        176,
+        19
+      ],
+      "installation_date": "2020-09-21",
+      "serial_number": "SN-144455"
+    },
+    "119": {
+      "position": [
+        680,
+        438
+      ],
+      "installation_date": "2022-06-12",
+      "serial_number": "SN-239636"
+    },
+    "120": {
+      "position": [
+        547,
+        250
+      ],
+      "installation_date": "2023-06-26",
+      "serial_number": "SN-875222"
+    },
+    "121": {
+      "position": [
+        611,
+        331
+      ],
+      "installation_date": "2023-01-23",
+      "serial_number": "SN-770953"
+    },
+    "122": {
+      "position": [
+        875,
+        306
+      ],
+      "installation_date": "2021-03-23",
+      "serial_number": "SN-654560"
+    },
+    "123": {
+      "position": [
+        973,
+        326
+      ],
+      "installation_date": "2023-04-10",
+      "serial_number": "SN-367169"
+    },
+    "124": {
+      "position": [
+        454,
+        422
+      ],
+      "installation_date": "2022-12-25",
+      "serial_number": "SN-903645"
+    },
+    "125": {
+      "position": [
+        61,
+        463
+      ],
+      "installation_date": "2023-12-12",
+      "serial_number": "SN-760899"
+    },
+    "126": {
+      "position": [
+        633,
+        140
+      ],
+      "installation_date": "2020-08-02",
+      "serial_number": "SN-289373"
+    },
+    "127": {
+      "position": [
+        859,
+        400
+      ],
+      "installation_date": "2023-07-06",
+      "serial_number": "SN-243170"
+    },
+    "128": {
+      "position": [
+        984,
+        311
+      ],
+      "installation_date": "2022-05-16",
+      "serial_number": "SN-137146"
+    },
+    "129": {
+      "position": [
+        474,
+        168
+      ],
+      "installation_date": "2024-12-07",
+      "serial_number": "SN-762987"
+    },
+    "130": {
+      "position": [
+        721,
+        198
+      ],
+      "installation_date": "2022-12-15",
+      "serial_number": "SN-310293"
+    },
+    "131": {
+      "position": [
+        465,
+        58
+      ],
+      "installation_date": "2023-12-05",
+      "serial_number": "SN-618804"
+    },
+    "132": {
+      "position": [
+        222,
+        239
+      ],
+      "installation_date": "2022-07-16",
+      "serial_number": "SN-276554"
+    },
+    "133": {
+      "position": [
+        1004,
+        208
+      ],
+      "installation_date": "2024-10-10",
+      "serial_number": "SN-640564"
+    },
+    "134": {
+      "position": [
+        383,
+        67
+      ],
+      "installation_date": "2021-11-18",
+      "serial_number": "SN-697624"
+    },
+    "135": {
+      "position": [
+        881,
+        34
+      ],
+      "installation_date": "2024-12-26",
+      "serial_number": "SN-139764"
+    },
+    "136": {
+      "position": [
+        626,
+        411
+      ],
+      "installation_date": "2020-12-04",
+      "serial_number": "SN-996090"
+    },
+    "137": {
+      "position": [
+        410,
+        85
+      ],
+      "installation_date": "2023-08-28",
+      "serial_number": "SN-748397"
+    },
+    "138": {
+      "position": [
+        782,
+        107
+      ],
+      "installation_date": "2021-01-04",
+      "serial_number": "SN-136910"
+    },
+    "139": {
+      "position": [
+        139,
+        327
+      ],
+      "installation_date": "2023-05-09",
+      "serial_number": "SN-359577"
+    },
+    "140": {
+      "position": [
+        960,
+        34
+      ],
+      "installation_date": "2024-04-24",
+      "serial_number": "SN-851116"
+    },
+    "141": {
+      "position": [
+        581,
+        89
+      ],
+      "installation_date": "2021-08-10",
+      "serial_number": "SN-373446"
+    },
+    "142": {
+      "position": [
+        99,
+        300
+      ],
+      "installation_date": "2024-05-31",
+      "serial_number": "SN-643370"
+    },
+    "143": {
+      "position": [
+        809,
+        226
+      ],
+      "installation_date": "2024-08-02",
+      "serial_number": "SN-643392"
+    },
+    "144": {
+      "position": [
+        268,
+        342
+      ],
+      "installation_date": "2024-05-17",
+      "serial_number": "SN-643081"
+    },
+    "145": {
+      "position": [
+        795,
+        270
+      ],
+      "installation_date": "2022-03-14",
+      "serial_number": "SN-539785"
+    },
+    "146": {
+      "position": [
+        694,
+        36
+      ],
+      "installation_date": "2021-04-24",
+      "serial_number": "SN-104101"
+    },
+    "147": {
+      "position": [
+        336,
+        339
+      ],
+      "installation_date": "2022-01-28",
+      "serial_number": "SN-634838"
+    },
+    "148": {
+      "position": [
+        981,
+        525
+      ],
+      "installation_date": "2020-09-08",
+      "serial_number": "SN-943087"
+    },
+    "149": {
+      "position": [
+        339,
+        142
+      ],
+      "installation_date": "2021-07-29",
+      "serial_number": "SN-295878"
+    },
+    "150": {
+      "position": [
+        745,
+        428
+      ],
+      "installation_date": "2023-01-06",
+      "serial_number": "SN-742985"
+    },
+    "151": {
+      "position": [
+        705,
+        293
+      ],
+      "installation_date": "2024-02-05",
+      "serial_number": "SN-954045"
+    },
+    "152": {
+      "position": [
+        541,
+        65
+      ],
+      "installation_date": "2023-04-06",
+      "serial_number": "SN-152906"
+    },
+    "153": {
+      "position": [
+        54,
+        151
+      ],
+      "installation_date": "2023-08-18",
+      "serial_number": "SN-838779"
+    },
+    "154": {
+      "position": [
+        143,
+        124
+      ],
+      "installation_date": "2024-08-20",
+      "serial_number": "SN-931979"
+    },
+    "155": {
+      "position": [
+        115,
+        187
+      ],
+      "installation_date": "2022-08-16",
+      "serial_number": "SN-607281"
+    },
+    "156": {
+      "position": [
+        20,
+        140
+      ],
+      "installation_date": "2023-02-04",
+      "serial_number": "SN-397597"
+    },
+    "157": {
+      "position": [
+        441,
+        338
+      ],
+      "installation_date": "2022-06-11",
+      "serial_number": "SN-865868"
+    },
+    "158": {
+      "position": [
+        441,
+        347
+      ],
+      "installation_date": "2020-06-13",
+      "serial_number": "SN-279583"
+    },
+    "159": {
+      "position": [
+        195,
+        217
+      ],
+      "installation_date": "2021-08-26",
+      "serial_number": "SN-309440"
+    },
+    "160": {
+      "position": [
+        852,
+        132
+      ],
+      "installation_date": "2022-10-31",
+      "serial_number": "SN-160522"
+    },
+    "161": {
+      "position": [
+        76,
+        368
+      ],
+      "installation_date": "2023-09-11",
+      "serial_number": "SN-513071"
+    },
+    "162": {
+      "position": [
+        1019,
+        288
+      ],
+      "installation_date": "2020-04-07",
+      "serial_number": "SN-541145"
+    },
+    "163": {
+      "position": [
+        1018,
+        407
+      ],
+      "installation_date": "2020-07-09",
+      "serial_number": "SN-675276"
+    },
+    "164": {
+      "position": [
+        704,
+        74
+      ],
+      "installation_date": "2022-06-17",
+      "serial_number": "SN-651889"
+    },
+    "165": {
+      "position": [
+        508,
+        153
+      ],
+      "installation_date": "2021-08-12",
+      "serial_number": "SN-980802"
+    },
+    "166": {
+      "position": [
+        362,
+        75
+      ],
+      "installation_date": "2023-08-29",
+      "serial_number": "SN-283310"
+    },
+    "167": {
+      "position": [
+        46,
+        89
+      ],
+      "installation_date": "2020-11-26",
+      "serial_number": "SN-161545"
+    },
+    "168": {
+      "position": [
+        667,
+        460
+      ],
+      "installation_date": "2021-12-06",
+      "serial_number": "SN-863450"
+    },
+    "169": {
+      "position": [
+        711,
+        465
+      ],
+      "installation_date": "2021-09-14",
+      "serial_number": "SN-728933"
+    },
+    "170": {
+      "position": [
+        450,
+        169
+      ],
+      "installation_date": "2021-04-04",
+      "serial_number": "SN-467221"
+    },
+    "171": {
+      "position": [
+        26,
+        309
+      ],
+      "installation_date": "2023-06-18",
+      "serial_number": "SN-632859"
+    },
+    "172": {
+      "position": [
+        434,
+        53
+      ],
+      "installation_date": "2022-12-25",
+      "serial_number": "SN-842255"
+    },
+    "173": {
+      "position": [
+        300,
+        199
+      ],
+      "installation_date": "2024-05-22",
+      "serial_number": "SN-203420"
+    },
+    "174": {
+      "position": [
+        34,
+        110
+      ],
+      "installation_date": "2022-02-04",
+      "serial_number": "SN-955588"
+    },
+    "175": {
+      "position": [
+        1019,
+        479
+      ],
+      "installation_date": "2024-05-19",
+      "serial_number": "SN-953841"
+    },
+    "176": {
+      "position": [
+        931,
+        312
+      ],
+      "installation_date": "2022-09-25",
+      "serial_number": "SN-999824"
+    },
+    "177": {
+      "position": [
+        285,
+        409
+      ],
+      "installation_date": "2021-04-30",
+      "serial_number": "SN-531351"
+    },
+    "178": {
+      "position": [
+        276,
+        84
+      ],
+      "installation_date": "2022-07-16",
+      "serial_number": "SN-951694"
+    },
+    "179": {
+      "position": [
+        116,
+        26
+      ],
+      "installation_date": "2021-09-16",
+      "serial_number": "SN-816146"
+    },
+    "180": {
+      "position": [
+        415,
+        198
+      ],
+      "installation_date": "2021-04-01",
+      "serial_number": "SN-730045"
+    },
+    "181": {
+      "position": [
+        678,
+        14
+      ],
+      "installation_date": "2020-10-01",
+      "serial_number": "SN-207430"
+    },
+    "182": {
+      "position": [
+        105,
+        338
+      ],
+      "installation_date": "2021-04-17",
+      "serial_number": "SN-107895"
+    },
+    "183": {
+      "position": [
+        904,
+        14
+      ],
+      "installation_date": "2024-07-18",
+      "serial_number": "SN-842152"
+    },
+    "184": {
+      "position": [
+        376,
+        121
+      ],
+      "installation_date": "2024-11-11",
+      "serial_number": "SN-525132"
+    },
+    "185": {
+      "position": [
+        697,
+        319
+      ],
+      "installation_date": "2021-03-07",
+      "serial_number": "SN-527304"
+    },
+    "186": {
+      "position": [
+        596,
+        498
+      ],
+      "installation_date": "2024-11-11",
+      "serial_number": "SN-405943"
+    },
+    "187": {
+      "position": [
+        327,
+        7
+      ],
+      "installation_date": "2024-04-03",
+      "serial_number": "SN-367105"
+    },
+    "188": {
+      "position": [
+        901,
+        344
+      ],
+      "installation_date": "2023-12-08",
+      "serial_number": "SN-729089"
+    },
+    "189": {
+      "position": [
+        526,
+        46
+      ],
+      "installation_date": "2023-03-11",
+      "serial_number": "SN-942274"
+    },
+    "190": {
+      "position": [
+        727,
+        29
+      ],
+      "installation_date": "2022-01-29",
+      "serial_number": "SN-356403"
+    },
+    "191": {
+      "position": [
+        487,
+        404
+      ],
+      "installation_date": "2021-06-24",
+      "serial_number": "SN-831853"
+    },
+    "192": {
+      "position": [
+        464,
+        432
+      ],
+      "installation_date": "2024-04-26",
+      "serial_number": "SN-969558"
+    },
+    "193": {
+      "position": [
+        786,
+        417
+      ],
+      "installation_date": "2024-07-13",
+      "serial_number": "SN-394868"
+    },
+    "194": {
+      "position": [
+        673,
+        346
+      ],
+      "installation_date": "2024-02-10",
+      "serial_number": "SN-651575"
+    },
+    "195": {
+      "position": [
+        37,
+        455
+      ],
+      "installation_date": "2020-12-26",
+      "serial_number": "SN-356295"
+    },
+    "196": {
+      "position": [
+        53,
+        492
+      ],
+      "installation_date": "2023-12-06",
+      "serial_number": "SN-311116"
+    },
+    "197": {
+      "position": [
+        462,
+        167
+      ],
+      "installation_date": "2023-08-21",
+      "serial_number": "SN-682874"
+    },
+    "198": {
+      "position": [
+        833,
+        519
+      ],
+      "installation_date": "2023-02-15",
+      "serial_number": "SN-278792"
+    },
+    "199": {
+      "position": [
+        266,
+        435
+      ],
+      "installation_date": "2021-02-13",
+      "serial_number": "SN-827032"
+    },
+    "200": {
+      "position": [
+        181,
+        433
+      ],
+      "installation_date": "2020-11-02",
+      "serial_number": "SN-116316"
+    },
+    "201": {
+      "position": [
+        527,
+        208
+      ],
+      "installation_date": "2020-02-06",
+      "serial_number": "SN-424277"
+    },
+    "202": {
+      "position": [
+        1014,
+        22
+      ],
+      "installation_date": "2024-11-25",
+      "serial_number": "SN-661176"
+    },
+    "203": {
+      "position": [
+        679,
+        11
+      ],
+      "installation_date": "2023-06-10",
+      "serial_number": "SN-819005"
+    },
+    "204": {
+      "position": [
+        648,
+        482
+      ],
+      "installation_date": "2022-12-21",
+      "serial_number": "SN-768823"
+    },
+    "205": {
+      "position": [
+        376,
+        385
+      ],
+      "installation_date": "2020-09-15",
+      "serial_number": "SN-812022"
+    },
+    "206": {
+      "position": [
+        1007,
+        427
+      ],
+      "installation_date": "2023-12-18",
+      "serial_number": "SN-824113"
+    },
+    "207": {
+      "position": [
+        982,
+        416
+      ],
+      "installation_date": "2021-04-12",
+      "serial_number": "SN-533920"
+    },
+    "208": {
+      "position": [
+        486,
+        157
+      ],
+      "installation_date": "2021-12-17",
+      "serial_number": "SN-965370"
+    },
+    "209": {
+      "position": [
+        650,
+        412
+      ],
+      "installation_date": "2020-10-09",
+      "serial_number": "SN-686529"
+    },
+    "210": {
+      "position": [
+        926,
+        247
+      ],
+      "installation_date": "2024-02-11",
+      "serial_number": "SN-411345"
+    },
+    "211": {
+      "position": [
+        235,
+        442
+      ],
+      "installation_date": "2024-02-07",
+      "serial_number": "SN-332159"
+    },
+    "212": {
+      "position": [
+        163,
+        454
+      ],
+      "installation_date": "2023-01-15",
+      "serial_number": "SN-651492"
+    },
+    "213": {
+      "position": [
+        794,
+        364
+      ],
+      "installation_date": "2022-04-10",
+      "serial_number": "SN-233720"
+    },
+    "214": {
+      "position": [
+        190,
+        527
+      ],
+      "installation_date": "2022-09-02",
+      "serial_number": "SN-238850"
+    },
+    "215": {
+      "position": [
+        610,
+        31
+      ],
+      "installation_date": "2020-08-31",
+      "serial_number": "SN-823026"
+    },
+    "216": {
+      "position": [
+        201,
+        66
+      ],
+      "installation_date": "2024-02-21",
+      "serial_number": "SN-606026"
+    },
+    "217": {
+      "position": [
+        446,
+        184
+      ],
+      "installation_date": "2021-04-24",
+      "serial_number": "SN-947729"
+    },
+    "218": {
+      "position": [
+        692,
+        246
+      ],
+      "installation_date": "2024-08-20",
+      "serial_number": "SN-718674"
+    },
+    "219": {
+      "position": [
+        719,
+        406
+      ],
+      "installation_date": "2023-02-10",
+      "serial_number": "SN-352699"
+    },
+    "220": {
+      "position": [
+        920,
+        402
+      ],
+      "installation_date": "2021-10-02",
+      "serial_number": "SN-449280"
+    },
+    "221": {
+      "position": [
+        401,
+        12
+      ],
+      "installation_date": "2020-07-15",
+      "serial_number": "SN-820598"
+    },
+    "222": {
+      "position": [
+        56,
+        287
+      ],
+      "installation_date": "2023-12-12",
+      "serial_number": "SN-677921"
+    },
+    "223": {
+      "position": [
+        519,
+        348
+      ],
+      "installation_date": "2024-08-16",
+      "serial_number": "SN-611901"
+    },
+    "224": {
+      "position": [
+        299,
+        460
+      ],
+      "installation_date": "2020-06-15",
+      "serial_number": "SN-985714"
+    },
+    "225": {
+      "position": [
+        869,
+        450
+      ],
+      "installation_date": "2023-04-28",
+      "serial_number": "SN-639030"
+    },
+    "226": {
+      "position": [
+        661,
+        335
+      ],
+      "installation_date": "2023-10-30",
+      "serial_number": "SN-999110"
+    },
+    "227": {
+      "position": [
+        544,
+        16
+      ],
+      "installation_date": "2020-06-16",
+      "serial_number": "SN-938287"
+    },
+    "228": {
+      "position": [
+        31,
+        467
+      ],
+      "installation_date": "2022-05-30",
+      "serial_number": "SN-769771"
+    },
+    "229": {
+      "position": [
+        340,
+        25
+      ],
+      "installation_date": "2023-06-10",
+      "serial_number": "SN-418897"
+    },
+    "230": {
+      "position": [
+        93,
+        504
+      ],
+      "installation_date": "2023-11-08",
+      "serial_number": "SN-745882"
+    },
+    "231": {
+      "position": [
+        646,
+        43
+      ],
+      "installation_date": "2022-12-13",
+      "serial_number": "SN-747003"
+    },
+    "232": {
+      "position": [
+        737,
+        429
+      ],
+      "installation_date": "2021-11-09",
+      "serial_number": "SN-428017"
+    },
+    "233": {
+      "position": [
+        326,
+        342
+      ],
+      "installation_date": "2021-05-13",
+      "serial_number": "SN-540355"
+    },
+    "234": {
+      "position": [
+        658,
+        66
+      ],
+      "installation_date": "2022-05-15",
+      "serial_number": "SN-527397"
+    },
+    "235": {
+      "position": [
+        752,
+        512
+      ],
+      "installation_date": "2022-08-10",
+      "serial_number": "SN-724432"
+    },
+    "236": {
+      "position": [
+        858,
+        464
+      ],
+      "installation_date": "2020-11-27",
+      "serial_number": "SN-344392"
+    },
+    "237": {
+      "position": [
+        560,
+        412
+      ],
+      "installation_date": "2023-05-26",
+      "serial_number": "SN-165358"
+    },
+    "238": {
+      "position": [
+        225,
+        248
+      ],
+      "installation_date": "2024-08-10",
+      "serial_number": "SN-101292"
+    },
+    "239": {
+      "position": [
+        711,
+        423
+      ],
+      "installation_date": "2022-10-20",
+      "serial_number": "SN-229182"
+    },
+    "240": {
+      "position": [
+        930,
+        68
+      ],
+      "installation_date": "2024-11-08",
+      "serial_number": "SN-876327"
+    },
+    "241": {
+      "position": [
+        771,
+        526
+      ],
+      "installation_date": "2023-02-16",
+      "serial_number": "SN-683888"
+    },
+    "242": {
+      "position": [
+        795,
+        430
+      ],
+      "installation_date": "2020-05-22",
+      "serial_number": "SN-305416"
+    },
+    "243": {
+      "position": [
+        296,
+        290
+      ],
+      "installation_date": "2020-01-04",
+      "serial_number": "SN-296785"
+    },
+    "244": {
+      "position": [
+        16,
+        356
+      ],
+      "installation_date": "2022-09-30",
+      "serial_number": "SN-574316"
+    },
+    "245": {
+      "position": [
+        567,
+        60
+      ],
+      "installation_date": "2021-06-28",
+      "serial_number": "SN-327242"
+    },
+    "246": {
+      "position": [
+        779,
+        163
+      ],
+      "installation_date": "2021-09-06",
+      "serial_number": "SN-661269"
+    },
+    "247": {
+      "position": [
+        576,
+        322
+      ],
+      "installation_date": "2022-02-13",
+      "serial_number": "SN-772396"
+    },
+    "248": {
+      "position": [
+        234,
+        233
+      ],
+      "installation_date": "2022-01-14",
+      "serial_number": "SN-476229"
+    },
+    "249": {
+      "position": [
+        178,
+        28
+      ],
+      "installation_date": "2024-11-04",
+      "serial_number": "SN-116490"
+    },
+    "250": {
+      "position": [
+        360,
+        376
+      ],
+      "installation_date": "2020-08-09",
+      "serial_number": "SN-972868"
+    },
+    "251": {
+      "position": [
+        645,
+        159
+      ],
+      "installation_date": "2021-07-14",
+      "serial_number": "SN-118231"
+    },
+    "252": {
+      "position": [
+        858,
+        412
+      ],
+      "installation_date": "2024-02-22",
+      "serial_number": "SN-131680"
+    },
+    "253": {
+      "position": [
+        119,
+        337
+      ],
+      "installation_date": "2021-01-17",
+      "serial_number": "SN-175845"
+    },
+    "254": {
+      "position": [
+        252,
+        461
+      ],
+      "installation_date": "2022-07-14",
+      "serial_number": "SN-144341"
+    },
+    "255": {
+      "position": [
+        127,
+        175
+      ],
+      "installation_date": "2021-09-14",
+      "serial_number": "SN-922250"
+    },
+    "256": {
+      "position": [
+        868,
+        166
+      ],
+      "installation_date": "2020-08-26",
+      "serial_number": "SN-455100"
+    },
+    "257": {
+      "position": [
+        92,
+        160
+      ],
+      "installation_date": "2020-06-25",
+      "serial_number": "SN-211106"
+    },
+    "258": {
+      "position": [
+        737,
+        57
+      ],
+      "installation_date": "2023-11-17",
+      "serial_number": "SN-390676"
+    },
+    "259": {
+      "position": [
+        901,
+        47
+      ],
+      "installation_date": "2020-11-10",
+      "serial_number": "SN-728788"
+    },
+    "260": {
+      "position": [
+        298,
+        126
+      ],
+      "installation_date": "2022-07-05",
+      "serial_number": "SN-587323"
+    },
+    "261": {
+      "position": [
+        638,
+        279
+      ],
+      "installation_date": "2022-03-22",
+      "serial_number": "SN-595173"
+    },
+    "262": {
+      "position": [
+        733,
+        481
+      ],
+      "installation_date": "2021-06-18",
+      "serial_number": "SN-679913"
+    },
+    "263": {
+      "position": [
+        42,
+        292
+      ],
+      "installation_date": "2023-10-03",
+      "serial_number": "SN-932346"
+    },
+    "264": {
+      "position": [
+        593,
+        495
+      ],
+      "installation_date": "2021-03-04",
+      "serial_number": "SN-267129"
+    },
+    "265": {
+      "position": [
+        26,
+        226
+      ],
+      "installation_date": "2022-08-16",
+      "serial_number": "SN-901410"
+    },
+    "266": {
+      "position": [
+        239,
+        427
+      ],
+      "installation_date": "2023-07-06",
+      "serial_number": "SN-436525"
+    },
+    "267": {
+      "position": [
+        669,
+        522
+      ],
+      "installation_date": "2023-02-10",
+      "serial_number": "SN-641976"
+    },
+    "268": {
+      "position": [
+        701,
+        465
+      ],
+      "installation_date": "2020-08-06",
+      "serial_number": "SN-236787"
+    },
+    "269": {
+      "position": [
+        933,
+        113
+      ],
+      "installation_date": "2024-04-23",
+      "serial_number": "SN-225681"
+    },
+    "270": {
+      "position": [
+        445,
+        147
+      ],
+      "installation_date": "2020-03-23",
+      "serial_number": "SN-444488"
+    },
+    "271": {
+      "position": [
+        408,
+        234
+      ],
+      "installation_date": "2020-11-06",
+      "serial_number": "SN-910136"
+    },
+    "272": {
+      "position": [
+        576,
+        192
+      ],
+      "installation_date": "2023-02-05",
+      "serial_number": "SN-139508"
+    },
+    "273": {
+      "position": [
+        880,
+        471
+      ],
+      "installation_date": "2020-07-08",
+      "serial_number": "SN-332412"
+    },
+    "274": {
+      "position": [
+        862,
+        214
+      ],
+      "installation_date": "2024-01-12",
+      "serial_number": "SN-757730"
+    },
+    "275": {
+      "position": [
+        234,
+        381
+      ],
+      "installation_date": "2020-07-30",
+      "serial_number": "SN-697063"
+    },
+    "276": {
+      "position": [
+        871,
+        311
+      ],
+      "installation_date": "2020-09-19",
+      "serial_number": "SN-257696"
+    },
+    "277": {
+      "position": [
+        595,
+        206
+      ],
+      "installation_date": "2023-10-31",
+      "serial_number": "SN-250026"
+    },
+    "278": {
+      "position": [
+        175,
+        27
+      ],
+      "installation_date": "2020-11-17",
+      "serial_number": "SN-237189"
+    },
+    "279": {
+      "position": [
+        601,
+        393
+      ],
+      "installation_date": "2022-07-31",
+      "serial_number": "SN-406702"
+    },
+    "280": {
+      "position": [
+        280,
+        300
+      ],
+      "installation_date": "2023-04-04",
+      "serial_number": "SN-540367"
+    },
+    "281": {
+      "position": [
+        667,
+        237
+      ],
+      "installation_date": "2020-06-26",
+      "serial_number": "SN-687878"
+    },
+    "282": {
+      "position": [
+        561,
+        52
+      ],
+      "installation_date": "2024-03-18",
+      "serial_number": "SN-174131"
+    },
+    "283": {
+      "position": [
+        440,
+        345
+      ],
+      "installation_date": "2021-07-03",
+      "serial_number": "SN-721515"
+    },
+    "284": {
+      "position": [
+        899,
+        206
+      ],
+      "installation_date": "2022-07-13",
+      "serial_number": "SN-165733"
+    },
+    "285": {
+      "position": [
+        929,
+        33
+      ],
+      "installation_date": "2022-10-06",
+      "serial_number": "SN-530017"
+    },
+    "286": {
+      "position": [
+        488,
+        52
+      ],
+      "installation_date": "2021-08-10",
+      "serial_number": "SN-350996"
+    },
+    "287": {
+      "position": [
+        621,
+        524
+      ],
+      "installation_date": "2021-01-10",
+      "serial_number": "SN-185637"
+    },
+    "288": {
+      "position": [
+        910,
+        207
+      ],
+      "installation_date": "2022-01-06",
+      "serial_number": "SN-697597"
+    },
+    "289": {
+      "position": [
+        603,
+        115
+      ],
+      "installation_date": "2021-03-25",
+      "serial_number": "SN-325621"
+    },
+    "290": {
+      "position": [
+        178,
+        452
+      ],
+      "installation_date": "2023-06-18",
+      "serial_number": "SN-906977"
+    },
+    "291": {
+      "position": [
+        190,
+        138
+      ],
+      "installation_date": "2021-08-05",
+      "serial_number": "SN-595549"
+    },
+    "292": {
+      "position": [
+        972,
+        23
+      ],
+      "installation_date": "2023-03-25",
+      "serial_number": "SN-553981"
+    },
+    "293": {
+      "position": [
+        518,
+        512
+      ],
+      "installation_date": "2024-04-07",
+      "serial_number": "SN-155127"
+    },
+    "294": {
+      "position": [
+        348,
+        412
+      ],
+      "installation_date": "2024-10-23",
+      "serial_number": "SN-355156"
+    },
+    "295": {
+      "position": [
+        397,
+        217
+      ],
+      "installation_date": "2020-12-14",
+      "serial_number": "SN-890821"
+    },
+    "296": {
+      "position": [
+        235,
+        103
+      ],
+      "installation_date": "2021-04-09",
+      "serial_number": "SN-913734"
+    },
+    "297": {
+      "position": [
+        399,
+        386
+      ],
+      "installation_date": "2024-10-19",
+      "serial_number": "SN-151672"
+    },
+    "298": {
+      "position": [
+        204,
+        121
+      ],
+      "installation_date": "2021-08-13",
+      "serial_number": "SN-273220"
+    },
+    "299": {
+      "position": [
+        290,
+        501
+      ],
+      "installation_date": "2024-08-16",
+      "serial_number": "SN-887438"
+    },
+    "300": {
+      "position": [
+        387,
+        190
+      ],
+      "installation_date": "2020-10-02",
+      "serial_number": "SN-566923"
+    },
+    "301": {
+      "position": [
+        61,
+        474
+      ],
+      "installation_date": "2020-10-04",
+      "serial_number": "SN-171262"
+    },
+    "302": {
+      "position": [
+        383,
+        344
+      ],
+      "installation_date": "2022-06-08",
+      "serial_number": "SN-559615"
+    },
+    "303": {
+      "position": [
+        847,
+        33
+      ],
+      "installation_date": "2023-10-10",
+      "serial_number": "SN-933511"
+    },
+    "304": {
+      "position": [
+        742,
+        492
+      ],
+      "installation_date": "2021-06-11",
+      "serial_number": "SN-538272"
+    },
+    "305": {
+      "position": [
+        676,
+        437
+      ],
+      "installation_date": "2021-09-13",
+      "serial_number": "SN-754188"
+    },
+    "306": {
+      "position": [
+        156,
+        192
+      ],
+      "installation_date": "2022-06-04",
+      "serial_number": "SN-592561"
+    },
+    "307": {
+      "position": [
+        473,
+        43
+      ],
+      "installation_date": "2022-03-07",
+      "serial_number": "SN-576095"
+    },
+    "308": {
+      "position": [
+        84,
+        369
+      ],
+      "installation_date": "2023-10-15",
+      "serial_number": "SN-624036"
+    },
+    "309": {
+      "position": [
+        141,
+        427
+      ],
+      "installation_date": "2021-06-12",
+      "serial_number": "SN-217038"
+    },
+    "310": {
+      "position": [
+        885,
+        194
+      ],
+      "installation_date": "2020-07-13",
+      "serial_number": "SN-782921"
+    },
+    "311": {
+      "position": [
+        573,
+        128
+      ],
+      "installation_date": "2022-09-14",
+      "serial_number": "SN-368598"
+    },
+    "312": {
+      "position": [
+        2,
+        481
+      ],
+      "installation_date": "2023-08-23",
+      "serial_number": "SN-194125"
+    },
+    "313": {
+      "position": [
+        412,
+        352
+      ],
+      "installation_date": "2020-09-27",
+      "serial_number": "SN-987764"
+    },
+    "314": {
+      "position": [
+        335,
+        398
+      ],
+      "installation_date": "2024-11-12",
+      "serial_number": "SN-440215"
+    },
+    "315": {
+      "position": [
+        617,
+        166
+      ],
+      "installation_date": "2020-10-08",
+      "serial_number": "SN-940249"
+    },
+    "316": {
+      "position": [
+        344,
+        518
+      ],
+      "installation_date": "2023-04-27",
+      "serial_number": "SN-266253"
+    },
+    "317": {
+      "position": [
+        317,
+        328
+      ],
+      "installation_date": "2020-04-14",
+      "serial_number": "SN-577847"
+    },
+    "318": {
+      "position": [
+        663,
+        309
+      ],
+      "installation_date": "2021-08-25",
+      "serial_number": "SN-671412"
+    },
+    "319": {
+      "position": [
+        251,
+        69
+      ],
+      "installation_date": "2021-12-15",
+      "serial_number": "SN-653721"
+    },
+    "320": {
+      "position": [
+        100,
+        140
+      ],
+      "installation_date": "2024-06-29",
+      "serial_number": "SN-808983"
+    },
+    "321": {
+      "position": [
+        569,
+        475
+      ],
+      "installation_date": "2022-07-15",
+      "serial_number": "SN-224448"
+    },
+    "322": {
+      "position": [
+        729,
+        99
+      ],
+      "installation_date": "2020-05-04",
+      "serial_number": "SN-970803"
+    },
+    "323": {
+      "position": [
+        777,
+        48
+      ],
+      "installation_date": "2022-04-29",
+      "serial_number": "SN-658419"
+    },
+    "324": {
+      "position": [
+        335,
+        119
+      ],
+      "installation_date": "2022-06-12",
+      "serial_number": "SN-719152"
+    },
+    "325": {
+      "position": [
+        269,
+        472
+      ],
+      "installation_date": "2024-02-18",
+      "serial_number": "SN-529373"
+    },
+    "326": {
+      "position": [
+        459,
+        509
+      ],
+      "installation_date": "2023-05-27",
+      "serial_number": "SN-612263"
+    },
+    "327": {
+      "position": [
+        777,
+        498
+      ],
+      "installation_date": "2023-05-06",
+      "serial_number": "SN-231348"
+    },
+    "328": {
+      "position": [
+        330,
+        225
+      ],
+      "installation_date": "2023-11-23",
+      "serial_number": "SN-102500"
+    },
+    "329": {
+      "position": [
+        650,
+        364
+      ],
+      "installation_date": "2022-03-18",
+      "serial_number": "SN-299569"
+    },
+    "330": {
+      "position": [
+        183,
+        259
+      ],
+      "installation_date": "2023-08-16",
+      "serial_number": "SN-909372"
+    },
+    "331": {
+      "position": [
+        789,
+        377
+      ],
+      "installation_date": "2020-06-28",
+      "serial_number": "SN-461564"
+    },
+    "332": {
+      "position": [
+        52,
+        109
+      ],
+      "installation_date": "2023-08-20",
+      "serial_number": "SN-623468"
+    },
+    "333": {
+      "position": [
+        973,
+        315
+      ],
+      "installation_date": "2022-03-11",
+      "serial_number": "SN-885450"
+    },
+    "334": {
+      "position": [
+        641,
+        76
+      ],
+      "installation_date": "2021-11-20",
+      "serial_number": "SN-981093"
+    },
+    "335": {
+      "position": [
+        291,
+        176
+      ],
+      "installation_date": "2022-06-28",
+      "serial_number": "SN-814983"
+    },
+    "336": {
+      "position": [
+        602,
+        113
+      ],
+      "installation_date": "2022-06-29",
+      "serial_number": "SN-894753"
+    },
+    "337": {
+      "position": [
+        780,
+        463
+      ],
+      "installation_date": "2020-07-24",
+      "serial_number": "SN-166404"
+    },
+    "338": {
+      "position": [
+        738,
+        82
+      ],
+      "installation_date": "2022-02-16",
+      "serial_number": "SN-467703"
+    },
+    "339": {
+      "position": [
+        978,
+        20
+      ],
+      "installation_date": "2021-12-23",
+      "serial_number": "SN-439134"
+    },
+    "340": {
+      "position": [
+        933,
+        277
+      ],
+      "installation_date": "2021-09-23",
+      "serial_number": "SN-206237"
+    },
+    "341": {
+      "position": [
+        813,
+        438
+      ],
+      "installation_date": "2024-03-22",
+      "serial_number": "SN-914931"
+    },
+    "342": {
+      "position": [
+        681,
+        130
+      ],
+      "installation_date": "2023-11-16",
+      "serial_number": "SN-911676"
+    },
+    "343": {
+      "position": [
+        984,
+        24
+      ],
+      "installation_date": "2023-08-28",
+      "serial_number": "SN-133214"
+    },
+    "344": {
+      "position": [
+        561,
+        203
+      ],
+      "installation_date": "2022-09-12",
+      "serial_number": "SN-257332"
+    },
+    "345": {
+      "position": [
+        951,
+        386
+      ],
+      "installation_date": "2020-10-04",
+      "serial_number": "SN-768821"
+    },
+    "346": {
+      "position": [
+        263,
+        277
+      ],
+      "installation_date": "2021-08-04",
+      "serial_number": "SN-429484"
+    },
+    "347": {
+      "position": [
+        711,
+        444
+      ],
+      "installation_date": "2023-07-30",
+      "serial_number": "SN-463295"
+    },
+    "348": {
+      "position": [
+        28,
+        392
+      ],
+      "installation_date": "2024-03-24",
+      "serial_number": "SN-541086"
+    },
+    "349": {
+      "position": [
+        265,
+        392
+      ],
+      "installation_date": "2021-12-04",
+      "serial_number": "SN-938966"
+    },
+    "350": {
+      "position": [
+        332,
+        520
+      ],
+      "installation_date": "2022-10-16",
+      "serial_number": "SN-271707"
+    },
+    "351": {
+      "position": [
+        547,
+        477
+      ],
+      "installation_date": "2023-12-17",
+      "serial_number": "SN-524081"
+    },
+    "352": {
+      "position": [
+        329,
+        449
+      ],
+      "installation_date": "2021-12-25",
+      "serial_number": "SN-831884"
+    },
+    "353": {
+      "position": [
+        605,
+        437
+      ],
+      "installation_date": "2022-11-08",
+      "serial_number": "SN-959809"
+    },
+    "354": {
+      "position": [
+        25,
+        38
+      ],
+      "installation_date": "2022-10-04",
+      "serial_number": "SN-159518"
+    },
+    "355": {
+      "position": [
+        520,
+        301
+      ],
+      "installation_date": "2022-11-23",
+      "serial_number": "SN-472011"
+    },
+    "356": {
+      "position": [
+        758,
+        389
+      ],
+      "installation_date": "2020-09-04",
+      "serial_number": "SN-799039"
+    },
+    "357": {
+      "position": [
+        690,
+        459
+      ],
+      "installation_date": "2022-06-22",
+      "serial_number": "SN-976271"
+    },
+    "358": {
+      "position": [
+        115,
+        496
+      ],
+      "installation_date": "2022-05-18",
+      "serial_number": "SN-444998"
+    },
+    "359": {
+      "position": [
+        883,
+        38
+      ],
+      "installation_date": "2023-03-03",
+      "serial_number": "SN-286207"
+    },
+    "360": {
+      "position": [
+        552,
+        435
+      ],
+      "installation_date": "2021-01-01",
+      "serial_number": "SN-969286"
+    },
+    "361": {
+      "position": [
+        595,
+        355
+      ],
+      "installation_date": "2021-10-11",
+      "serial_number": "SN-178915"
+    },
+    "362": {
+      "position": [
+        382,
+        441
+      ],
+      "installation_date": "2024-02-26",
+      "serial_number": "SN-309363"
+    },
+    "363": {
+      "position": [
+        847,
+        482
+      ],
+      "installation_date": "2023-01-04",
+      "serial_number": "SN-853068"
+    },
+    "364": {
+      "position": [
+        164,
+        194
+      ],
+      "installation_date": "2021-02-15",
+      "serial_number": "SN-441199"
+    },
+    "365": {
+      "position": [
+        212,
+        479
+      ],
+      "installation_date": "2022-01-10",
+      "serial_number": "SN-647761"
+    },
+    "366": {
+      "position": [
+        378,
+        300
+      ],
+      "installation_date": "2021-02-07",
+      "serial_number": "SN-759745"
+    },
+    "367": {
+      "position": [
+        97,
+        19
+      ],
+      "installation_date": "2020-05-04",
+      "serial_number": "SN-237672"
+    },
+    "368": {
+      "position": [
+        227,
+        391
+      ],
+      "installation_date": "2021-01-16",
+      "serial_number": "SN-121282"
+    },
+    "369": {
+      "position": [
+        767,
+        500
+      ],
+      "installation_date": "2023-12-30",
+      "serial_number": "SN-908859"
+    },
+    "370": {
+      "position": [
+        531,
+        154
+      ],
+      "installation_date": "2021-09-08",
+      "serial_number": "SN-899276"
+    },
+    "371": {
+      "position": [
+        505,
+        186
+      ],
+      "installation_date": "2021-03-17",
+      "serial_number": "SN-427963"
+    },
+    "372": {
+      "position": [
+        78,
+        329
+      ],
+      "installation_date": "2020-11-19",
+      "serial_number": "SN-790850"
+    },
+    "373": {
+      "position": [
+        762,
+        471
+      ],
+      "installation_date": "2023-10-31",
+      "serial_number": "SN-935835"
+    },
+    "374": {
+      "position": [
+        191,
+        179
+      ],
+      "installation_date": "2023-07-30",
+      "serial_number": "SN-566838"
+    },
+    "375": {
+      "position": [
+        229,
+        45
+      ],
+      "installation_date": "2021-07-09",
+      "serial_number": "SN-698199"
+    },
+    "376": {
+      "position": [
+        899,
+        120
+      ],
+      "installation_date": "2023-09-30",
+      "serial_number": "SN-620266"
+    },
+    "377": {
+      "position": [
+        513,
+        349
+      ],
+      "installation_date": "2021-08-04",
+      "serial_number": "SN-799146"
+    },
+    "378": {
+      "position": [
+        898,
+        340
+      ],
+      "installation_date": "2021-11-30",
+      "serial_number": "SN-578347"
+    },
+    "379": {
+      "position": [
+        279,
+        28
+      ],
+      "installation_date": "2022-09-01",
+      "serial_number": "SN-301283"
+    },
+    "380": {
+      "position": [
+        276,
+        417
+      ],
+      "installation_date": "2021-04-21",
+      "serial_number": "SN-911128"
+    },
+    "381": {
+      "position": [
+        712,
+        424
+      ],
+      "installation_date": "2024-04-02",
+      "serial_number": "SN-429612"
+    },
+    "382": {
+      "position": [
+        431,
+        391
+      ],
+      "installation_date": "2021-03-31",
+      "serial_number": "SN-626269"
+    },
+    "383": {
+      "position": [
+        928,
+        28
+      ],
+      "installation_date": "2023-01-25",
+      "serial_number": "SN-372127"
+    },
+    "384": {
+      "position": [
+        509,
+        344
+      ],
+      "installation_date": "2021-03-07",
+      "serial_number": "SN-806389"
+    },
+    "385": {
+      "position": [
+        79,
+        14
+      ],
+      "installation_date": "2020-01-14",
+      "serial_number": "SN-522664"
+    },
+    "386": {
+      "position": [
+        106,
+        435
+      ],
+      "installation_date": "2023-12-25",
+      "serial_number": "SN-282268"
+    },
+    "387": {
+      "position": [
+        204,
+        5
+      ],
+      "installation_date": "2024-02-06",
+      "serial_number": "SN-279551"
+    },
+    "388": {
+      "position": [
+        687,
+        389
+      ],
+      "installation_date": "2024-12-08",
+      "serial_number": "SN-422895"
+    },
+    "389": {
+      "position": [
+        144,
+        2
+      ],
+      "installation_date": "2020-07-10",
+      "serial_number": "SN-440752"
+    },
+    "390": {
+      "position": [
+        80,
+        449
+      ],
+      "installation_date": "2020-03-20",
+      "serial_number": "SN-403336"
+    },
+    "391": {
+      "position": [
+        332,
+        461
+      ],
+      "installation_date": "2024-10-25",
+      "serial_number": "SN-166455"
+    },
+    "392": {
+      "position": [
+        958,
+        398
+      ],
+      "installation_date": "2022-02-20",
+      "serial_number": "SN-910702"
+    },
+    "393": {
+      "position": [
+        808,
+        156
+      ],
+      "installation_date": "2020-01-16",
+      "serial_number": "SN-495190"
+    },
+    "394": {
+      "position": [
+        184,
+        203
+      ],
+      "installation_date": "2020-05-05",
+      "serial_number": "SN-385496"
+    },
+    "395": {
+      "position": [
+        598,
+        424
+      ],
+      "installation_date": "2024-11-03",
+      "serial_number": "SN-875635"
+    },
+    "396": {
+      "position": [
+        766,
+        25
+      ],
+      "installation_date": "2024-05-22",
+      "serial_number": "SN-752764"
+    },
+    "397": {
+      "position": [
+        544,
+        146
+      ],
+      "installation_date": "2023-08-10",
+      "serial_number": "SN-932089"
+    },
+    "398": {
+      "position": [
+        354,
+        325
+      ],
+      "installation_date": "2021-10-14",
+      "serial_number": "SN-728452"
+    },
+    "399": {
+      "position": [
+        982,
+        401
+      ],
+      "installation_date": "2020-10-24",
+      "serial_number": "SN-152967"
+    },
+    "400": {
+      "position": [
+        997,
+        57
+      ],
+      "installation_date": "2020-02-03",
+      "serial_number": "SN-629834"
+    },
+    "401": {
+      "position": [
+        546,
+        356
+      ],
+      "installation_date": "2020-02-05",
+      "serial_number": "SN-903774"
+    },
+    "402": {
+      "position": [
+        856,
+        164
+      ],
+      "installation_date": "2022-11-15",
+      "serial_number": "SN-677404"
+    },
+    "403": {
+      "position": [
+        323,
+        21
+      ],
+      "installation_date": "2023-11-10",
+      "serial_number": "SN-268888"
+    },
+    "404": {
+      "position": [
+        114,
+        77
+      ],
+      "installation_date": "2022-11-22",
+      "serial_number": "SN-716018"
+    },
+    "405": {
+      "position": [
+        3,
+        271
+      ],
+      "installation_date": "2024-09-27",
+      "serial_number": "SN-755528"
+    },
+    "406": {
+      "position": [
+        920,
+        206
+      ],
+      "installation_date": "2024-02-24",
+      "serial_number": "SN-598614"
+    },
+    "407": {
+      "position": [
+        608,
+        500
+      ],
+      "installation_date": "2023-02-28",
+      "serial_number": "SN-774070"
+    },
+    "408": {
+      "position": [
+        151,
+        350
+      ],
+      "installation_date": "2022-03-23",
+      "serial_number": "SN-533522"
+    },
+    "409": {
+      "position": [
+        872,
+        447
+      ],
+      "installation_date": "2024-01-08",
+      "serial_number": "SN-319388"
+    },
+    "410": {
+      "position": [
+        112,
+        383
+      ],
+      "installation_date": "2020-05-11",
+      "serial_number": "SN-709578"
+    },
+    "411": {
+      "position": [
+        254,
+        110
+      ],
+      "installation_date": "2021-09-25",
+      "serial_number": "SN-818592"
+    },
+    "412": {
+      "position": [
+        144,
+        169
+      ],
+      "installation_date": "2020-03-03",
+      "serial_number": "SN-135017"
+    },
+    "413": {
+      "position": [
+        562,
+        134
+      ],
+      "installation_date": "2023-02-19",
+      "serial_number": "SN-353102"
+    },
+    "414": {
+      "position": [
+        877,
+        324
+      ],
+      "installation_date": "2022-08-27",
+      "serial_number": "SN-515625"
+    },
+    "415": {
+      "position": [
+        291,
+        308
+      ],
+      "installation_date": "2023-06-07",
+      "serial_number": "SN-940318"
+    },
+    "416": {
+      "position": [
+        458,
+        345
+      ],
+      "installation_date": "2023-11-29",
+      "serial_number": "SN-831420"
+    },
+    "417": {
+      "position": [
+        29,
+        160
+      ],
+      "installation_date": "2024-10-16",
+      "serial_number": "SN-635600"
+    },
+    "418": {
+      "position": [
+        978,
+        341
+      ],
+      "installation_date": "2020-09-07",
+      "serial_number": "SN-444834"
+    },
+    "419": {
+      "position": [
+        897,
+        304
+      ],
+      "installation_date": "2020-12-03",
+      "serial_number": "SN-559540"
+    },
+    "420": {
+      "position": [
+        463,
+        461
+      ],
+      "installation_date": "2021-09-07",
+      "serial_number": "SN-742554"
+    },
+    "421": {
+      "position": [
+        445,
+        322
+      ],
+      "installation_date": "2021-07-25",
+      "serial_number": "SN-423473"
+    },
+    "422": {
+      "position": [
+        819,
+        100
+      ],
+      "installation_date": "2023-11-17",
+      "serial_number": "SN-511105"
+    },
+    "423": {
+      "position": [
+        18,
+        442
+      ],
+      "installation_date": "2021-08-24",
+      "serial_number": "SN-745845"
+    },
+    "424": {
+      "position": [
+        352,
+        58
+      ],
+      "installation_date": "2021-09-02",
+      "serial_number": "SN-813060"
+    },
+    "425": {
+      "position": [
+        267,
+        13
+      ],
+      "installation_date": "2020-04-11",
+      "serial_number": "SN-216260"
+    },
+    "426": {
+      "position": [
+        446,
+        331
+      ],
+      "installation_date": "2024-11-20",
+      "serial_number": "SN-215421"
+    },
+    "427": {
+      "position": [
+        817,
+        375
+      ],
+      "installation_date": "2021-01-28",
+      "serial_number": "SN-784758"
+    },
+    "428": {
+      "position": [
+        771,
+        138
+      ],
+      "installation_date": "2023-10-15",
+      "serial_number": "SN-539872"
+    },
+    "429": {
+      "position": [
+        145,
+        327
+      ],
+      "installation_date": "2022-01-24",
+      "serial_number": "SN-772788"
+    },
+    "430": {
+      "position": [
+        445,
+        473
+      ],
+      "installation_date": "2021-09-24",
+      "serial_number": "SN-401827"
+    },
+    "431": {
+      "position": [
+        897,
+        202
+      ],
+      "installation_date": "2021-10-28",
+      "serial_number": "SN-959536"
+    },
+    "432": {
+      "position": [
+        243,
+        470
+      ],
+      "installation_date": "2024-01-14",
+      "serial_number": "SN-389577"
+    },
+    "433": {
+      "position": [
+        976,
+        487
+      ],
+      "installation_date": "2022-12-29",
+      "serial_number": "SN-685431"
+    },
+    "434": {
+      "position": [
+        715,
+        6
+      ],
+      "installation_date": "2020-11-07",
+      "serial_number": "SN-257596"
+    },
+    "435": {
+      "position": [
+        662,
+        59
+      ],
+      "installation_date": "2024-07-13",
+      "serial_number": "SN-927008"
+    },
+    "436": {
+      "position": [
+        711,
+        125
+      ],
+      "installation_date": "2024-09-14",
+      "serial_number": "SN-594730"
+    },
+    "437": {
+      "position": [
+        862,
+        498
+      ],
+      "installation_date": "2020-05-20",
+      "serial_number": "SN-506673"
+    },
+    "438": {
+      "position": [
+        514,
+        128
+      ],
+      "installation_date": "2023-12-27",
+      "serial_number": "SN-608587"
+    },
+    "439": {
+      "position": [
+        851,
+        78
+      ],
+      "installation_date": "2023-04-26",
+      "serial_number": "SN-792447"
+    },
+    "440": {
+      "position": [
+        734,
+        208
+      ],
+      "installation_date": "2023-07-31",
+      "serial_number": "SN-162431"
+    },
+    "441": {
+      "position": [
+        649,
+        445
+      ],
+      "installation_date": "2024-05-13",
+      "serial_number": "SN-346832"
+    },
+    "442": {
+      "position": [
+        382,
+        69
+      ],
+      "installation_date": "2020-09-11",
+      "serial_number": "SN-953683"
+    },
+    "443": {
+      "position": [
+        123,
+        366
+      ],
+      "installation_date": "2024-05-13",
+      "serial_number": "SN-338360"
+    },
+    "444": {
+      "position": [
+        926,
+        147
+      ],
+      "installation_date": "2024-07-25",
+      "serial_number": "SN-561726"
+    },
+    "445": {
+      "position": [
+        657,
+        377
+      ],
+      "installation_date": "2024-05-03",
+      "serial_number": "SN-918065"
+    },
+    "446": {
+      "position": [
+        563,
+        93
+      ],
+      "installation_date": "2022-09-02",
+      "serial_number": "SN-312350"
+    },
+    "447": {
+      "position": [
+        321,
+        266
+      ],
+      "installation_date": "2020-05-09",
+      "serial_number": "SN-709920"
+    },
+    "448": {
+      "position": [
+        895,
+        286
+      ],
+      "installation_date": "2020-08-04",
+      "serial_number": "SN-895297"
+    },
+    "449": {
+      "position": [
+        5,
+        63
+      ],
+      "installation_date": "2024-03-19",
+      "serial_number": "SN-134134"
+    },
+    "450": {
+      "position": [
+        534,
+        397
+      ],
+      "installation_date": "2023-03-09",
+      "serial_number": "SN-371740"
+    },
+    "451": {
+      "position": [
+        875,
+        37
+      ],
+      "installation_date": "2024-09-26",
+      "serial_number": "SN-739962"
+    },
+    "452": {
+      "position": [
+        457,
+        329
+      ],
+      "installation_date": "2024-06-23",
+      "serial_number": "SN-452077"
+    },
+    "453": {
+      "position": [
+        776,
+        216
+      ],
+      "installation_date": "2021-05-27",
+      "serial_number": "SN-598005"
+    },
+    "454": {
+      "position": [
+        347,
+        514
+      ],
+      "installation_date": "2021-09-24",
+      "serial_number": "SN-506596"
+    },
+    "455": {
+      "position": [
+        147,
+        360
+      ],
+      "installation_date": "2021-10-24",
+      "serial_number": "SN-782679"
+    },
+    "456": {
+      "position": [
+        562,
+        47
+      ],
+      "installation_date": "2021-07-27",
+      "serial_number": "SN-615260"
+    },
+    "457": {
+      "position": [
+        772,
+        505
+      ],
+      "installation_date": "2024-11-09",
+      "serial_number": "SN-939175"
+    },
+    "458": {
+      "position": [
+        468,
+        369
+      ],
+      "installation_date": "2024-10-25",
+      "serial_number": "SN-345504"
+    },
+    "459": {
+      "position": [
+        852,
+        123
+      ],
+      "installation_date": "2024-12-06",
+      "serial_number": "SN-919359"
+    },
+    "460": {
+      "position": [
+        840,
+        250
+      ],
+      "installation_date": "2021-06-11",
+      "serial_number": "SN-193939"
+    },
+    "461": {
+      "position": [
+        697,
+        172
+      ],
+      "installation_date": "2024-04-23",
+      "serial_number": "SN-713105"
+    },
+    "462": {
+      "position": [
+        235,
+        305
+      ],
+      "installation_date": "2020-07-06",
+      "serial_number": "SN-641409"
+    },
+    "463": {
+      "position": [
+        847,
+        60
+      ],
+      "installation_date": "2023-04-26",
+      "serial_number": "SN-712290"
+    },
+    "464": {
+      "position": [
+        737,
+        301
+      ],
+      "installation_date": "2020-09-21",
+      "serial_number": "SN-328193"
+    },
+    "465": {
+      "position": [
+        315,
+        465
+      ],
+      "installation_date": "2021-08-05",
+      "serial_number": "SN-914685"
+    },
+    "466": {
+      "position": [
+        793,
+        51
+      ],
+      "installation_date": "2021-10-03",
+      "serial_number": "SN-649929"
+    },
+    "467": {
+      "position": [
+        261,
+        513
+      ],
+      "installation_date": "2024-04-11",
+      "serial_number": "SN-688103"
+    },
+    "468": {
+      "position": [
+        278,
+        331
+      ],
+      "installation_date": "2020-08-07",
+      "serial_number": "SN-734012"
+    },
+    "469": {
+      "position": [
+        290,
+        27
+      ],
+      "installation_date": "2020-12-09",
+      "serial_number": "SN-332179"
+    },
+    "470": {
+      "position": [
+        766,
+        367
+      ],
+      "installation_date": "2024-01-11",
+      "serial_number": "SN-932487"
+    },
+    "471": {
+      "position": [
+        123,
+        219
+      ],
+      "installation_date": "2020-02-20",
+      "serial_number": "SN-572942"
+    },
+    "472": {
+      "position": [
+        502,
+        11
+      ],
+      "installation_date": "2021-09-14",
+      "serial_number": "SN-683471"
+    },
+    "473": {
+      "position": [
+        199,
+        139
+      ],
+      "installation_date": "2024-07-24",
+      "serial_number": "SN-235325"
+    },
+    "474": {
+      "position": [
+        1014,
+        300
+      ],
+      "installation_date": "2020-08-12",
+      "serial_number": "SN-742375"
+    },
+    "475": {
+      "position": [
+        167,
+        419
+      ],
+      "installation_date": "2023-05-05",
+      "serial_number": "SN-784342"
+    },
+    "476": {
+      "position": [
+        194,
+        210
+      ],
+      "installation_date": "2022-09-22",
+      "serial_number": "SN-534147"
+    },
+    "477": {
+      "position": [
+        816,
+        244
+      ],
+      "installation_date": "2021-08-04",
+      "serial_number": "SN-491400"
+    },
+    "478": {
+      "position": [
+        632,
+        176
+      ],
+      "installation_date": "2023-02-19",
+      "serial_number": "SN-870169"
+    },
+    "479": {
+      "position": [
+        251,
+        64
+      ],
+      "installation_date": "2021-05-01",
+      "serial_number": "SN-297532"
+    },
+    "480": {
+      "position": [
+        716,
+        141
+      ],
+      "installation_date": "2022-10-08",
+      "serial_number": "SN-504831"
+    },
+    "481": {
+      "position": [
+        655,
+        299
+      ],
+      "installation_date": "2024-08-27",
+      "serial_number": "SN-864654"
+    },
+    "482": {
+      "position": [
+        699,
+        372
+      ],
+      "installation_date": "2023-04-02",
+      "serial_number": "SN-821445"
+    },
+    "483": {
+      "position": [
+        729,
+        311
+      ],
+      "installation_date": "2021-02-16",
+      "serial_number": "SN-610995"
+    },
+    "484": {
+      "position": [
+        752,
+        170
+      ],
+      "installation_date": "2021-02-19",
+      "serial_number": "SN-349285"
+    },
+    "485": {
+      "position": [
+        135,
+        420
+      ],
+      "installation_date": "2020-10-15",
+      "serial_number": "SN-335474"
+    },
+    "486": {
+      "position": [
+        38,
+        521
+      ],
+      "installation_date": "2023-07-15",
+      "serial_number": "SN-317773"
+    },
+    "487": {
+      "position": [
+        303,
+        436
+      ],
+      "installation_date": "2021-06-27",
+      "serial_number": "SN-285665"
+    },
+    "488": {
+      "position": [
+        582,
+        113
+      ],
+      "installation_date": "2020-12-19",
+      "serial_number": "SN-218414"
+    },
+    "489": {
+      "position": [
+        5,
+        388
+      ],
+      "installation_date": "2020-07-30",
+      "serial_number": "SN-711342"
+    },
+    "490": {
+      "position": [
+        347,
+        406
+      ],
+      "installation_date": "2024-10-26",
+      "serial_number": "SN-170356"
+    },
+    "491": {
+      "position": [
+        433,
+        122
+      ],
+      "installation_date": "2022-02-10",
+      "serial_number": "SN-627316"
+    },
+    "492": {
+      "position": [
+        576,
+        284
+      ],
+      "installation_date": "2022-10-25",
+      "serial_number": "SN-723346"
+    },
+    "493": {
+      "position": [
+        946,
+        353
+      ],
+      "installation_date": "2024-04-07",
+      "serial_number": "SN-893335"
+    },
+    "494": {
+      "position": [
+        331,
+        84
+      ],
+      "installation_date": "2023-07-28",
+      "serial_number": "SN-225807"
+    },
+    "495": {
+      "position": [
+        510,
+        298
+      ],
+      "installation_date": "2020-04-23",
+      "serial_number": "SN-102389"
+    },
+    "496": {
+      "position": [
+        947,
+        364
+      ],
+      "installation_date": "2023-05-07",
+      "serial_number": "SN-272230"
+    },
+    "497": {
+      "position": [
+        259,
+        431
+      ],
+      "installation_date": "2020-01-26",
+      "serial_number": "SN-945224"
+    },
+    "498": {
+      "position": [
+        674,
+        508
+      ],
+      "installation_date": "2023-09-05",
+      "serial_number": "SN-324614"
+    },
+    "499": {
+      "position": [
+        932,
+        319
+      ],
+      "installation_date": "2021-04-30",
+      "serial_number": "SN-194462"
+    },
+    "500": {
+      "position": [
+        648,
+        241
+      ],
+      "installation_date": "2021-06-16",
+      "serial_number": "SN-201848"
+    },
+    "501": {
+      "position": [
+        772,
+        200
+      ],
+      "installation_date": "2021-10-29",
+      "serial_number": "SN-983253"
+    },
+    "502": {
+      "position": [
+        766,
+        269
+      ],
+      "installation_date": "2024-01-08",
+      "serial_number": "SN-347264"
+    },
+    "503": {
+      "position": [
+        406,
+        13
+      ],
+      "installation_date": "2021-05-06",
+      "serial_number": "SN-936312"
+    },
+    "504": {
+      "position": [
+        899,
+        289
+      ],
+      "installation_date": "2023-09-03",
+      "serial_number": "SN-997356"
+    },
+    "505": {
+      "position": [
+        744,
+        480
+      ],
+      "installation_date": "2022-06-08",
+      "serial_number": "SN-186044"
+    },
+    "506": {
+      "position": [
+        1002,
+        380
+      ],
+      "installation_date": "2022-04-03",
+      "serial_number": "SN-430791"
+    },
+    "507": {
+      "position": [
+        864,
+        355
+      ],
+      "installation_date": "2024-06-14",
+      "serial_number": "SN-796117"
+    },
+    "508": {
+      "position": [
+        24,
+        518
+      ],
+      "installation_date": "2024-01-27",
+      "serial_number": "SN-100591"
+    },
+    "509": {
+      "position": [
+        937,
+        37
+      ],
+      "installation_date": "2021-02-15",
+      "serial_number": "SN-465002"
+    },
+    "510": {
+      "position": [
+        663,
+        192
+      ],
+      "installation_date": "2024-06-24",
+      "serial_number": "SN-591899"
+    },
+    "511": {
+      "position": [
+        911,
+        435
+      ],
+      "installation_date": "2021-08-27",
+      "serial_number": "SN-846638"
+    },
+    "512": {
+      "position": [
+        203,
+        363
+      ],
+      "installation_date": "2023-11-01",
+      "serial_number": "SN-744993"
+    },
+    "513": {
+      "position": [
+        659,
+        458
+      ],
+      "installation_date": "2023-05-06",
+      "serial_number": "SN-671250"
+    },
+    "514": {
+      "position": [
+        909,
+        378
+      ],
+      "installation_date": "2023-12-10",
+      "serial_number": "SN-885612"
+    },
+    "515": {
+      "position": [
+        301,
+        169
+      ],
+      "installation_date": "2022-07-24",
+      "serial_number": "SN-371051"
+    },
+    "516": {
+      "position": [
+        149,
+        382
+      ],
+      "installation_date": "2023-10-20",
+      "serial_number": "SN-922454"
+    },
+    "517": {
+      "position": [
+        585,
+        56
+      ],
+      "installation_date": "2022-01-05",
+      "serial_number": "SN-469204"
+    },
+    "518": {
+      "position": [
+        784,
+        487
+      ],
+      "installation_date": "2023-10-31",
+      "serial_number": "SN-706443"
+    },
+    "519": {
+      "position": [
+        841,
+        512
+      ],
+      "installation_date": "2020-09-15",
+      "serial_number": "SN-274726"
+    },
+    "520": {
+      "position": [
+        335,
+        173
+      ],
+      "installation_date": "2023-03-05",
+      "serial_number": "SN-570871"
+    },
+    "521": {
+      "position": [
+        573,
+        5
+      ],
+      "installation_date": "2021-06-03",
+      "serial_number": "SN-249046"
+    },
+    "522": {
+      "position": [
+        136,
+        489
+      ],
+      "installation_date": "2022-10-09",
+      "serial_number": "SN-668687"
+    },
+    "523": {
+      "position": [
+        327,
+        50
+      ],
+      "installation_date": "2022-04-04",
+      "serial_number": "SN-336671"
+    },
+    "524": {
+      "position": [
+        732,
+        524
+      ],
+      "installation_date": "2022-05-17",
+      "serial_number": "SN-924987"
+    },
+    "525": {
+      "position": [
+        31,
+        112
+      ],
+      "installation_date": "2020-09-13",
+      "serial_number": "SN-629859"
+    },
+    "526": {
+      "position": [
+        862,
+        302
+      ],
+      "installation_date": "2022-03-27",
+      "serial_number": "SN-519369"
+    },
+    "527": {
+      "position": [
+        738,
+        88
+      ],
+      "installation_date": "2022-12-02",
+      "serial_number": "SN-262407"
+    },
+    "528": {
+      "position": [
+        971,
+        300
+      ],
+      "installation_date": "2023-01-18",
+      "serial_number": "SN-104929"
+    },
+    "529": {
+      "position": [
+        308,
+        98
+      ],
+      "installation_date": "2021-09-14",
+      "serial_number": "SN-701611"
+    },
+    "530": {
+      "position": [
+        874,
+        331
+      ],
+      "installation_date": "2023-05-10",
+      "serial_number": "SN-268400"
+    },
+    "531": {
+      "position": [
+        560,
+        433
+      ],
+      "installation_date": "2021-04-13",
+      "serial_number": "SN-667988"
+    },
+    "532": {
+      "position": [
+        216,
+        90
+      ],
+      "installation_date": "2023-01-15",
+      "serial_number": "SN-613739"
+    },
+    "533": {
+      "position": [
+        985,
+        252
+      ],
+      "installation_date": "2022-03-10",
+      "serial_number": "SN-665601"
+    },
+    "534": {
+      "position": [
+        717,
+        83
+      ],
+      "installation_date": "2020-05-09",
+      "serial_number": "SN-367894"
+    },
+    "535": {
+      "position": [
+        496,
+        115
+      ],
+      "installation_date": "2024-08-30",
+      "serial_number": "SN-207448"
+    },
+    "536": {
+      "position": [
+        297,
+        356
+      ],
+      "installation_date": "2021-08-29",
+      "serial_number": "SN-323262"
+    },
+    "537": {
+      "position": [
+        769,
+        520
+      ],
+      "installation_date": "2021-02-18",
+      "serial_number": "SN-834196"
+    },
+    "538": {
+      "position": [
+        242,
+        467
+      ],
+      "installation_date": "2021-08-27",
+      "serial_number": "SN-764163"
+    },
+    "539": {
+      "position": [
+        201,
+        462
+      ],
+      "installation_date": "2024-01-26",
+      "serial_number": "SN-232023"
+    },
+    "540": {
+      "position": [
+        760,
+        77
+      ],
+      "installation_date": "2020-08-03",
+      "serial_number": "SN-699077"
+    },
+    "541": {
+      "position": [
+        862,
+        2
+      ],
+      "installation_date": "2022-06-29",
+      "serial_number": "SN-678416"
+    },
+    "542": {
+      "position": [
+        494,
+        97
+      ],
+      "installation_date": "2022-03-02",
+      "serial_number": "SN-141099"
+    },
+    "543": {
+      "position": [
+        1001,
+        203
+      ],
+      "installation_date": "2022-11-11",
+      "serial_number": "SN-434612"
+    },
+    "544": {
+      "position": [
+        317,
+        405
+      ],
+      "installation_date": "2021-03-25",
+      "serial_number": "SN-324449"
+    },
+    "545": {
+      "position": [
+        743,
+        339
+      ],
+      "installation_date": "2020-06-24",
+      "serial_number": "SN-418772"
+    },
+    "546": {
+      "position": [
+        681,
+        365
+      ],
+      "installation_date": "2024-10-05",
+      "serial_number": "SN-333114"
+    },
+    "547": {
+      "position": [
+        783,
+        163
+      ],
+      "installation_date": "2020-09-06",
+      "serial_number": "SN-970588"
+    },
+    "548": {
+      "position": [
+        84,
+        175
+      ],
+      "installation_date": "2023-09-19",
+      "serial_number": "SN-549652"
+    },
+    "549": {
+      "position": [
+        301,
+        301
+      ],
+      "installation_date": "2021-05-16",
+      "serial_number": "SN-680380"
+    },
+    "550": {
+      "position": [
+        570,
+        395
+      ],
+      "installation_date": "2023-05-02",
+      "serial_number": "SN-575413"
+    },
+    "551": {
+      "position": [
+        807,
+        12
+      ],
+      "installation_date": "2020-08-22",
+      "serial_number": "SN-559358"
+    },
+    "552": {
+      "position": [
+        785,
+        204
+      ],
+      "installation_date": "2024-03-29",
+      "serial_number": "SN-451680"
+    },
+    "553": {
+      "position": [
+        324,
+        149
+      ],
+      "installation_date": "2024-06-26",
+      "serial_number": "SN-643162"
+    },
+    "554": {
+      "position": [
+        347,
+        221
+      ],
+      "installation_date": "2023-12-14",
+      "serial_number": "SN-367957"
+    },
+    "555": {
+      "position": [
+        734,
+        512
+      ],
+      "installation_date": "2024-06-07",
+      "serial_number": "SN-869175"
+    },
+    "556": {
+      "position": [
+        288,
+        308
+      ],
+      "installation_date": "2022-12-01",
+      "serial_number": "SN-661263"
+    },
+    "557": {
+      "position": [
+        1006,
+        256
+      ],
+      "installation_date": "2021-03-07",
+      "serial_number": "SN-746265"
+    },
+    "558": {
+      "position": [
+        13,
+        410
+      ],
+      "installation_date": "2024-08-29",
+      "serial_number": "SN-853716"
+    },
+    "559": {
+      "position": [
+        214,
+        67
+      ],
+      "installation_date": "2022-03-06",
+      "serial_number": "SN-135158"
+    },
+    "560": {
+      "position": [
+        941,
+        71
+      ],
+      "installation_date": "2024-09-07",
+      "serial_number": "SN-949567"
+    },
+    "561": {
+      "position": [
+        366,
+        346
+      ],
+      "installation_date": "2021-09-27",
+      "serial_number": "SN-549100"
+    },
+    "562": {
+      "position": [
+        662,
+        285
+      ],
+      "installation_date": "2023-12-23",
+      "serial_number": "SN-402385"
+    },
+    "563": {
+      "position": [
+        834,
+        37
+      ],
+      "installation_date": "2023-08-11",
+      "serial_number": "SN-837699"
+    },
+    "564": {
+      "position": [
+        525,
+        158
+      ],
+      "installation_date": "2024-03-05",
+      "serial_number": "SN-304661"
+    },
+    "565": {
+      "position": [
+        45,
+        72
+      ],
+      "installation_date": "2020-03-01",
+      "serial_number": "SN-399403"
+    },
+    "566": {
+      "position": [
+        695,
+        482
+      ],
+      "installation_date": "2022-09-11",
+      "serial_number": "SN-539021"
+    },
+    "567": {
+      "position": [
+        21,
+        31
+      ],
+      "installation_date": "2020-01-03",
+      "serial_number": "SN-595996"
+    },
+    "568": {
+      "position": [
+        130,
+        170
+      ],
+      "installation_date": "2023-09-23",
+      "serial_number": "SN-866071"
+    },
+    "569": {
+      "position": [
+        665,
+        379
+      ],
+      "installation_date": "2024-03-16",
+      "serial_number": "SN-500542"
+    },
+    "570": {
+      "position": [
+        798,
+        21
+      ],
+      "installation_date": "2022-08-10",
+      "serial_number": "SN-811864"
+    },
+    "571": {
+      "position": [
+        844,
+        435
+      ],
+      "installation_date": "2021-04-21",
+      "serial_number": "SN-860245"
+    },
+    "572": {
+      "position": [
+        914,
+        462
+      ],
+      "installation_date": "2022-06-20",
+      "serial_number": "SN-921750"
+    },
+    "573": {
+      "position": [
+        800,
+        52
+      ],
+      "installation_date": "2023-09-15",
+      "serial_number": "SN-538377"
+    },
+    "574": {
+      "position": [
+        264,
+        108
+      ],
+      "installation_date": "2022-08-19",
+      "serial_number": "SN-953074"
+    },
+    "575": {
+      "position": [
+        397,
+        143
+      ],
+      "installation_date": "2022-04-10",
+      "serial_number": "SN-182901"
+    },
+    "576": {
+      "position": [
+        687,
+        412
+      ],
+      "installation_date": "2022-01-21",
+      "serial_number": "SN-804403"
+    },
+    "577": {
+      "position": [
+        595,
+        320
+      ],
+      "installation_date": "2023-11-25",
+      "serial_number": "SN-833118"
+    },
+    "578": {
+      "position": [
+        697,
+        510
+      ],
+      "installation_date": "2020-08-10",
+      "serial_number": "SN-863936"
+    },
+    "579": {
+      "position": [
+        259,
+        512
+      ],
+      "installation_date": "2022-12-22",
+      "serial_number": "SN-746484"
+    },
+    "580": {
+      "position": [
+        423,
+        61
+      ],
+      "installation_date": "2020-10-07",
+      "serial_number": "SN-424918"
+    },
+    "581": {
+      "position": [
+        112,
+        367
+      ],
+      "installation_date": "2024-03-26",
+      "serial_number": "SN-984376"
+    },
+    "582": {
+      "position": [
+        33,
+        457
+      ],
+      "installation_date": "2023-09-17",
+      "serial_number": "SN-824265"
+    },
+    "583": {
+      "position": [
+        708,
+        446
+      ],
+      "installation_date": "2021-09-22",
+      "serial_number": "SN-639469"
+    },
+    "584": {
+      "position": [
+        497,
+        332
+      ],
+      "installation_date": "2024-09-02",
+      "serial_number": "SN-432187"
+    },
+    "585": {
+      "position": [
+        4,
+        201
+      ],
+      "installation_date": "2023-12-07",
+      "serial_number": "SN-328800"
+    },
+    "586": {
+      "position": [
+        706,
+        210
+      ],
+      "installation_date": "2021-11-29",
+      "serial_number": "SN-905594"
+    },
+    "587": {
+      "position": [
+        312,
+        419
+      ],
+      "installation_date": "2023-05-16",
+      "serial_number": "SN-577944"
+    },
+    "588": {
+      "position": [
+        383,
+        293
+      ],
+      "installation_date": "2021-02-08",
+      "serial_number": "SN-610983"
+    },
+    "589": {
+      "position": [
+        23,
+        175
+      ],
+      "installation_date": "2024-03-24",
+      "serial_number": "SN-685869"
+    },
+    "590": {
+      "position": [
+        357,
+        441
+      ],
+      "installation_date": "2022-11-10",
+      "serial_number": "SN-120995"
+    },
+    "591": {
+      "position": [
+        118,
+        376
+      ],
+      "installation_date": "2022-09-12",
+      "serial_number": "SN-829686"
+    },
+    "592": {
+      "position": [
+        923,
+        402
+      ],
+      "installation_date": "2024-07-14",
+      "serial_number": "SN-627395"
+    },
+    "593": {
+      "position": [
+        733,
+        425
+      ],
+      "installation_date": "2022-09-11",
+      "serial_number": "SN-478708"
+    },
+    "594": {
+      "position": [
+        288,
+        129
+      ],
+      "installation_date": "2021-08-21",
+      "serial_number": "SN-117849"
+    },
+    "595": {
+      "position": [
+        302,
+        520
+      ],
+      "installation_date": "2020-09-11",
+      "serial_number": "SN-182841"
+    },
+    "596": {
+      "position": [
+        540,
+        139
+      ],
+      "installation_date": "2021-07-19",
+      "serial_number": "SN-273933"
+    },
+    "597": {
+      "position": [
+        634,
+        63
+      ],
+      "installation_date": "2024-07-18",
+      "serial_number": "SN-958187"
+    },
+    "598": {
+      "position": [
+        347,
+        199
+      ],
+      "installation_date": "2023-06-16",
+      "serial_number": "SN-694684"
+    },
+    "599": {
+      "position": [
+        607,
+        31
+      ],
+      "installation_date": "2021-01-10",
+      "serial_number": "SN-931008"
+    },
+    "600": {
+      "position": [
+        633,
+        123
+      ],
+      "installation_date": "2024-11-28",
+      "serial_number": "SN-907279"
+    },
+    "601": {
+      "position": [
+        749,
+        137
+      ],
+      "installation_date": "2023-03-27",
+      "serial_number": "SN-555259"
+    },
+    "602": {
+      "position": [
+        426,
+        410
+      ],
+      "installation_date": "2023-02-13",
+      "serial_number": "SN-772830"
+    },
+    "603": {
+      "position": [
+        200,
+        126
+      ],
+      "installation_date": "2021-05-22",
+      "serial_number": "SN-187195"
+    },
+    "604": {
+      "position": [
+        549,
+        495
+      ],
+      "installation_date": "2022-11-16",
+      "serial_number": "SN-174071"
+    },
+    "605": {
+      "position": [
+        838,
+        395
+      ],
+      "installation_date": "2024-11-07",
+      "serial_number": "SN-980966"
+    },
+    "606": {
+      "position": [
+        752,
+        244
+      ],
+      "installation_date": "2022-12-31",
+      "serial_number": "SN-238185"
+    },
+    "607": {
+      "position": [
+        195,
+        111
+      ],
+      "installation_date": "2020-03-15",
+      "serial_number": "SN-154100"
+    },
+    "608": {
+      "position": [
+        834,
+        340
+      ],
+      "installation_date": "2023-02-18",
+      "serial_number": "SN-997951"
+    },
+    "609": {
+      "position": [
+        579,
+        304
+      ],
+      "installation_date": "2020-04-22",
+      "serial_number": "SN-336373"
+    },
+    "610": {
+      "position": [
+        368,
+        72
+      ],
+      "installation_date": "2020-05-28",
+      "serial_number": "SN-589700"
+    },
+    "611": {
+      "position": [
+        477,
+        21
+      ],
+      "installation_date": "2024-11-24",
+      "serial_number": "SN-535267"
+    },
+    "612": {
+      "position": [
+        763,
+        192
+      ],
+      "installation_date": "2020-04-13",
+      "serial_number": "SN-315678"
+    },
+    "613": {
+      "position": [
+        863,
+        50
+      ],
+      "installation_date": "2022-02-24",
+      "serial_number": "SN-715009"
+    },
+    "614": {
+      "position": [
+        198,
+        215
+      ],
+      "installation_date": "2024-04-14",
+      "serial_number": "SN-289532"
+    },
+    "615": {
+      "position": [
+        694,
+        284
+      ],
+      "installation_date": "2022-10-07",
+      "serial_number": "SN-919887"
+    },
+    "616": {
+      "position": [
+        745,
+        229
+      ],
+      "installation_date": "2021-05-06",
+      "serial_number": "SN-965244"
+    },
+    "617": {
+      "position": [
+        748,
+        340
+      ],
+      "installation_date": "2022-12-15",
+      "serial_number": "SN-152168"
+    },
+    "618": {
+      "position": [
+        890,
+        444
+      ],
+      "installation_date": "2024-01-13",
+      "serial_number": "SN-360326"
+    },
+    "619": {
+      "position": [
+        140,
+        275
+      ],
+      "installation_date": "2024-02-12",
+      "serial_number": "SN-857050"
+    },
+    "620": {
+      "position": [
+        232,
+        273
+      ],
+      "installation_date": "2023-07-16",
+      "serial_number": "SN-238315"
+    },
+    "621": {
+      "position": [
+        580,
+        526
+      ],
+      "installation_date": "2020-08-18",
+      "serial_number": "SN-869729"
+    },
+    "622": {
+      "position": [
+        9,
+        325
+      ],
+      "installation_date": "2023-10-15",
+      "serial_number": "SN-500445"
+    },
+    "623": {
+      "position": [
+        527,
+        345
+      ],
+      "installation_date": "2024-12-01",
+      "serial_number": "SN-433579"
+    },
+    "624": {
+      "position": [
+        621,
+        60
+      ],
+      "installation_date": "2022-04-03",
+      "serial_number": "SN-112094"
+    },
+    "625": {
+      "position": [
+        939,
+        28
+      ],
+      "installation_date": "2023-03-15",
+      "serial_number": "SN-944973"
+    },
+    "626": {
+      "position": [
+        712,
+        77
+      ],
+      "installation_date": "2020-04-14",
+      "serial_number": "SN-641080"
+    },
+    "627": {
+      "position": [
+        81,
+        78
+      ],
+      "installation_date": "2020-05-02",
+      "serial_number": "SN-615566"
+    },
+    "628": {
+      "position": [
+        750,
+        78
+      ],
+      "installation_date": "2023-03-18",
+      "serial_number": "SN-196091"
+    },
+    "629": {
+      "position": [
+        234,
+        164
+      ],
+      "installation_date": "2023-02-21",
+      "serial_number": "SN-921560"
+    },
+    "630": {
+      "position": [
+        827,
+        236
+      ],
+      "installation_date": "2020-07-23",
+      "serial_number": "SN-628121"
+    },
+    "631": {
+      "position": [
+        560,
+        153
+      ],
+      "installation_date": "2020-08-29",
+      "serial_number": "SN-479995"
+    },
+    "632": {
+      "position": [
+        787,
+        8
+      ],
+      "installation_date": "2020-03-29",
+      "serial_number": "SN-198598"
+    },
+    "633": {
+      "position": [
+        806,
+        475
+      ],
+      "installation_date": "2023-06-04",
+      "serial_number": "SN-485109"
+    },
+    "634": {
+      "position": [
+        591,
+        404
+      ],
+      "installation_date": "2024-03-07",
+      "serial_number": "SN-453103"
+    },
+    "635": {
+      "position": [
+        870,
+        415
+      ],
+      "installation_date": "2020-10-20",
+      "serial_number": "SN-412246"
+    },
+    "636": {
+      "position": [
+        500,
+        15
+      ],
+      "installation_date": "2023-02-11",
+      "serial_number": "SN-920752"
+    },
+    "637": {
+      "position": [
+        913,
+        149
+      ],
+      "installation_date": "2024-01-27",
+      "serial_number": "SN-451759"
+    },
+    "638": {
+      "position": [
+        702,
+        379
+      ],
+      "installation_date": "2022-08-17",
+      "serial_number": "SN-672729"
+    },
+    "639": {
+      "position": [
+        393,
+        352
+      ],
+      "installation_date": "2023-03-18",
+      "serial_number": "SN-462871"
+    },
+    "640": {
+      "position": [
+        876,
+        359
+      ],
+      "installation_date": "2023-10-07",
+      "serial_number": "SN-671532"
+    },
+    "641": {
+      "position": [
+        367,
+        6
+      ],
+      "installation_date": "2021-01-30",
+      "serial_number": "SN-212487"
+    },
+    "642": {
+      "position": [
+        354,
+        135
+      ],
+      "installation_date": "2024-02-15",
+      "serial_number": "SN-385285"
+    },
+    "643": {
+      "position": [
+        1009,
+        430
+      ],
+      "installation_date": "2021-11-23",
+      "serial_number": "SN-530342"
+    },
+    "644": {
+      "position": [
+        975,
+        162
+      ],
+      "installation_date": "2022-04-15",
+      "serial_number": "SN-580861"
+    },
+    "645": {
+      "position": [
+        392,
+        212
+      ],
+      "installation_date": "2020-04-19",
+      "serial_number": "SN-986106"
+    },
+    "646": {
+      "position": [
+        242,
+        399
+      ],
+      "installation_date": "2023-06-05",
+      "serial_number": "SN-191813"
+    },
+    "647": {
+      "position": [
+        557,
+        419
+      ],
+      "installation_date": "2024-09-19",
+      "serial_number": "SN-487712"
+    },
+    "648": {
+      "position": [
+        567,
+        500
+      ],
+      "installation_date": "2022-11-22",
+      "serial_number": "SN-424032"
+    },
+    "649": {
+      "position": [
+        678,
+        221
+      ],
+      "installation_date": "2020-09-21",
+      "serial_number": "SN-797786"
+    },
+    "650": {
+      "position": [
+        387,
+        230
+      ],
+      "installation_date": "2020-08-20",
+      "serial_number": "SN-686066"
+    },
+    "651": {
+      "position": [
+        577,
+        142
+      ],
+      "installation_date": "2023-10-25",
+      "serial_number": "SN-746407"
+    },
+    "652": {
+      "position": [
+        523,
+        265
+      ],
+      "installation_date": "2020-10-04",
+      "serial_number": "SN-172337"
+    },
+    "653": {
+      "position": [
+        807,
+        381
+      ],
+      "installation_date": "2020-08-01",
+      "serial_number": "SN-429414"
+    },
+    "654": {
+      "position": [
+        1012,
+        82
+      ],
+      "installation_date": "2022-06-28",
+      "serial_number": "SN-843293"
+    },
+    "655": {
+      "position": [
+        149,
+        426
+      ],
+      "installation_date": "2022-03-12",
+      "serial_number": "SN-417783"
+    },
+    "656": {
+      "position": [
+        610,
+        68
+      ],
+      "installation_date": "2022-01-24",
+      "serial_number": "SN-811995"
+    },
+    "657": {
+      "position": [
+        933,
+        221
+      ],
+      "installation_date": "2023-10-04",
+      "serial_number": "SN-133164"
+    },
+    "658": {
+      "position": [
+        293,
+        454
+      ],
+      "installation_date": "2022-10-29",
+      "serial_number": "SN-651129"
+    },
+    "659": {
+      "position": [
+        323,
+        83
+      ],
+      "installation_date": "2022-12-04",
+      "serial_number": "SN-558598"
+    },
+    "660": {
+      "position": [
+        749,
+        524
+      ],
+      "installation_date": "2023-12-17",
+      "serial_number": "SN-254556"
+    },
+    "661": {
+      "position": [
+        750,
+        164
+      ],
+      "installation_date": "2024-03-24",
+      "serial_number": "SN-704769"
+    },
+    "662": {
+      "position": [
+        420,
+        362
+      ],
+      "installation_date": "2021-12-26",
+      "serial_number": "SN-801771"
+    },
+    "663": {
+      "position": [
+        539,
+        72
+      ],
+      "installation_date": "2023-10-20",
+      "serial_number": "SN-743561"
+    },
+    "664": {
+      "position": [
+        799,
+        295
+      ],
+      "installation_date": "2023-05-16",
+      "serial_number": "SN-899863"
+    },
+    "665": {
+      "position": [
+        919,
+        438
+      ],
+      "installation_date": "2024-06-22",
+      "serial_number": "SN-281853"
+    },
+    "666": {
+      "position": [
+        724,
+        354
+      ],
+      "installation_date": "2021-07-18",
+      "serial_number": "SN-703047"
+    },
+    "667": {
+      "position": [
+        150,
+        322
+      ],
+      "installation_date": "2023-02-20",
+      "serial_number": "SN-565526"
+    },
+    "668": {
+      "position": [
+        754,
+        160
+      ],
+      "installation_date": "2024-07-30",
+      "serial_number": "SN-286327"
+    },
+    "669": {
+      "position": [
+        761,
+        240
+      ],
+      "installation_date": "2020-03-28",
+      "serial_number": "SN-770325"
+    },
+    "670": {
+      "position": [
+        790,
+        459
+      ],
+      "installation_date": "2022-07-22",
+      "serial_number": "SN-700893"
+    },
+    "671": {
+      "position": [
+        90,
+        517
+      ],
+      "installation_date": "2021-08-03",
+      "serial_number": "SN-331612"
+    },
+    "672": {
+      "position": [
+        872,
+        351
+      ],
+      "installation_date": "2020-06-07",
+      "serial_number": "SN-821409"
+    },
+    "673": {
+      "position": [
+        606,
+        451
+      ],
+      "installation_date": "2020-07-03",
+      "serial_number": "SN-417097"
+    },
+    "674": {
+      "position": [
+        182,
+        240
+      ],
+      "installation_date": "2020-09-09",
+      "serial_number": "SN-954971"
+    },
+    "675": {
+      "position": [
+        273,
+        455
+      ],
+      "installation_date": "2020-12-19",
+      "serial_number": "SN-493282"
+    },
+    "676": {
+      "position": [
+        811,
+        296
+      ],
+      "installation_date": "2020-01-30",
+      "serial_number": "SN-582206"
+    },
+    "677": {
+      "position": [
+        129,
+        230
+      ],
+      "installation_date": "2024-11-28",
+      "serial_number": "SN-946083"
+    },
+    "678": {
+      "position": [
+        451,
+        408
+      ],
+      "installation_date": "2023-12-07",
+      "serial_number": "SN-712745"
+    },
+    "679": {
+      "position": [
+        451,
+        59
+      ],
+      "installation_date": "2023-12-06",
+      "serial_number": "SN-710655"
+    },
+    "680": {
+      "position": [
+        744,
+        302
+      ],
+      "installation_date": "2021-12-13",
+      "serial_number": "SN-702940"
+    },
+    "681": {
+      "position": [
+        291,
+        116
+      ],
+      "installation_date": "2021-11-02",
+      "serial_number": "SN-296370"
+    },
+    "682": {
+      "position": [
+        17,
+        231
+      ],
+      "installation_date": "2022-07-04",
+      "serial_number": "SN-998532"
+    },
+    "683": {
+      "position": [
+        853,
+        216
+      ],
+      "installation_date": "2023-07-15",
+      "serial_number": "SN-835855"
+    },
+    "684": {
+      "position": [
+        809,
+        41
+      ],
+      "installation_date": "2020-05-26",
+      "serial_number": "SN-339104"
+    },
+    "685": {
+      "position": [
+        218,
+        416
+      ],
+      "installation_date": "2020-12-03",
+      "serial_number": "SN-282503"
+    },
+    "686": {
+      "position": [
+        48,
+        201
+      ],
+      "installation_date": "2022-03-20",
+      "serial_number": "SN-373628"
+    },
+    "687": {
+      "position": [
+        915,
+        489
+      ],
+      "installation_date": "2023-08-20",
+      "serial_number": "SN-395399"
+    },
+    "688": {
+      "position": [
+        309,
+        102
+      ],
+      "installation_date": "2022-05-11",
+      "serial_number": "SN-197187"
+    },
+    "689": {
+      "position": [
+        643,
+        272
+      ],
+      "installation_date": "2022-02-01",
+      "serial_number": "SN-425352"
+    },
+    "690": {
+      "position": [
+        181,
+        346
+      ],
+      "installation_date": "2023-09-04",
+      "serial_number": "SN-111475"
+    },
+    "691": {
+      "position": [
+        950,
+        64
+      ],
+      "installation_date": "2024-03-09",
+      "serial_number": "SN-683793"
+    },
+    "692": {
+      "position": [
+        559,
+        208
+      ],
+      "installation_date": "2020-01-14",
+      "serial_number": "SN-976659"
+    },
+    "693": {
+      "position": [
+        294,
+        257
+      ],
+      "installation_date": "2024-12-27",
+      "serial_number": "SN-719112"
+    },
+    "694": {
+      "position": [
+        664,
+        128
+      ],
+      "installation_date": "2022-01-21",
+      "serial_number": "SN-129240"
+    },
+    "695": {
+      "position": [
+        801,
+        420
+      ],
+      "installation_date": "2024-02-24",
+      "serial_number": "SN-791909"
+    },
+    "696": {
+      "position": [
+        432,
+        511
+      ],
+      "installation_date": "2023-07-21",
+      "serial_number": "SN-328827"
+    },
+    "697": {
+      "position": [
+        848,
+        254
+      ],
+      "installation_date": "2023-04-19",
+      "serial_number": "SN-136381"
+    },
+    "698": {
+      "position": [
+        554,
+        124
+      ],
+      "installation_date": "2024-05-04",
+      "serial_number": "SN-252589"
+    },
+    "699": {
+      "position": [
+        900,
+        280
+      ],
+      "installation_date": "2021-10-30",
+      "serial_number": "SN-510674"
+    },
+    "700": {
+      "position": [
+        779,
+        320
+      ],
+      "installation_date": "2020-12-10",
+      "serial_number": "SN-895602"
+    },
+    "701": {
+      "position": [
+        124,
+        377
+      ],
+      "installation_date": "2023-06-28",
+      "serial_number": "SN-288951"
+    },
+    "702": {
+      "position": [
+        815,
+        274
+      ],
+      "installation_date": "2023-01-02",
+      "serial_number": "SN-881349"
+    },
+    "703": {
+      "position": [
+        37,
+        205
+      ],
+      "installation_date": "2020-05-22",
+      "serial_number": "SN-783680"
+    },
+    "704": {
+      "position": [
+        135,
+        30
+      ],
+      "installation_date": "2020-01-11",
+      "serial_number": "SN-330082"
+    },
+    "705": {
+      "position": [
+        466,
+        230
+      ],
+      "installation_date": "2021-05-11",
+      "serial_number": "SN-135474"
+    },
+    "706": {
+      "position": [
+        855,
+        340
+      ],
+      "installation_date": "2023-04-20",
+      "serial_number": "SN-495370"
+    },
+    "707": {
+      "position": [
+        713,
+        447
+      ],
+      "installation_date": "2024-08-23",
+      "serial_number": "SN-473627"
+    },
+    "708": {
+      "position": [
+        727,
+        386
+      ],
+      "installation_date": "2021-07-03",
+      "serial_number": "SN-757805"
+    },
+    "709": {
+      "position": [
+        338,
+        270
+      ],
+      "installation_date": "2024-06-03",
+      "serial_number": "SN-180801"
+    },
+    "710": {
+      "position": [
+        770,
+        52
+      ],
+      "installation_date": "2022-08-03",
+      "serial_number": "SN-435236"
+    },
+    "711": {
+      "position": [
+        242,
+        191
+      ],
+      "installation_date": "2024-03-01",
+      "serial_number": "SN-764776"
+    },
+    "712": {
+      "position": [
+        338,
+        274
+      ],
+      "installation_date": "2022-01-04",
+      "serial_number": "SN-740783"
+    },
+    "713": {
+      "position": [
+        280,
+        154
+      ],
+      "installation_date": "2023-05-01",
+      "serial_number": "SN-611590"
+    },
+    "714": {
+      "position": [
+        241,
+        244
+      ],
+      "installation_date": "2022-05-04",
+      "serial_number": "SN-836945"
+    },
+    "715": {
+      "position": [
+        95,
+        139
+      ],
+      "installation_date": "2022-08-02",
+      "serial_number": "SN-761772"
+    },
+    "716": {
+      "position": [
+        76,
+        163
+      ],
+      "installation_date": "2021-02-21",
+      "serial_number": "SN-765869"
+    },
+    "717": {
+      "position": [
+        307,
+        173
+      ],
+      "installation_date": "2022-01-11",
+      "serial_number": "SN-102341"
+    },
+    "718": {
+      "position": [
+        545,
+        367
+      ],
+      "installation_date": "2024-05-15",
+      "serial_number": "SN-878237"
+    },
+    "719": {
+      "position": [
+        914,
+        515
+      ],
+      "installation_date": "2023-08-21",
+      "serial_number": "SN-778050"
+    },
+    "720": {
+      "position": [
+        942,
+        242
+      ],
+      "installation_date": "2021-04-05",
+      "serial_number": "SN-958560"
+    },
+    "721": {
+      "position": [
+        640,
+        70
+      ],
+      "installation_date": "2021-08-31",
+      "serial_number": "SN-782762"
+    },
+    "722": {
+      "position": [
+        205,
+        28
+      ],
+      "installation_date": "2021-06-13",
+      "serial_number": "SN-597458"
+    },
+    "723": {
+      "position": [
+        223,
+        335
+      ],
+      "installation_date": "2023-03-06",
+      "serial_number": "SN-343035"
+    },
+    "724": {
+      "position": [
+        931,
+        197
+      ],
+      "installation_date": "2020-01-28",
+      "serial_number": "SN-513494"
+    },
+    "725": {
+      "position": [
+        149,
+        46
+      ],
+      "installation_date": "2020-06-07",
+      "serial_number": "SN-417446"
+    },
+    "726": {
+      "position": [
+        60,
+        283
+      ],
+      "installation_date": "2023-02-04",
+      "serial_number": "SN-989303"
+    },
+    "727": {
+      "position": [
+        23,
+        14
+      ],
+      "installation_date": "2024-12-21",
+      "serial_number": "SN-840829"
+    },
+    "728": {
+      "position": [
+        251,
+        64
+      ],
+      "installation_date": "2022-10-26",
+      "serial_number": "SN-776631"
+    },
+    "729": {
+      "position": [
+        888,
+        76
+      ],
+      "installation_date": "2021-06-17",
+      "serial_number": "SN-637026"
+    },
+    "730": {
+      "position": [
+        853,
+        399
+      ],
+      "installation_date": "2020-04-20",
+      "serial_number": "SN-623370"
+    },
+    "731": {
+      "position": [
+        213,
+        106
+      ],
+      "installation_date": "2022-01-12",
+      "serial_number": "SN-137407"
+    },
+    "732": {
+      "position": [
+        118,
+        143
+      ],
+      "installation_date": "2021-01-30",
+      "serial_number": "SN-440181"
+    },
+    "733": {
+      "position": [
+        974,
+        229
+      ],
+      "installation_date": "2024-01-01",
+      "serial_number": "SN-200739"
+    },
+    "734": {
+      "position": [
+        507,
+        113
+      ],
+      "installation_date": "2024-06-30",
+      "serial_number": "SN-601509"
+    },
+    "735": {
+      "position": [
+        901,
+        464
+      ],
+      "installation_date": "2021-01-24",
+      "serial_number": "SN-853027"
+    },
+    "736": {
+      "position": [
+        614,
+        28
+      ],
+      "installation_date": "2024-02-18",
+      "serial_number": "SN-626030"
+    },
+    "737": {
+      "position": [
+        54,
+        208
+      ],
+      "installation_date": "2023-03-13",
+      "serial_number": "SN-891656"
+    },
+    "738": {
+      "position": [
+        798,
+        155
+      ],
+      "installation_date": "2023-12-07",
+      "serial_number": "SN-915593"
+    },
+    "739": {
+      "position": [
+        184,
+        10
+      ],
+      "installation_date": "2022-10-16",
+      "serial_number": "SN-237880"
+    },
+    "740": {
+      "position": [
+        437,
+        446
+      ],
+      "installation_date": "2020-07-22",
+      "serial_number": "SN-305708"
+    },
+    "741": {
+      "position": [
+        540,
+        366
+      ],
+      "installation_date": "2023-06-28",
+      "serial_number": "SN-394946"
+    },
+    "742": {
+      "position": [
+        227,
+        323
+      ],
+      "installation_date": "2024-09-30",
+      "serial_number": "SN-755396"
+    },
+    "743": {
+      "position": [
+        437,
+        318
+      ],
+      "installation_date": "2021-07-25",
+      "serial_number": "SN-518745"
+    },
+    "744": {
+      "position": [
+        514,
+        497
+      ],
+      "installation_date": "2020-01-04",
+      "serial_number": "SN-761766"
+    },
+    "745": {
+      "position": [
+        906,
+        523
+      ],
+      "installation_date": "2024-04-30",
+      "serial_number": "SN-475318"
+    },
+    "746": {
+      "position": [
+        403,
+        458
+      ],
+      "installation_date": "2023-05-06",
+      "serial_number": "SN-300317"
+    },
+    "747": {
+      "position": [
+        618,
+        282
+      ],
+      "installation_date": "2022-08-01",
+      "serial_number": "SN-351928"
+    },
+    "748": {
+      "position": [
+        930,
+        443
+      ],
+      "installation_date": "2023-02-09",
+      "serial_number": "SN-467611"
+    },
+    "749": {
+      "position": [
+        244,
+        467
+      ],
+      "installation_date": "2022-03-20",
+      "serial_number": "SN-849961"
+    },
+    "750": {
+      "position": [
+        335,
+        233
+      ],
+      "installation_date": "2021-10-23",
+      "serial_number": "SN-625619"
+    },
+    "751": {
+      "position": [
+        693,
+        432
+      ],
+      "installation_date": "2021-05-19",
+      "serial_number": "SN-305012"
+    },
+    "752": {
+      "position": [
+        720,
+        426
+      ],
+      "installation_date": "2022-02-24",
+      "serial_number": "SN-596132"
+    },
+    "753": {
+      "position": [
+        955,
+        368
+      ],
+      "installation_date": "2020-03-20",
+      "serial_number": "SN-596098"
+    },
+    "754": {
+      "position": [
+        269,
+        135
+      ],
+      "installation_date": "2021-11-07",
+      "serial_number": "SN-716329"
+    },
+    "755": {
+      "position": [
+        529,
+        343
+      ],
+      "installation_date": "2020-03-27",
+      "serial_number": "SN-745529"
+    },
+    "756": {
+      "position": [
+        505,
+        118
+      ],
+      "installation_date": "2021-10-12",
+      "serial_number": "SN-419067"
+    },
+    "757": {
+      "position": [
+        938,
+        40
+      ],
+      "installation_date": "2020-01-09",
+      "serial_number": "SN-355803"
+    },
+    "758": {
+      "position": [
+        144,
+        250
+      ],
+      "installation_date": "2023-01-17",
+      "serial_number": "SN-318342"
+    },
+    "759": {
+      "position": [
+        7,
+        418
+      ],
+      "installation_date": "2021-05-13",
+      "serial_number": "SN-217135"
+    },
+    "760": {
+      "position": [
+        126,
+        454
+      ],
+      "installation_date": "2021-12-25",
+      "serial_number": "SN-509266"
+    },
+    "761": {
+      "position": [
+        461,
+        513
+      ],
+      "installation_date": "2022-12-26",
+      "serial_number": "SN-873283"
+    },
+    "762": {
+      "position": [
+        242,
+        21
+      ],
+      "installation_date": "2024-06-30",
+      "serial_number": "SN-610122"
+    },
+    "763": {
+      "position": [
+        295,
+        338
+      ],
+      "installation_date": "2023-11-17",
+      "serial_number": "SN-917223"
+    },
+    "764": {
+      "position": [
+        45,
+        442
+      ],
+      "installation_date": "2020-12-07",
+      "serial_number": "SN-187799"
+    },
+    "765": {
+      "position": [
+        419,
+        438
+      ],
+      "installation_date": "2022-08-12",
+      "serial_number": "SN-114482"
+    },
+    "766": {
+      "position": [
+        180,
+        351
+      ],
+      "installation_date": "2022-04-02",
+      "serial_number": "SN-632370"
+    },
+    "767": {
+      "position": [
+        78,
+        99
+      ],
+      "installation_date": "2024-06-03",
+      "serial_number": "SN-393345"
+    },
+    "768": {
+      "position": [
+        487,
+        5
+      ],
+      "installation_date": "2024-11-09",
+      "serial_number": "SN-809632"
+    },
+    "769": {
+      "position": [
+        395,
+        376
+      ],
+      "installation_date": "2023-01-06",
+      "serial_number": "SN-710307"
+    },
+    "770": {
+      "position": [
+        719,
+        330
+      ],
+      "installation_date": "2023-04-29",
+      "serial_number": "SN-458908"
+    },
+    "771": {
+      "position": [
+        985,
+        132
+      ],
+      "installation_date": "2020-11-19",
+      "serial_number": "SN-561362"
+    },
+    "772": {
+      "position": [
+        662,
+        26
+      ],
+      "installation_date": "2021-02-24",
+      "serial_number": "SN-723584"
+    },
+    "773": {
+      "position": [
+        957,
+        260
+      ],
+      "installation_date": "2020-03-27",
+      "serial_number": "SN-415767"
+    },
+    "774": {
+      "position": [
+        290,
+        381
+      ],
+      "installation_date": "2022-09-09",
+      "serial_number": "SN-333750"
+    },
+    "775": {
+      "position": [
+        8,
+        214
+      ],
+      "installation_date": "2020-09-12",
+      "serial_number": "SN-647642"
+    },
+    "776": {
+      "position": [
+        486,
+        91
+      ],
+      "installation_date": "2023-04-29",
+      "serial_number": "SN-398529"
+    },
+    "777": {
+      "position": [
+        554,
+        417
+      ],
+      "installation_date": "2020-11-29",
+      "serial_number": "SN-631972"
+    },
+    "778": {
+      "position": [
+        288,
+        112
+      ],
+      "installation_date": "2020-08-29",
+      "serial_number": "SN-387279"
+    },
+    "779": {
+      "position": [
+        189,
+        52
+      ],
+      "installation_date": "2024-05-15",
+      "serial_number": "SN-462068"
+    },
+    "780": {
+      "position": [
+        749,
+        183
+      ],
+      "installation_date": "2021-06-23",
+      "serial_number": "SN-135641"
+    },
+    "781": {
+      "position": [
+        62,
+        476
+      ],
+      "installation_date": "2024-04-05",
+      "serial_number": "SN-953165"
+    },
+    "782": {
+      "position": [
+        1009,
+        322
+      ],
+      "installation_date": "2022-12-11",
+      "serial_number": "SN-584857"
+    },
+    "783": {
+      "position": [
+        350,
+        248
+      ],
+      "installation_date": "2022-04-26",
+      "serial_number": "SN-780954"
+    },
+    "784": {
+      "position": [
+        858,
+        514
+      ],
+      "installation_date": "2023-10-25",
+      "serial_number": "SN-814152"
+    },
+    "785": {
+      "position": [
+        829,
+        194
+      ],
+      "installation_date": "2021-11-14",
+      "serial_number": "SN-860193"
+    },
+    "786": {
+      "position": [
+        588,
+        433
+      ],
+      "installation_date": "2021-06-06",
+      "serial_number": "SN-469485"
+    },
+    "787": {
+      "position": [
+        704,
+        263
+      ],
+      "installation_date": "2020-12-14",
+      "serial_number": "SN-840195"
+    },
+    "788": {
+      "position": [
+        514,
+        136
+      ],
+      "installation_date": "2023-08-30",
+      "serial_number": "SN-196128"
+    },
+    "789": {
+      "position": [
+        75,
+        146
+      ],
+      "installation_date": "2022-11-06",
+      "serial_number": "SN-521453"
+    },
+    "790": {
+      "position": [
+        163,
+        159
+      ],
+      "installation_date": "2024-08-31",
+      "serial_number": "SN-452176"
+    },
+    "791": {
+      "position": [
+        258,
+        483
+      ],
+      "installation_date": "2022-02-14",
+      "serial_number": "SN-142043"
+    },
+    "792": {
+      "position": [
+        986,
+        113
+      ],
+      "installation_date": "2020-10-06",
+      "serial_number": "SN-521509"
+    },
+    "793": {
+      "position": [
+        38,
+        418
+      ],
+      "installation_date": "2023-02-19",
+      "serial_number": "SN-105521"
+    },
+    "794": {
+      "position": [
+        265,
+        333
+      ],
+      "installation_date": "2020-12-01",
+      "serial_number": "SN-218255"
+    },
+    "795": {
+      "position": [
+        66,
+        408
+      ],
+      "installation_date": "2021-07-18",
+      "serial_number": "SN-290858"
+    },
+    "796": {
+      "position": [
+        463,
+        179
+      ],
+      "installation_date": "2024-10-12",
+      "serial_number": "SN-271317"
+    },
+    "797": {
+      "position": [
+        703,
+        422
+      ],
+      "installation_date": "2021-02-24",
+      "serial_number": "SN-921404"
+    },
+    "798": {
+      "position": [
+        952,
+        405
+      ],
+      "installation_date": "2024-06-02",
+      "serial_number": "SN-489931"
+    },
+    "799": {
+      "position": [
+        699,
+        142
+      ],
+      "installation_date": "2022-02-19",
+      "serial_number": "SN-572925"
+    },
+    "800": {
+      "position": [
+        576,
+        383
+      ],
+      "installation_date": "2020-12-17",
+      "serial_number": "SN-981626"
+    },
+    "801": {
+      "position": [
+        152,
+        500
+      ],
+      "installation_date": "2021-09-22",
+      "serial_number": "SN-873434"
+    },
+    "802": {
+      "position": [
+        967,
+        380
+      ],
+      "installation_date": "2023-03-20",
+      "serial_number": "SN-757079"
+    },
+    "803": {
+      "position": [
+        466,
+        207
+      ],
+      "installation_date": "2020-04-17",
+      "serial_number": "SN-786895"
+    },
+    "804": {
+      "position": [
+        787,
+        84
+      ],
+      "installation_date": "2020-10-09",
+      "serial_number": "SN-819048"
+    },
+    "805": {
+      "position": [
+        565,
+        321
+      ],
+      "installation_date": "2022-05-29",
+      "serial_number": "SN-348832"
+    },
+    "806": {
+      "position": [
+        470,
+        17
+      ],
+      "installation_date": "2021-07-12",
+      "serial_number": "SN-874409"
+    },
+    "807": {
+      "position": [
+        163,
+        366
+      ],
+      "installation_date": "2024-04-08",
+      "serial_number": "SN-885588"
+    },
+    "808": {
+      "position": [
+        161,
+        394
+      ],
+      "installation_date": "2022-11-22",
+      "serial_number": "SN-663975"
+    },
+    "809": {
+      "position": [
+        460,
+        158
+      ],
+      "installation_date": "2022-09-27",
+      "serial_number": "SN-352276"
+    },
+    "810": {
+      "position": [
+        356,
+        428
+      ],
+      "installation_date": "2022-12-08",
+      "serial_number": "SN-594647"
+    },
+    "811": {
+      "position": [
+        118,
+        382
+      ],
+      "installation_date": "2020-05-05",
+      "serial_number": "SN-769240"
+    },
+    "812": {
+      "position": [
+        730,
+        13
+      ],
+      "installation_date": "2022-05-14",
+      "serial_number": "SN-401518"
+    },
+    "813": {
+      "position": [
+        495,
+        209
+      ],
+      "installation_date": "2023-01-17",
+      "serial_number": "SN-916607"
+    },
+    "814": {
+      "position": [
+        83,
+        276
+      ],
+      "installation_date": "2023-06-25",
+      "serial_number": "SN-104483"
+    },
+    "815": {
+      "position": [
+        366,
+        505
+      ],
+      "installation_date": "2023-06-20",
+      "serial_number": "SN-510188"
+    },
+    "816": {
+      "position": [
+        482,
+        19
+      ],
+      "installation_date": "2023-08-02",
+      "serial_number": "SN-855394"
+    },
+    "817": {
+      "position": [
+        479,
+        480
+      ],
+      "installation_date": "2023-12-07",
+      "serial_number": "SN-985093"
+    },
+    "818": {
+      "position": [
+        361,
+        41
+      ],
+      "installation_date": "2020-01-04",
+      "serial_number": "SN-578730"
+    },
+    "819": {
+      "position": [
+        140,
+        73
+      ],
+      "installation_date": "2022-02-23",
+      "serial_number": "SN-580990"
+    },
+    "820": {
+      "position": [
+        772,
+        373
+      ],
+      "installation_date": "2022-10-26",
+      "serial_number": "SN-517939"
+    },
+    "821": {
+      "position": [
+        961,
+        410
+      ],
+      "installation_date": "2020-06-27",
+      "serial_number": "SN-837545"
+    },
+    "822": {
+      "position": [
+        534,
+        514
+      ],
+      "installation_date": "2020-04-12",
+      "serial_number": "SN-267054"
+    },
+    "823": {
+      "position": [
+        596,
+        38
+      ],
+      "installation_date": "2020-04-28",
+      "serial_number": "SN-297531"
+    },
+    "824": {
+      "position": [
+        677,
+        404
+      ],
+      "installation_date": "2024-02-16",
+      "serial_number": "SN-873458"
+    },
+    "825": {
+      "position": [
+        582,
+        189
+      ],
+      "installation_date": "2023-03-02",
+      "serial_number": "SN-331113"
+    },
+    "826": {
+      "position": [
+        903,
+        517
+      ],
+      "installation_date": "2024-06-05",
+      "serial_number": "SN-653448"
+    },
+    "827": {
+      "position": [
+        354,
+        372
+      ],
+      "installation_date": "2021-03-18",
+      "serial_number": "SN-479402"
+    },
+    "828": {
+      "position": [
+        381,
+        84
+      ],
+      "installation_date": "2021-01-11",
+      "serial_number": "SN-394657"
+    },
+    "829": {
+      "position": [
+        824,
+        371
+      ],
+      "installation_date": "2023-04-24",
+      "serial_number": "SN-903621"
+    },
+    "830": {
+      "position": [
+        854,
+        336
+      ],
+      "installation_date": "2023-11-05",
+      "serial_number": "SN-964420"
+    },
+    "831": {
+      "position": [
+        176,
+        319
+      ],
+      "installation_date": "2023-06-18",
+      "serial_number": "SN-827077"
+    },
+    "832": {
+      "position": [
+        468,
+        106
+      ],
+      "installation_date": "2021-04-13",
+      "serial_number": "SN-329532"
+    },
+    "833": {
+      "position": [
+        355,
+        297
+      ],
+      "installation_date": "2022-11-01",
+      "serial_number": "SN-234470"
+    },
+    "834": {
+      "position": [
+        599,
+        179
+      ],
+      "installation_date": "2021-09-26",
+      "serial_number": "SN-560154"
+    },
+    "835": {
+      "position": [
+        670,
+        72
+      ],
+      "installation_date": "2021-12-24",
+      "serial_number": "SN-729877"
+    },
+    "836": {
+      "position": [
+        640,
+        379
+      ],
+      "installation_date": "2024-04-23",
+      "serial_number": "SN-327071"
+    },
+    "837": {
+      "position": [
+        134,
+        518
+      ],
+      "installation_date": "2022-08-25",
+      "serial_number": "SN-678012"
+    },
+    "838": {
+      "position": [
+        399,
+        86
+      ],
+      "installation_date": "2021-12-16",
+      "serial_number": "SN-124751"
+    },
+    "839": {
+      "position": [
+        1022,
+        43
+      ],
+      "installation_date": "2024-07-11",
+      "serial_number": "SN-332506"
+    },
+    "840": {
+      "position": [
+        833,
+        112
+      ],
+      "installation_date": "2023-04-01",
+      "serial_number": "SN-693640"
+    },
+    "841": {
+      "position": [
+        456,
+        409
+      ],
+      "installation_date": "2022-04-23",
+      "serial_number": "SN-592877"
+    },
+    "842": {
+      "position": [
+        530,
+        205
+      ],
+      "installation_date": "2023-03-29",
+      "serial_number": "SN-357802"
+    },
+    "843": {
+      "position": [
+        316,
+        395
+      ],
+      "installation_date": "2024-01-28",
+      "serial_number": "SN-286031"
+    },
+    "844": {
+      "position": [
+        585,
+        62
+      ],
+      "installation_date": "2022-10-25",
+      "serial_number": "SN-253710"
+    },
+    "845": {
+      "position": [
+        518,
+        431
+      ],
+      "installation_date": "2022-07-11",
+      "serial_number": "SN-279950"
+    },
+    "846": {
+      "position": [
+        286,
+        37
+      ],
+      "installation_date": "2024-08-26",
+      "serial_number": "SN-975753"
+    },
+    "847": {
+      "position": [
+        122,
+        93
+      ],
+      "installation_date": "2021-01-07",
+      "serial_number": "SN-451423"
+    },
+    "848": {
+      "position": [
+        644,
+        405
+      ],
+      "installation_date": "2023-05-15",
+      "serial_number": "SN-127988"
+    },
+    "849": {
+      "position": [
+        849,
+        203
+      ],
+      "installation_date": "2022-09-06",
+      "serial_number": "SN-761213"
+    },
+    "850": {
+      "position": [
+        583,
+        438
+      ],
+      "installation_date": "2024-07-15",
+      "serial_number": "SN-965916"
+    },
+    "851": {
+      "position": [
+        157,
+        247
+      ],
+      "installation_date": "2023-12-23",
+      "serial_number": "SN-689719"
+    },
+    "852": {
+      "position": [
+        158,
+        481
+      ],
+      "installation_date": "2021-03-20",
+      "serial_number": "SN-131010"
+    },
+    "853": {
+      "position": [
+        462,
+        485
+      ],
+      "installation_date": "2024-04-29",
+      "serial_number": "SN-753180"
+    },
+    "854": {
+      "position": [
+        372,
+        330
+      ],
+      "installation_date": "2023-09-28",
+      "serial_number": "SN-513605"
+    },
+    "855": {
+      "position": [
+        2,
+        218
+      ],
+      "installation_date": "2020-08-26",
+      "serial_number": "SN-108572"
+    },
+    "856": {
+      "position": [
+        962,
+        478
+      ],
+      "installation_date": "2021-02-24",
+      "serial_number": "SN-449588"
+    },
+    "857": {
+      "position": [
+        272,
+        108
+      ],
+      "installation_date": "2021-12-16",
+      "serial_number": "SN-189093"
+    },
+    "858": {
+      "position": [
+        475,
+        69
+      ],
+      "installation_date": "2024-10-29",
+      "serial_number": "SN-588180"
+    },
+    "859": {
+      "position": [
+        48,
+        388
+      ],
+      "installation_date": "2022-01-28",
+      "serial_number": "SN-224547"
+    },
+    "860": {
+      "position": [
+        1002,
+        94
+      ],
+      "installation_date": "2024-04-06",
+      "serial_number": "SN-235123"
+    },
+    "861": {
+      "position": [
+        24,
+        250
+      ],
+      "installation_date": "2021-11-25",
+      "serial_number": "SN-899056"
+    },
+    "862": {
+      "position": [
+        763,
+        101
+      ],
+      "installation_date": "2022-08-16",
+      "serial_number": "SN-604374"
+    },
+    "863": {
+      "position": [
+        198,
+        444
+      ],
+      "installation_date": "2021-09-17",
+      "serial_number": "SN-938752"
+    },
+    "864": {
+      "position": [
+        290,
+        333
+      ],
+      "installation_date": "2021-09-12",
+      "serial_number": "SN-395950"
+    },
+    "865": {
+      "position": [
+        371,
+        70
+      ],
+      "installation_date": "2020-06-06",
+      "serial_number": "SN-996867"
+    },
+    "866": {
+      "position": [
+        830,
+        359
+      ],
+      "installation_date": "2023-11-13",
+      "serial_number": "SN-314449"
+    },
+    "867": {
+      "position": [
+        493,
+        48
+      ],
+      "installation_date": "2020-12-24",
+      "serial_number": "SN-424720"
+    },
+    "868": {
+      "position": [
+        302,
+        388
+      ],
+      "installation_date": "2023-10-07",
+      "serial_number": "SN-587374"
+    },
+    "869": {
+      "position": [
+        578,
+        76
+      ],
+      "installation_date": "2022-11-14",
+      "serial_number": "SN-229960"
+    },
+    "870": {
+      "position": [
+        266,
+        405
+      ],
+      "installation_date": "2022-04-25",
+      "serial_number": "SN-241374"
+    },
+    "871": {
+      "position": [
+        364,
+        389
+      ],
+      "installation_date": "2020-05-17",
+      "serial_number": "SN-482516"
+    },
+    "872": {
+      "position": [
+        15,
+        272
+      ],
+      "installation_date": "2021-04-13",
+      "serial_number": "SN-423461"
+    },
+    "873": {
+      "position": [
+        65,
+        221
+      ],
+      "installation_date": "2023-04-03",
+      "serial_number": "SN-910761"
+    },
+    "874": {
+      "position": [
+        810,
+        59
+      ],
+      "installation_date": "2020-07-14",
+      "serial_number": "SN-284166"
+    },
+    "875": {
+      "position": [
+        453,
+        218
+      ],
+      "installation_date": "2023-12-09",
+      "serial_number": "SN-774331"
+    },
+    "876": {
+      "position": [
+        438,
+        366
+      ],
+      "installation_date": "2022-12-23",
+      "serial_number": "SN-356732"
+    },
+    "877": {
+      "position": [
+        182,
+        145
+      ],
+      "installation_date": "2021-02-10",
+      "serial_number": "SN-529260"
+    },
+    "878": {
+      "position": [
+        921,
+        277
+      ],
+      "installation_date": "2024-12-28",
+      "serial_number": "SN-192747"
+    },
+    "879": {
+      "position": [
+        282,
+        5
+      ],
+      "installation_date": "2020-06-06",
+      "serial_number": "SN-357299"
+    },
+    "880": {
+      "position": [
+        473,
+        412
+      ],
+      "installation_date": "2023-02-26",
+      "serial_number": "SN-422614"
+    },
+    "881": {
+      "position": [
+        977,
+        455
+      ],
+      "installation_date": "2020-02-29",
+      "serial_number": "SN-863582"
+    },
+    "882": {
+      "position": [
+        471,
+        339
+      ],
+      "installation_date": "2020-03-31",
+      "serial_number": "SN-205517"
+    },
+    "883": {
+      "position": [
+        357,
+        126
+      ],
+      "installation_date": "2023-09-05",
+      "serial_number": "SN-141249"
+    },
+    "884": {
+      "position": [
+        663,
+        228
+      ],
+      "installation_date": "2023-02-17",
+      "serial_number": "SN-743363"
+    },
+    "885": {
+      "position": [
+        694,
+        210
+      ],
+      "installation_date": "2020-08-31",
+      "serial_number": "SN-949090"
+    },
+    "886": {
+      "position": [
+        444,
+        67
+      ],
+      "installation_date": "2023-04-24",
+      "serial_number": "SN-142380"
+    },
+    "887": {
+      "position": [
+        212,
+        133
+      ],
+      "installation_date": "2022-06-19",
+      "serial_number": "SN-199739"
+    },
+    "888": {
+      "position": [
+        844,
+        300
+      ],
+      "installation_date": "2020-09-19",
+      "serial_number": "SN-698106"
+    },
+    "889": {
+      "position": [
+        696,
+        19
+      ],
+      "installation_date": "2020-01-28",
+      "serial_number": "SN-970018"
+    },
+    "890": {
+      "position": [
+        207,
+        129
+      ],
+      "installation_date": "2021-02-28",
+      "serial_number": "SN-948134"
+    },
+    "891": {
+      "position": [
+        936,
+        313
+      ],
+      "installation_date": "2023-08-19",
+      "serial_number": "SN-892644"
+    },
+    "892": {
+      "position": [
+        306,
+        140
+      ],
+      "installation_date": "2020-05-07",
+      "serial_number": "SN-791595"
+    },
+    "893": {
+      "position": [
+        666,
+        385
+      ],
+      "installation_date": "2022-11-01",
+      "serial_number": "SN-630979"
+    },
+    "894": {
+      "position": [
+        116,
+        217
+      ],
+      "installation_date": "2022-01-04",
+      "serial_number": "SN-854740"
+    },
+    "895": {
+      "position": [
+        690,
+        32
+      ],
+      "installation_date": "2021-09-21",
+      "serial_number": "SN-722935"
+    },
+    "896": {
+      "position": [
+        280,
+        348
+      ],
+      "installation_date": "2024-08-20",
+      "serial_number": "SN-180722"
+    },
+    "897": {
+      "position": [
+        166,
+        214
+      ],
+      "installation_date": "2021-05-25",
+      "serial_number": "SN-305474"
+    },
+    "898": {
+      "position": [
+        3,
+        419
+      ],
+      "installation_date": "2020-09-11",
+      "serial_number": "SN-567331"
+    },
+    "899": {
+      "position": [
+        280,
+        450
+      ],
+      "installation_date": "2024-09-16",
+      "serial_number": "SN-254832"
+    },
+    "900": {
+      "position": [
+        221,
+        440
+      ],
+      "installation_date": "2022-04-14",
+      "serial_number": "SN-454956"
+    },
+    "901": {
+      "position": [
+        997,
+        298
+      ],
+      "installation_date": "2023-05-20",
+      "serial_number": "SN-107516"
+    },
+    "902": {
+      "position": [
+        332,
+        189
+      ],
+      "installation_date": "2021-11-20",
+      "serial_number": "SN-503427"
+    },
+    "903": {
+      "position": [
+        26,
+        498
+      ],
+      "installation_date": "2024-02-20",
+      "serial_number": "SN-873003"
+    },
+    "904": {
+      "position": [
+        330,
+        322
+      ],
+      "installation_date": "2020-08-06",
+      "serial_number": "SN-341039"
+    },
+    "905": {
+      "position": [
+        997,
+        233
+      ],
+      "installation_date": "2022-01-27",
+      "serial_number": "SN-970790"
+    },
+    "906": {
+      "position": [
+        335,
+        415
+      ],
+      "installation_date": "2022-08-19",
+      "serial_number": "SN-491345"
+    },
+    "907": {
+      "position": [
+        273,
+        46
+      ],
+      "installation_date": "2022-09-21",
+      "serial_number": "SN-107753"
+    },
+    "908": {
+      "position": [
+        972,
+        260
+      ],
+      "installation_date": "2021-05-17",
+      "serial_number": "SN-239497"
+    },
+    "909": {
+      "position": [
+        68,
+        454
+      ],
+      "installation_date": "2024-03-31",
+      "serial_number": "SN-609980"
+    },
+    "910": {
+      "position": [
+        516,
+        241
+      ],
+      "installation_date": "2022-08-11",
+      "serial_number": "SN-279055"
+    },
+    "911": {
+      "position": [
+        404,
+        109
+      ],
+      "installation_date": "2023-06-21",
+      "serial_number": "SN-921102"
+    },
+    "912": {
+      "position": [
+        677,
+        370
+      ],
+      "installation_date": "2020-02-02",
+      "serial_number": "SN-190842"
+    },
+    "913": {
+      "position": [
+        58,
+        442
+      ],
+      "installation_date": "2024-05-09",
+      "serial_number": "SN-200679"
+    },
+    "914": {
+      "position": [
+        640,
+        396
+      ],
+      "installation_date": "2024-05-11",
+      "serial_number": "SN-724936"
+    },
+    "915": {
+      "position": [
+        265,
+        378
+      ],
+      "installation_date": "2024-07-03",
+      "serial_number": "SN-620427"
+    },
+    "916": {
+      "position": [
+        0,
+        132
+      ],
+      "installation_date": "2021-11-03",
+      "serial_number": "SN-822780"
+    },
+    "917": {
+      "position": [
+        327,
+        62
+      ],
+      "installation_date": "2020-04-20",
+      "serial_number": "SN-235640"
+    },
+    "918": {
+      "position": [
+        662,
+        320
+      ],
+      "installation_date": "2023-11-27",
+      "serial_number": "SN-569345"
+    },
+    "919": {
+      "position": [
+        733,
+        312
+      ],
+      "installation_date": "2022-01-10",
+      "serial_number": "SN-165468"
+    },
+    "920": {
+      "position": [
+        667,
+        100
+      ],
+      "installation_date": "2022-09-13",
+      "serial_number": "SN-712901"
+    },
+    "921": {
+      "position": [
+        873,
+        105
+      ],
+      "installation_date": "2020-07-23",
+      "serial_number": "SN-778946"
+    },
+    "922": {
+      "position": [
+        581,
+        193
+      ],
+      "installation_date": "2024-07-09",
+      "serial_number": "SN-924281"
+    },
+    "923": {
+      "position": [
+        696,
+        104
+      ],
+      "installation_date": "2022-09-20",
+      "serial_number": "SN-881818"
+    },
+    "924": {
+      "position": [
+        337,
+        451
+      ],
+      "installation_date": "2021-07-05",
+      "serial_number": "SN-863176"
+    },
+    "925": {
+      "position": [
+        226,
+        395
+      ],
+      "installation_date": "2024-11-05",
+      "serial_number": "SN-263477"
+    },
+    "926": {
+      "position": [
+        295,
+        426
+      ],
+      "installation_date": "2022-01-09",
+      "serial_number": "SN-764808"
+    },
+    "927": {
+      "position": [
+        510,
+        125
+      ],
+      "installation_date": "2020-10-27",
+      "serial_number": "SN-668001"
+    },
+    "928": {
+      "position": [
+        45,
+        7
+      ],
+      "installation_date": "2021-12-20",
+      "serial_number": "SN-300015"
+    },
+    "929": {
+      "position": [
+        450,
+        278
+      ],
+      "installation_date": "2020-05-06",
+      "serial_number": "SN-143386"
+    },
+    "930": {
+      "position": [
+        235,
+        5
+      ],
+      "installation_date": "2020-07-24",
+      "serial_number": "SN-495240"
+    },
+    "931": {
+      "position": [
+        278,
+        89
+      ],
+      "installation_date": "2023-08-16",
+      "serial_number": "SN-647066"
+    },
+    "932": {
+      "position": [
+        342,
+        515
+      ],
+      "installation_date": "2024-06-29",
+      "serial_number": "SN-128335"
+    },
+    "933": {
+      "position": [
+        668,
+        116
+      ],
+      "installation_date": "2024-08-10",
+      "serial_number": "SN-598164"
+    },
+    "934": {
+      "position": [
+        1018,
+        160
+      ],
+      "installation_date": "2024-04-18",
+      "serial_number": "SN-937577"
+    },
+    "935": {
+      "position": [
+        84,
+        267
+      ],
+      "installation_date": "2023-08-07",
+      "serial_number": "SN-914640"
+    },
+    "936": {
+      "position": [
+        397,
+        164
+      ],
+      "installation_date": "2024-08-12",
+      "serial_number": "SN-679671"
+    },
+    "937": {
+      "position": [
+        354,
+        302
+      ],
+      "installation_date": "2024-12-03",
+      "serial_number": "SN-616637"
+    },
+    "938": {
+      "position": [
+        76,
+        187
+      ],
+      "installation_date": "2021-01-07",
+      "serial_number": "SN-888270"
+    },
+    "939": {
+      "position": [
+        726,
+        321
+      ],
+      "installation_date": "2024-03-09",
+      "serial_number": "SN-227644"
+    },
+    "940": {
+      "position": [
+        555,
+        459
+      ],
+      "installation_date": "2024-05-01",
+      "serial_number": "SN-540416"
+    },
+    "941": {
+      "position": [
+        716,
+        360
+      ],
+      "installation_date": "2021-05-31",
+      "serial_number": "SN-805712"
+    },
+    "942": {
+      "position": [
+        207,
+        155
+      ],
+      "installation_date": "2023-09-20",
+      "serial_number": "SN-916722"
+    },
+    "943": {
+      "position": [
+        927,
+        409
+      ],
+      "installation_date": "2022-06-07",
+      "serial_number": "SN-859323"
+    },
+    "944": {
+      "position": [
+        34,
+        500
+      ],
+      "installation_date": "2024-02-24",
+      "serial_number": "SN-365683"
+    },
+    "945": {
+      "position": [
+        830,
+        92
+      ],
+      "installation_date": "2023-09-14",
+      "serial_number": "SN-965531"
+    },
+    "946": {
+      "position": [
+        696,
+        96
+      ],
+      "installation_date": "2024-03-10",
+      "serial_number": "SN-278698"
+    },
+    "947": {
+      "position": [
+        698,
+        397
+      ],
+      "installation_date": "2020-07-17",
+      "serial_number": "SN-807689"
+    },
+    "948": {
+      "position": [
+        26,
+        53
+      ],
+      "installation_date": "2024-12-23",
+      "serial_number": "SN-248258"
+    },
+    "949": {
+      "position": [
+        637,
+        110
+      ],
+      "installation_date": "2020-10-08",
+      "serial_number": "SN-491686"
+    },
+    "950": {
+      "position": [
+        517,
+        101
+      ],
+      "installation_date": "2024-08-07",
+      "serial_number": "SN-121554"
+    },
+    "951": {
+      "position": [
+        534,
+        416
+      ],
+      "installation_date": "2023-09-16",
+      "serial_number": "SN-694766"
+    },
+    "952": {
+      "position": [
+        188,
+        70
+      ],
+      "installation_date": "2022-08-13",
+      "serial_number": "SN-863188"
+    },
+    "953": {
+      "position": [
+        195,
+        71
+      ],
+      "installation_date": "2023-06-27",
+      "serial_number": "SN-794961"
+    },
+    "954": {
+      "position": [
+        808,
+        70
+      ],
+      "installation_date": "2020-10-16",
+      "serial_number": "SN-847354"
+    },
+    "955": {
+      "position": [
+        773,
+        165
+      ],
+      "installation_date": "2022-02-28",
+      "serial_number": "SN-222478"
+    },
+    "956": {
+      "position": [
+        378,
+        14
+      ],
+      "installation_date": "2023-02-04",
+      "serial_number": "SN-189144"
+    },
+    "957": {
+      "position": [
+        87,
+        93
+      ],
+      "installation_date": "2024-05-19",
+      "serial_number": "SN-170762"
+    },
+    "958": {
+      "position": [
+        933,
+        326
+      ],
+      "installation_date": "2024-05-09",
+      "serial_number": "SN-238082"
+    },
+    "959": {
+      "position": [
+        630,
+        520
+      ],
+      "installation_date": "2024-10-22",
+      "serial_number": "SN-410276"
+    },
+    "960": {
+      "position": [
+        817,
+        527
+      ],
+      "installation_date": "2021-11-08",
+      "serial_number": "SN-743570"
+    },
+    "961": {
+      "position": [
+        442,
+        177
+      ],
+      "installation_date": "2022-09-26",
+      "serial_number": "SN-904032"
+    },
+    "962": {
+      "position": [
+        941,
+        512
+      ],
+      "installation_date": "2020-09-20",
+      "serial_number": "SN-365154"
+    },
+    "963": {
+      "position": [
+        717,
+        155
+      ],
+      "installation_date": "2024-11-01",
+      "serial_number": "SN-195950"
+    },
+    "964": {
+      "position": [
+        509,
+        195
+      ],
+      "installation_date": "2021-04-01",
+      "serial_number": "SN-904937"
+    },
+    "965": {
+      "position": [
+        797,
+        487
+      ],
+      "installation_date": "2023-05-06",
+      "serial_number": "SN-530392"
+    },
+    "966": {
+      "position": [
+        136,
+        118
+      ],
+      "installation_date": "2021-08-02",
+      "serial_number": "SN-518037"
+    },
+    "967": {
+      "position": [
+        369,
+        341
+      ],
+      "installation_date": "2020-06-04",
+      "serial_number": "SN-149334"
+    },
+    "968": {
+      "position": [
+        136,
+        418
+      ],
+      "installation_date": "2021-06-26",
+      "serial_number": "SN-636677"
+    },
+    "969": {
+      "position": [
+        294,
+        334
+      ],
+      "installation_date": "2021-02-01",
+      "serial_number": "SN-134330"
+    },
+    "970": {
+      "position": [
+        809,
+        293
+      ],
+      "installation_date": "2021-10-31",
+      "serial_number": "SN-366445"
+    },
+    "971": {
+      "position": [
+        924,
+        323
+      ],
+      "installation_date": "2023-09-30",
+      "serial_number": "SN-261968"
+    },
+    "972": {
+      "position": [
+        449,
+        66
+      ],
+      "installation_date": "2022-04-30",
+      "serial_number": "SN-703981"
+    },
+    "973": {
+      "position": [
+        43,
+        73
+      ],
+      "installation_date": "2023-07-25",
+      "serial_number": "SN-213339"
+    },
+    "974": {
+      "position": [
+        799,
+        244
+      ],
+      "installation_date": "2023-02-11",
+      "serial_number": "SN-634846"
+    },
+    "975": {
+      "position": [
+        319,
+        267
+      ],
+      "installation_date": "2022-08-19",
+      "serial_number": "SN-337742"
+    },
+    "976": {
+      "position": [
+        621,
+        13
+      ],
+      "installation_date": "2021-05-31",
+      "serial_number": "SN-892168"
+    },
+    "977": {
+      "position": [
+        630,
+        30
+      ],
+      "installation_date": "2021-11-14",
+      "serial_number": "SN-495859"
+    },
+    "978": {
+      "position": [
+        567,
+        267
+      ],
+      "installation_date": "2020-06-01",
+      "serial_number": "SN-838338"
+    },
+    "979": {
+      "position": [
+        453,
+        40
+      ],
+      "installation_date": "2024-02-15",
+      "serial_number": "SN-483533"
+    },
+    "980": {
+      "position": [
+        130,
+        417
+      ],
+      "installation_date": "2024-05-20",
+      "serial_number": "SN-251405"
+    },
+    "981": {
+      "position": [
+        541,
+        146
+      ],
+      "installation_date": "2023-06-24",
+      "serial_number": "SN-687263"
+    },
+    "982": {
+      "position": [
+        800,
+        260
+      ],
+      "installation_date": "2022-11-15",
+      "serial_number": "SN-785523"
+    },
+    "983": {
+      "position": [
+        821,
+        216
+      ],
+      "installation_date": "2023-07-10",
+      "serial_number": "SN-389413"
+    },
+    "984": {
+      "position": [
+        146,
+        467
+      ],
+      "installation_date": "2024-12-01",
+      "serial_number": "SN-700078"
+    },
+    "985": {
+      "position": [
+        1014,
+        523
+      ],
+      "installation_date": "2021-01-14",
+      "serial_number": "SN-984749"
+    },
+    "986": {
+      "position": [
+        641,
+        71
+      ],
+      "installation_date": "2020-07-23",
+      "serial_number": "SN-299730"
+    },
+    "987": {
+      "position": [
+        2,
+        138
+      ],
+      "installation_date": "2022-05-27",
+      "serial_number": "SN-529909"
+    },
+    "988": {
+      "position": [
+        766,
+        182
+      ],
+      "installation_date": "2021-03-26",
+      "serial_number": "SN-628522"
+    },
+    "989": {
+      "position": [
+        13,
+        343
+      ],
+      "installation_date": "2023-01-02",
+      "serial_number": "SN-920956"
+    },
+    "990": {
+      "position": [
+        265,
+        232
+      ],
+      "installation_date": "2023-10-28",
+      "serial_number": "SN-791801"
+    },
+    "991": {
+      "position": [
+        657,
+        490
+      ],
+      "installation_date": "2024-07-15",
+      "serial_number": "SN-497942"
+    },
+    "992": {
+      "position": [
+        357,
+        55
+      ],
+      "installation_date": "2024-10-22",
+      "serial_number": "SN-764583"
+    },
+    "993": {
+      "position": [
+        76,
+        156
+      ],
+      "installation_date": "2022-08-22",
+      "serial_number": "SN-514489"
+    },
+    "994": {
+      "position": [
+        726,
+        170
+      ],
+      "installation_date": "2024-02-21",
+      "serial_number": "SN-413640"
+    },
+    "995": {
+      "position": [
+        973,
+        430
+      ],
+      "installation_date": "2023-10-31",
+      "serial_number": "SN-389963"
+    },
+    "996": {
+      "position": [
+        1010,
+        481
+      ],
+      "installation_date": "2023-12-26",
+      "serial_number": "SN-630647"
+    },
+    "997": {
+      "position": [
+        696,
+        179
+      ],
+      "installation_date": "2023-05-24",
+      "serial_number": "SN-809340"
+    },
+    "998": {
+      "position": [
+        770,
+        337
+      ],
+      "installation_date": "2020-03-31",
+      "serial_number": "SN-703446"
+    },
+    "999": {
+      "position": [
+        628,
+        131
+      ],
+      "installation_date": "2022-02-12",
+      "serial_number": "SN-359148"
+    }
+  }
+}
